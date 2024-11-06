@@ -1,0 +1,5 @@
+{
+  "python.linting.enabled": false,
+  "Codegeex.GenerationPreference": "line by line",
+  "Codegeex.CompletionDelay": 0.4
+}

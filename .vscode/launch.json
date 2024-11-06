@@ -1,0 +1,153 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      // 运行命令行命令. 没有python环境
+      "command": "python manage.py runserver 8000",
+      "name": "Django_node",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/back-django"
+    },
+    {
+      "name": "Django",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/back-django/manage.py",
+      "args": ["runserver", "8000"],
+      // "django": true,
+      "justMyCode": true
+    },
+    {
+      // 运行命令行命令. 没有python环境
+      "command": "python manage.py makemigrations",
+      "name": "makemigrations_node",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/back-django"
+    },
+    {
+      "name": "makemigrations",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/back-django/manage.py",
+      "args": ["makemigrations"],
+      // "django": true,
+      "justMyCode": true
+    },
+    {
+      // 运行命令行命令. 没有python环境
+      "command": "python manage.py migrate",
+      "name": "migrate_node",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/back-django"
+    },
+    {
+      "name": "migrate",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/back-django/manage.py",
+      "args": ["migrate"],
+      // "django": true,
+      "justMyCode": true
+    },
+    {
+      // 运行python 文件
+      "name": "collectstatic",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/back-django/manage.py",
+      "args": ["collectstatic"],
+      // "django": true,
+      "justMyCode": true
+    },
+    {
+      // 运行python 文件
+      "name": "init",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/back-django/system/init/initial.py",
+      "django": true,
+      "justMyCode": true
+    },
+    {
+      "command": "cnpm i",
+      "name": "install:web",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/web"
+    },
+    {
+      "command": "cnpm run dev",
+      "name": "dev:web",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/web"
+    },
+    {
+      "command": "cnpm run build",
+      "name": "build:web",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/web"
+    },
+    {
+      // 运行node 文件
+      "name": "node run",
+      "request": "launch",
+      "type": "node",
+      "program": "${file}"
+    },
+    {
+      // 运行命令行命令. 没有python环境
+      "command": "fresh",
+      "name": "fresh",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/back-go"
+    },
+    {
+      // 运行python库的命令  scrapy crawl spider
+      "name": "spider",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "scrapy",
+      "justMyCode": true,
+      "args": ["crawl", "spider"],
+      "cwd": "${workspaceFolder}/spider"
+    },
+    {
+      "command": "npm run dev:mp-weixin",
+      "name": "dev:weixin",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/uni"
+    },
+    {
+      "command": "npm run dev:h5",
+      "name": "dev:h5",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/uni"
+    },
+    {
+      "command": "npm run build:mp-weixin",
+      "name": "build:weixin",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/uni"
+    },
+
+    {
+      "command": "npm run build:h5",
+      "name": "build:h5",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}/uni"
+    }
+  ]
+}
