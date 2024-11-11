@@ -3,6 +3,7 @@ import App from "./App.vue";
 import "./style.scss";
 import "./initial.css";
 import "./assets/css/quill.snow.css";
+import 'element-plus/theme-chalk/dark/css-vars.css'
 // import "uno.css"; // npm i -D @unocss/vite (无预设安装)   还需要在vite.config.ts中配置  具体看->  https://github.com/unocss/unocss/tree/main/packages/vite
 import r from "./utils/request";
 import "animate.css";

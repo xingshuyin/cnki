@@ -18,7 +18,7 @@ const scroll_body = ref(null)
 var height = ref('')
 var ScrollTime = ref('')
 onMounted(() => {
-    ScrollTime.value = parseInt(scroll_item_a.value.offsetHeight / 30) + 's' //获取滚动时间
+    ScrollTime.value = parseInt(scroll_item_a.value.offsetHeight / 25) + 's' //获取滚动时间
     height.value = '-' + scroll_item_a.value.offsetHeight + 'px'  //获取滚动目标的高度
     if (scroll_item_a.value.offsetHeight < scroll.value.offsetHeight) {
         scroll_item_b.value.style.display = 'none'
@@ -26,7 +26,7 @@ onMounted(() => {
     }
 })
 onUpdated(() => {
-    ScrollTime.value = parseInt(scroll_item_a.value.offsetHeight / 30) + 's' //获取滚动时间
+    ScrollTime.value = parseInt(scroll_item_a.value.offsetHeight / 25) + 's' //获取滚动时间
     height.value = '-' + scroll_item_a.value.offsetHeight + 'px'  //获取滚动目标的高度
     if (scroll_item_a.value.offsetHeight < scroll.value.offsetHeight) {
         scroll_item_b.value.style.display = 'none'

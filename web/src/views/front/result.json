@@ -1,0 +1,3238 @@
+{
+    "category_count": [
+        {
+            "value": "119",
+            "name": "学术期刊"
+        },
+        {
+            "value": "0",
+            "name": "学位论文"
+        },
+        {
+            "value": "0",
+            "name": "学位论文"
+        },
+        {
+            "value": "0",
+            "name": "博士"
+        },
+        {
+            "value": "0",
+            "name": "硕士"
+        },
+        {
+            "value": "41",
+            "name": "会议"
+        },
+        {
+            "value": "41",
+            "name": "会议"
+        },
+        {
+            "value": "40",
+            "name": "国内会议"
+        },
+        {
+            "value": "1",
+            "name": "国际会议"
+        },
+        {
+            "value": "0",
+            "name": "会议视频"
+        },
+        {
+            "value": "0",
+            "name": "报纸"
+        },
+        {
+            "value": "",
+            "name": "年鉴"
+        },
+        {
+            "value": "0",
+            "name": "图书"
+        },
+        {
+            "value": "0",
+            "name": "图书"
+        },
+        {
+            "value": "0",
+            "name": "中文图书"
+        },
+        {
+            "value": "0",
+            "name": "外文图书"
+        },
+        {
+            "value": "",
+            "name": "专利"
+        },
+        {
+            "value": "",
+            "name": "专利"
+        },
+        {
+            "value": "",
+            "name": "中国专利"
+        },
+        {
+            "value": "",
+            "name": "境外专利"
+        },
+        {
+            "value": "0",
+            "name": "标准"
+        },
+        {
+            "value": "0",
+            "name": "标准"
+        },
+        {
+            "value": "0",
+            "name": "国家标准"
+        },
+        {
+            "value": "0",
+            "name": "行业标准"
+        },
+        {
+            "value": "0",
+            "name": "标准题录"
+        },
+        {
+            "value": "0",
+            "name": "成果"
+        },
+        {
+            "value": "0",
+            "name": "成果"
+        },
+        {
+            "value": "0",
+            "name": "学术辑刊"
+        },
+        {
+            "value": "0",
+            "name": "特色期刊"
+        },
+        {
+            "value": "0",
+            "name": "视频"
+        },
+        {
+            "value": "",
+            "name": "文库"
+        },
+        {
+            "value": "119",
+            "name": "学术期刊"
+        },
+        {
+            "value": "0",
+            "name": "学位论文"
+        },
+        {
+            "value": "0",
+            "name": "学位论文"
+        },
+        {
+            "value": "0",
+            "name": "博士"
+        },
+        {
+            "value": "0",
+            "name": "硕士"
+        },
+        {
+            "value": "41",
+            "name": "会议"
+        },
+        {
+            "value": "41",
+            "name": "会议"
+        },
+        {
+            "value": "40",
+            "name": "国内会议"
+        },
+        {
+            "value": "1",
+            "name": "国际会议"
+        },
+        {
+            "value": "0",
+            "name": "会议视频"
+        },
+        {
+            "value": "0",
+            "name": "报纸"
+        },
+        {
+            "value": "",
+            "name": "年鉴"
+        },
+        {
+            "value": "0",
+            "name": "图书"
+        },
+        {
+            "value": "0",
+            "name": "图书"
+        },
+        {
+            "value": "0",
+            "name": "中文图书"
+        },
+        {
+            "value": "0",
+            "name": "外文图书"
+        },
+        {
+            "value": "",
+            "name": "专利"
+        },
+        {
+            "value": "",
+            "name": "专利"
+        },
+        {
+            "value": "",
+            "name": "中国专利"
+        },
+        {
+            "value": "",
+            "name": "境外专利"
+        },
+        {
+            "value": "0",
+            "name": "标准"
+        },
+        {
+            "value": "0",
+            "name": "标准"
+        },
+        {
+            "value": "0",
+            "name": "国家标准"
+        },
+        {
+            "value": "0",
+            "name": "行业标准"
+        },
+        {
+            "value": "0",
+            "name": "标准题录"
+        },
+        {
+            "value": "0",
+            "name": "成果"
+        },
+        {
+            "value": "0",
+            "name": "学术辑刊"
+        },
+        {
+            "value": "0",
+            "name": "特色期刊"
+        },
+        {
+            "value": "0",
+            "name": "视频"
+        },
+        {
+            "value": "",
+            "name": "文库"
+        }
+    ],
+    "subject_count": {
+        "主要主题": [
+            {
+                "name": "Web",
+                "value": 7.0
+            },
+            {
+                "name": "用户行为",
+                "value": 6.0
+            },
+            {
+                "name": "信息检索",
+                "value": 6.0
+            },
+            {
+                "name": "用户行为分析",
+                "value": 6.0
+            },
+            {
+                "name": "Web信息检索",
+                "value": 5.0
+            },
+            {
+                "name": "汉字识别",
+                "value": 4.0
+            },
+            {
+                "name": "网络信息检索",
+                "value": 4.0
+            },
+            {
+                "name": "用户行为研究",
+                "value": 4.0
+            },
+            {
+                "name": "基于用户",
+                "value": 4.0
+            },
+            {
+                "name": "机器学习",
+                "value": 3.0
+            },
+            {
+                "name": "面向用户",
+                "value": 3.0
+            },
+            {
+                "name": "日志挖掘",
+                "value": 3.0
+            },
+            {
+                "name": "日志分析",
+                "value": 3.0
+            },
+            {
+                "name": "搜索引擎广告",
+                "value": 3.0
+            },
+            {
+                "name": "推荐系统",
+                "value": 3.0
+            },
+            {
+                "name": "关键资源页面",
+                "value": 3.0
+            },
+            {
+                "name": "定位技术",
+                "value": 3.0
+            },
+            {
+                "name": "检索结果",
+                "value": 3.0
+            },
+            {
+                "name": "基于统计",
+                "value": 2.0
+            },
+            {
+                "name": "分析算法",
+                "value": 2.0
+            }
+        ],
+        "次要主题": [
+            {
+                "name": "中文信息处理",
+                "value": 15.0
+            },
+            {
+                "name": "用户行为分析",
+                "value": 15.0
+            },
+            {
+                "name": "网络信息检索",
+                "value": 10.0
+            },
+            {
+                "name": "信息检索",
+                "value": 9.0
+            },
+            {
+                "name": "检索性能",
+                "value": 8.0
+            },
+            {
+                "name": "搜索结果",
+                "value": 7.0
+            },
+            {
+                "name": "分类器",
+                "value": 6.0
+            },
+            {
+                "name": "点击行为",
+                "value": 5.0
+            },
+            {
+                "name": "文本分类",
+                "value": 5.0
+            },
+            {
+                "name": "汉字识别",
+                "value": 5.0
+            },
+            {
+                "name": "机器学习",
+                "value": 4.0
+            },
+            {
+                "name": "网格体系结构",
+                "value": 4.0
+            },
+            {
+                "name": "处理单元",
+                "value": 4.0
+            },
+            {
+                "name": "基于内容的图像检索",
+                "value": 4.0
+            },
+            {
+                "name": "交互过程",
+                "value": 4.0
+            },
+            {
+                "name": "数据集",
+                "value": 4.0
+            },
+            {
+                "name": "日志信息",
+                "value": 4.0
+            },
+            {
+                "name": "虚拟组织",
+                "value": 4.0
+            },
+            {
+                "name": "聚类算法",
+                "value": 3.0
+            },
+            {
+                "name": "链接分析",
+                "value": 3.0
+            }
+        ],
+        "来源类别": [
+            {
+                "name": "北大核心",
+                "value": 106.0
+            },
+            {
+                "name": "CSCD",
+                "value": 48.0
+            },
+            {
+                "name": "EI",
+                "value": 38.0
+            },
+            {
+                "name": "WJCI",
+                "value": 8.0
+            }
+        ],
+        "文献类型": [
+            {
+                "name": "综述",
+                "value": 1.0
+            },
+            {
+                "name": "研究论文",
+                "value": 17.0
+            }
+        ],
+        "学科": [
+            {
+                "name": "计算机软件及计算机应用",
+                "value": 116.0
+            },
+            {
+                "name": "互联网技术",
+                "value": 28.0
+            },
+            {
+                "name": "自动化技术",
+                "value": 16.0
+            },
+            {
+                "name": "中国语言文字",
+                "value": 3.0
+            },
+            {
+                "name": "诉讼法与司法制度",
+                "value": 2.0
+            },
+            {
+                "name": "新闻与传媒",
+                "value": 1.0
+            },
+            {
+                "name": "轻工业手工业",
+                "value": 1.0
+            },
+            {
+                "name": "电信技术",
+                "value": 1.0
+            },
+            {
+                "name": "精神病学",
+                "value": 1.0
+            },
+            {
+                "name": "科学研究管理",
+                "value": 1.0
+            },
+            {
+                "name": "图书情报与数字图书馆",
+                "value": 1.0
+            },
+            {
+                "name": "贸易经济",
+                "value": 1.0
+            },
+            {
+                "name": "企业经济",
+                "value": 1.0
+            }
+        ],
+        "研究层次": [
+            {
+                "name": "技术研究",
+                "value": 17.0
+            },
+            {
+                "name": "应用研究",
+                "value": 1.0
+            }
+        ],
+        "文献来源": [
+            {
+                "name": "中文信息学报",
+                "value": 40.0
+            },
+            {
+                "name": "软件学报",
+                "value": 15.0
+            },
+            {
+                "name": "计算机研究与发展",
+                "value": 8.0
+            },
+            {
+                "name": "第八届全国汉字识别学术会议论文集",
+                "value": 5.0
+            },
+            {
+                "name": "广西师范大学学报(自然科学版)",
+                "value": 5.0
+            },
+            {
+                "name": "计算机工程与应用",
+                "value": 4.0
+            },
+            {
+                "name": "第四届全国信息检索与内容安全学术会议论文集（上）",
+                "value": 4.0
+            },
+            {
+                "name": "计算机学报",
+                "value": 4.0
+            },
+            {
+                "name": "智能系统学报",
+                "value": 4.0
+            },
+            {
+                "name": "清华大学学报(自然科学版)",
+                "value": 4.0
+            },
+            {
+                "name": "第五届全国信息检索学术会议论文集",
+                "value": 3.0
+            },
+            {
+                "name": "计算机科学",
+                "value": 3.0
+            },
+            {
+                "name": "面向21世纪的科技进步与社会经济发展（上册）",
+                "value": 3.0
+            },
+            {
+                "name": "第六届全国信息检索学术会议论文集",
+                "value": 3.0
+            },
+            {
+                "name": "第三届全国信息检索与内容安全学术会议论文集",
+                "value": 3.0
+            },
+            {
+                "name": "山东大学学报(理学版)",
+                "value": 3.0
+            },
+            {
+                "name": "模式识别与人工智能",
+                "value": 3.0
+            },
+            {
+                "name": "山西大学学报(自然科学版)",
+                "value": 2.0
+            },
+            {
+                "name": "全国第八届计算语言学联合学术会议（JSCL-2005）论文集",
+                "value": 2.0
+            },
+            {
+                "name": "计算机工程",
+                "value": 2.0
+            }
+        ],
+        "年度": [
+            {
+                "name": "2022年",
+                "value": 3.0
+            },
+            {
+                "name": "2021年",
+                "value": 4.0
+            },
+            {
+                "name": "2020年",
+                "value": 2.0
+            },
+            {
+                "name": "2019年",
+                "value": 2.0
+            },
+            {
+                "name": "2018年",
+                "value": 3.0
+            },
+            {
+                "name": "2017年",
+                "value": 5.0
+            },
+            {
+                "name": "2016年",
+                "value": 4.0
+            },
+            {
+                "name": "2015年",
+                "value": 2.0
+            },
+            {
+                "name": "2014年",
+                "value": 4.0
+            },
+            {
+                "name": "2013年",
+                "value": 4.0
+            },
+            {
+                "name": "2012年",
+                "value": 3.0
+            },
+            {
+                "name": "2011年",
+                "value": 12.0
+            },
+            {
+                "name": "2010年",
+                "value": 10.0
+            },
+            {
+                "name": "2009年",
+                "value": 6.0
+            },
+            {
+                "name": "2008年",
+                "value": 9.0
+            },
+            {
+                "name": "2007年",
+                "value": 13.0
+            },
+            {
+                "name": "2006年",
+                "value": 5.0
+            },
+            {
+                "name": "2005年",
+                "value": 11.0
+            },
+            {
+                "name": "2004年",
+                "value": 7.0
+            },
+            {
+                "name": "2003年",
+                "value": 16.0
+            },
+            {
+                "name": "2002年",
+                "value": 11.0
+            },
+            {
+                "name": "2001年",
+                "value": 5.0
+            },
+            {
+                "name": "2000年",
+                "value": 6.0
+            },
+            {
+                "name": "1999年",
+                "value": 5.0
+            },
+            {
+                "name": "1998年",
+                "value": 1.0
+            },
+            {
+                "name": "1997年",
+                "value": 2.0
+            },
+            {
+                "name": "1996年",
+                "value": 4.0
+            },
+            {
+                "name": "1992年",
+                "value": 1.0
+            }
+        ],
+        "中国": [
+            {
+                "name": "马少平,清华大学",
+                "value": 160.0
+            },
+            {
+                "name": "张敏,清华大学",
+                "value": 79.0
+            },
+            {
+                "name": "刘奕群,清华大学",
+                "value": 72.0
+            },
+            {
+                "name": "茹立云,清华大学",
+                "value": 36.0
+            },
+            {
+                "name": "金奕江,清华大学",
+                "value": 16.0
+            },
+            {
+                "name": "岑荣伟,清华大学",
+                "value": 13.0
+            },
+            {
+                "name": "夏莹,清华大学",
+                "value": 10.0
+            },
+            {
+                "name": "马为之,清华大学",
+                "value": 9.0
+            },
+            {
+                "name": "朱小燕,清华大学",
+                "value": 8.0
+            },
+            {
+                "name": "姜哲,清华大学",
+                "value": 6.0
+            },
+            {
+                "name": "富羽鹏,清华大学",
+                "value": 6.0
+            },
+            {
+                "name": "余慧佳,清华大学",
+                "value": 6.0
+            },
+            {
+                "name": "王灿辉,清华大学",
+                "value": 5.0
+            },
+            {
+                "name": "宋睿华,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "陈飞,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "许丹青,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "苏中,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "路晶,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "张辉,清华大学",
+                "value": 4.0
+            },
+            {
+                "name": "邢永康,重庆大学",
+                "value": 4.0
+            }
+        ],
+        "机构": [
+            {
+                "name": "清华大学",
+                "value": 158.0
+            },
+            {
+                "name": "微软亚洲研究院",
+                "value": 7.0
+            },
+            {
+                "name": "搜狗公司",
+                "value": 3.0
+            },
+            {
+                "name": "福州大学",
+                "value": 2.0
+            },
+            {
+                "name": "北京印刷学院",
+                "value": 2.0
+            },
+            {
+                "name": "香港城市大学",
+                "value": 2.0
+            },
+            {
+                "name": "中国科学院软件研究所",
+                "value": 2.0
+            },
+            {
+                "name": "搜狐公司",
+                "value": 2.0
+            },
+            {
+                "name": "北京交通大学",
+                "value": 2.0
+            },
+            {
+                "name": "中国银行",
+                "value": 2.0
+            },
+            {
+                "name": "华中师范大学",
+                "value": 1.0
+            },
+            {
+                "name": "北方交通大学",
+                "value": 1.0
+            },
+            {
+                "name": "SimonFraser大学",
+                "value": 1.0
+            },
+            {
+                "name": "解放军总参谋部陆航研究所",
+                "value": 1.0
+            },
+            {
+                "name": "北京地大地质科技公司",
+                "value": 1.0
+            },
+            {
+                "name": "烟台职业学院",
+                "value": 1.0
+            },
+            {
+                "name": "广东大亚湾核电运营管理有限责任公司",
+                "value": 1.0
+            },
+            {
+                "name": "北京搜狗科技发展有限公司",
+                "value": 1.0
+            },
+            {
+                "name": "山东大学",
+                "value": 1.0
+            },
+            {
+                "name": "南京陆军指挥学院",
+                "value": 1.0
+            }
+        ],
+        "OA出版": [],
+        "基金": [
+            {
+                "name": "国家自然科学基金",
+                "value": 68.0
+            },
+            {
+                "name": "国家高技术研究发展计划(863计划)",
+                "value": 43.0
+            },
+            {
+                "name": "国家重点基础研究发展规划(973计划)",
+                "value": 32.0
+            },
+            {
+                "name": "高等学校博士学科点专项科研基金",
+                "value": 21.0
+            },
+            {
+                "name": "国家重点研发计划",
+                "value": 8.0
+            },
+            {
+                "name": "教育部科学技术研究项目",
+                "value": 8.0
+            },
+            {
+                "name": "清华大学基础研究基金",
+                "value": 1.0
+            },
+            {
+                "name": "中国博士后科学基金",
+                "value": 1.0
+            },
+            {
+                "name": "山东省自然科学基金",
+                "value": 1.0
+            },
+            {
+                "name": "福建省教育厅科技项目",
+                "value": 1.0
+            },
+            {
+                "name": "智能技术与系统国家重点实验室(清华大学)课题",
+                "value": 1.0
+            }
+        ]
+    },
+    "subject_count_dict": {
+        "主要主题": {
+            "Web": 7.0,
+            "用户行为": 6.0,
+            "信息检索": 6.0,
+            "用户行为分析": 6.0,
+            "Web信息检索": 5.0,
+            "汉字识别": 4.0,
+            "网络信息检索": 4.0,
+            "用户行为研究": 4.0,
+            "基于用户": 4.0,
+            "机器学习": 3.0,
+            "面向用户": 3.0,
+            "日志挖掘": 3.0,
+            "日志分析": 3.0,
+            "搜索引擎广告": 3.0,
+            "推荐系统": 3.0,
+            "关键资源页面": 3.0,
+            "定位技术": 3.0,
+            "检索结果": 3.0,
+            "基于统计": 2.0,
+            "分析算法": 2.0
+        },
+        "次要主题": {
+            "中文信息处理": 15.0,
+            "用户行为分析": 15.0,
+            "网络信息检索": 10.0,
+            "信息检索": 9.0,
+            "检索性能": 8.0,
+            "搜索结果": 7.0,
+            "分类器": 6.0,
+            "点击行为": 5.0,
+            "文本分类": 5.0,
+            "汉字识别": 5.0,
+            "机器学习": 4.0,
+            "网格体系结构": 4.0,
+            "处理单元": 4.0,
+            "基于内容的图像检索": 4.0,
+            "交互过程": 4.0,
+            "数据集": 4.0,
+            "日志信息": 4.0,
+            "虚拟组织": 4.0,
+            "聚类算法": 3.0,
+            "链接分析": 3.0
+        },
+        "来源类别": {
+            "北大核心": 106.0,
+            "CSCD": 48.0,
+            "EI": 38.0,
+            "WJCI": 8.0
+        },
+        "文献类型": {
+            "综述": 1.0,
+            "研究论文": 17.0
+        },
+        "学科": {
+            "计算机软件及计算机应用": 116.0,
+            "互联网技术": 28.0,
+            "自动化技术": 16.0,
+            "中国语言文字": 3.0,
+            "诉讼法与司法制度": 2.0,
+            "新闻与传媒": 1.0,
+            "轻工业手工业": 1.0,
+            "电信技术": 1.0,
+            "精神病学": 1.0,
+            "科学研究管理": 1.0,
+            "图书情报与数字图书馆": 1.0,
+            "贸易经济": 1.0,
+            "企业经济": 1.0
+        },
+        "研究层次": {
+            "技术研究": 17.0,
+            "应用研究": 1.0
+        },
+        "文献来源": {
+            "中文信息学报": 40.0,
+            "软件学报": 15.0,
+            "计算机研究与发展": 8.0,
+            "第八届全国汉字识别学术会议论文集": 5.0,
+            "广西师范大学学报(自然科学版)": 5.0,
+            "计算机工程与应用": 4.0,
+            "第四届全国信息检索与内容安全学术会议论文集（上）": 4.0,
+            "计算机学报": 4.0,
+            "智能系统学报": 4.0,
+            "清华大学学报(自然科学版)": 4.0,
+            "第五届全国信息检索学术会议论文集": 3.0,
+            "计算机科学": 3.0,
+            "面向21世纪的科技进步与社会经济发展（上册）": 3.0,
+            "第六届全国信息检索学术会议论文集": 3.0,
+            "第三届全国信息检索与内容安全学术会议论文集": 3.0,
+            "山东大学学报(理学版)": 3.0,
+            "模式识别与人工智能": 3.0,
+            "山西大学学报(自然科学版)": 2.0,
+            "全国第八届计算语言学联合学术会议（JSCL-2005）论文集": 2.0,
+            "计算机工程": 2.0
+        },
+        "年度": {
+            "2022年": 3.0,
+            "2021年": 4.0,
+            "2020年": 2.0,
+            "2019年": 2.0,
+            "2018年": 3.0,
+            "2017年": 5.0,
+            "2016年": 4.0,
+            "2015年": 2.0,
+            "2014年": 4.0,
+            "2013年": 4.0,
+            "2012年": 3.0,
+            "2011年": 12.0,
+            "2010年": 10.0,
+            "2009年": 6.0,
+            "2008年": 9.0,
+            "2007年": 13.0,
+            "2006年": 5.0,
+            "2005年": 11.0,
+            "2004年": 7.0,
+            "2003年": 16.0,
+            "2002年": 11.0,
+            "2001年": 5.0,
+            "2000年": 6.0,
+            "1999年": 5.0,
+            "1998年": 1.0,
+            "1997年": 2.0,
+            "1996年": 4.0,
+            "1992年": 1.0
+        },
+        "中国": {
+            "马少平,清华大学": 160.0,
+            "张敏,清华大学": 79.0,
+            "刘奕群,清华大学": 72.0,
+            "茹立云,清华大学": 36.0,
+            "金奕江,清华大学": 16.0,
+            "岑荣伟,清华大学": 13.0,
+            "夏莹,清华大学": 10.0,
+            "马为之,清华大学": 9.0,
+            "朱小燕,清华大学": 8.0,
+            "姜哲,清华大学": 6.0,
+            "富羽鹏,清华大学": 6.0,
+            "余慧佳,清华大学": 6.0,
+            "王灿辉,清华大学": 5.0,
+            "宋睿华,清华大学": 4.0,
+            "陈飞,清华大学": 4.0,
+            "许丹青,清华大学": 4.0,
+            "苏中,清华大学": 4.0,
+            "路晶,清华大学": 4.0,
+            "张辉,清华大学": 4.0,
+            "邢永康,重庆大学": 4.0
+        },
+        "机构": {
+            "清华大学": 158.0,
+            "微软亚洲研究院": 7.0,
+            "搜狗公司": 3.0,
+            "福州大学": 2.0,
+            "北京印刷学院": 2.0,
+            "香港城市大学": 2.0,
+            "中国科学院软件研究所": 2.0,
+            "搜狐公司": 2.0,
+            "北京交通大学": 2.0,
+            "中国银行": 2.0,
+            "华中师范大学": 1.0,
+            "北方交通大学": 1.0,
+            "SimonFraser大学": 1.0,
+            "解放军总参谋部陆航研究所": 1.0,
+            "北京地大地质科技公司": 1.0,
+            "烟台职业学院": 1.0,
+            "广东大亚湾核电运营管理有限责任公司": 1.0,
+            "北京搜狗科技发展有限公司": 1.0,
+            "山东大学": 1.0,
+            "南京陆军指挥学院": 1.0
+        },
+        "OA出版": {},
+        "基金": {
+            "国家自然科学基金": 68.0,
+            "国家高技术研究发展计划(863计划)": 43.0,
+            "国家重点基础研究发展规划(973计划)": 32.0,
+            "高等学校博士学科点专项科研基金": 21.0,
+            "国家重点研发计划": 8.0,
+            "教育部科学技术研究项目": 8.0,
+            "清华大学基础研究基金": 1.0,
+            "中国博士后科学基金": 1.0,
+            "山东省自然科学基金": 1.0,
+            "福建省教育厅科技项目": 1.0,
+            "智能技术与系统国家重点实验室(清华大学)课题": 1.0
+        }
+    },
+    "subject_count_percent": {
+        "主要主题": {
+            "Web": 9.09,
+            "用户行为": 7.79,
+            "信息检索": 7.79,
+            "用户行为分析": 7.79,
+            "Web信息检索": 6.49,
+            "汉字识别": 5.19,
+            "网络信息检索": 5.19,
+            "用户行为研究": 5.19,
+            "基于用户": 5.19,
+            "机器学习": 3.9,
+            "面向用户": 3.9,
+            "日志挖掘": 3.9,
+            "日志分析": 3.9,
+            "搜索引擎广告": 3.9,
+            "推荐系统": 3.9,
+            "关键资源页面": 3.9,
+            "定位技术": 3.9,
+            "检索结果": 3.9,
+            "基于统计": 2.6,
+            "分析算法": 2.6
+        },
+        "次要主题": {
+            "中文信息处理": 12.2,
+            "用户行为分析": 12.2,
+            "网络信息检索": 8.13,
+            "信息检索": 7.32,
+            "检索性能": 6.5,
+            "搜索结果": 5.69,
+            "分类器": 4.88,
+            "点击行为": 4.07,
+            "文本分类": 4.07,
+            "汉字识别": 4.07,
+            "机器学习": 3.25,
+            "网格体系结构": 3.25,
+            "处理单元": 3.25,
+            "基于内容的图像检索": 3.25,
+            "交互过程": 3.25,
+            "数据集": 3.25,
+            "日志信息": 3.25,
+            "虚拟组织": 3.25,
+            "聚类算法": 2.44,
+            "链接分析": 2.44
+        },
+        "来源类别": {
+            "北大核心": 53.0,
+            "CSCD": 24.0,
+            "EI": 19.0,
+            "WJCI": 4.0
+        },
+        "文献类型": {
+            "综述": 5.56,
+            "研究论文": 94.44
+        },
+        "学科": {
+            "计算机软件及计算机应用": 67.05,
+            "互联网技术": 16.18,
+            "自动化技术": 9.25,
+            "中国语言文字": 1.73,
+            "诉讼法与司法制度": 1.16,
+            "新闻与传媒": 0.58,
+            "轻工业手工业": 0.58,
+            "电信技术": 0.58,
+            "精神病学": 0.58,
+            "科学研究管理": 0.58,
+            "图书情报与数字图书馆": 0.58,
+            "贸易经济": 0.58,
+            "企业经济": 0.58
+        },
+        "研究层次": {
+            "技术研究": 94.44,
+            "应用研究": 5.56
+        },
+        "文献来源": {
+            "中文信息学报": 33.33,
+            "软件学报": 12.5,
+            "计算机研究与发展": 6.67,
+            "第八届全国汉字识别学术会议论文集": 4.17,
+            "广西师范大学学报(自然科学版)": 4.17,
+            "计算机工程与应用": 3.33,
+            "第四届全国信息检索与内容安全学术会议论文集（上）": 3.33,
+            "计算机学报": 3.33,
+            "智能系统学报": 3.33,
+            "清华大学学报(自然科学版)": 3.33,
+            "第五届全国信息检索学术会议论文集": 2.5,
+            "计算机科学": 2.5,
+            "面向21世纪的科技进步与社会经济发展（上册）": 2.5,
+            "第六届全国信息检索学术会议论文集": 2.5,
+            "第三届全国信息检索与内容安全学术会议论文集": 2.5,
+            "山东大学学报(理学版)": 2.5,
+            "模式识别与人工智能": 2.5,
+            "山西大学学报(自然科学版)": 1.67,
+            "全国第八届计算语言学联合学术会议（JSCL-2005）论文集": 1.67,
+            "计算机工程": 1.67
+        },
+        "年度": {
+            "2022年": 1.88,
+            "2021年": 2.5,
+            "2020年": 1.25,
+            "2019年": 1.25,
+            "2018年": 1.88,
+            "2017年": 3.12,
+            "2016年": 2.5,
+            "2015年": 1.25,
+            "2014年": 2.5,
+            "2013年": 2.5,
+            "2012年": 1.88,
+            "2011年": 7.5,
+            "2010年": 6.25,
+            "2009年": 3.75,
+            "2008年": 5.62,
+            "2007年": 8.12,
+            "2006年": 3.12,
+            "2005年": 6.88,
+            "2004年": 4.38,
+            "2003年": 10.0,
+            "2002年": 6.88,
+            "2001年": 3.12,
+            "2000年": 3.75,
+            "1999年": 3.12,
+            "1998年": 0.62,
+            "1997年": 1.25,
+            "1996年": 2.5,
+            "1992年": 0.62
+        },
+        "中国": {
+            "马少平,清华大学": 35.24,
+            "张敏,清华大学": 17.4,
+            "刘奕群,清华大学": 15.86,
+            "茹立云,清华大学": 7.93,
+            "金奕江,清华大学": 3.52,
+            "岑荣伟,清华大学": 2.86,
+            "夏莹,清华大学": 2.2,
+            "马为之,清华大学": 1.98,
+            "朱小燕,清华大学": 1.76,
+            "姜哲,清华大学": 1.32,
+            "富羽鹏,清华大学": 1.32,
+            "余慧佳,清华大学": 1.32,
+            "王灿辉,清华大学": 1.1,
+            "宋睿华,清华大学": 0.88,
+            "陈飞,清华大学": 0.88,
+            "许丹青,清华大学": 0.88,
+            "苏中,清华大学": 0.88,
+            "路晶,清华大学": 0.88,
+            "张辉,清华大学": 0.88,
+            "邢永康,重庆大学": 0.88
+        },
+        "机构": {
+            "清华大学": 82.29,
+            "微软亚洲研究院": 3.65,
+            "搜狗公司": 1.56,
+            "福州大学": 1.04,
+            "北京印刷学院": 1.04,
+            "香港城市大学": 1.04,
+            "中国科学院软件研究所": 1.04,
+            "搜狐公司": 1.04,
+            "北京交通大学": 1.04,
+            "中国银行": 1.04,
+            "华中师范大学": 0.52,
+            "北方交通大学": 0.52,
+            "SimonFraser大学": 0.52,
+            "解放军总参谋部陆航研究所": 0.52,
+            "北京地大地质科技公司": 0.52,
+            "烟台职业学院": 0.52,
+            "广东大亚湾核电运营管理有限责任公司": 0.52,
+            "北京搜狗科技发展有限公司": 0.52,
+            "山东大学": 0.52,
+            "南京陆军指挥学院": 0.52
+        },
+        "OA出版": {},
+        "基金": {
+            "国家自然科学基金": 36.76,
+            "国家高技术研究发展计划(863计划)": 23.24,
+            "国家重点基础研究发展规划(973计划)": 17.3,
+            "高等学校博士学科点专项科研基金": 11.35,
+            "国家重点研发计划": 4.32,
+            "教育部科学技术研究项目": 4.32,
+            "清华大学基础研究基金": 0.54,
+            "中国博士后科学基金": 0.54,
+            "山东省自然科学基金": 0.54,
+            "福建省教育厅科技项目": 0.54,
+            "智能技术与系统国家重点实验室(清华大学)课题": 0.54
+        }
+    },
+    "search_author_url": {
+        "马少平": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwX0_jD_brH8N-Qz8S8so6hhDP3WOeZzsRyE2s-F_O_MTes9Y6WiulNwZppC4k-SJRbgibx6x5PSpcwSxQe81E0VtMcm5MXJDnMMeV-H4hz4GVTOr_iU5vl&uniplatform=NZKPT&language=CHS"
+    },
+    "search_author_info": [
+        {
+            "funds_rank": [
+                {
+                    "name": "国家自然科学基金",
+                    "value": "68",
+                    "PUC": "68",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGesy3tT9Mi_VsuiUWI0LreZ6MDpRnHiJv5_UmvYDpC_Sc0Hff_fM1tPkIAtsG2Bpgi4AJnctQ2kMocTPzfHzuXhwEE0gzAz9AAVNf2ETsQMcbCjyzitXjTaNfXv9C6eaChV3Blw1l000ssGR2docdhpmRwIDQynPWrQ==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "国家高技术研究发展计划(863计划)",
+                    "value": "43",
+                    "PUC": "43",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGesy3tT9Mi_Vshk1QhyNGFtCcXZvhWuhcCZKp26yaHYcZGjDw_Lcy6TOiA09E-zYw-K-HwN1rDvXkjhTEKjtm76xGAGfyZXMyOQT3xt0eqRlt1tZkM6rU8-Kkwxr-eITL6bYQBWo74lAv0zfazad7LDw1tzPew8tPb05V-vZbEGuhFNvNQtqjaaFmyPnhDB-wScJfhJLJN0BG8PJttLX6WJRWcIF5hkGcFHumlgHxTEmU&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "国家重点基础研究发展规划(973计划)",
+                    "value": "32",
+                    "PUC": "32",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGesy3tT9Mi_Vs7rPcKqXTSSIGPFnaAuTjaVjZwy1mYFYzgPKJJyYoWEDAWW6B5QsqpPa_irRlc_VMFc1ubdGrqA8fRyesXwkDBYznWswcjye-56Ehi9KTfYI9dwFbssri5HzOeA7L4LSAt7nmsNcrF927H6EFcaYbbG3I1f0ckKlVd0imxaWB9R-TP3TkJFd_GO0SgVo_qEUb9eGu44RAs4tL8Oo91J4yJsmXGxbBvyw0bzRmxM1zZIM=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "高等学校博士学科点专项科研基金",
+                    "value": "21",
+                    "PUC": "21",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGeqPOap9rnDU4KzL93ztl9XNPtqFF4JVQXi9vBfQ9TwocVrA0PcMBi1nE-0jl2oe1GmOgBuY47a1iKGCAdxQ_MLY-lotif24MbFNQL2C0TS_YzP9I5OJxQu__tvq4GpxzzgemaeGGJab7i03rZK4QiqWT1OjKdR5FQmuswbNmbO_XI5RCrsSexnL1yHSYZ9DxorBmwnwM08t7_5PvB6BDXJQoWHtqv6v0ou4LTiPcaH-fuSwHHewejss=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "国家重点研发计划",
+                    "value": "8",
+                    "PUC": "8",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGeswlI4aekDdnClpqXowxps3kMhczrTsERp276yjU8Bv2A8lZqBLe7lW3crIem7qLK3UouUZVv1yDOB9xBSf7roCe63eBsOgLRz9MA-pvkSo5fx710mkkSxEL-OWBedqaVZdPkvpS-k1JzdCBGqAyRc3zoNzEPwuCBw==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "教育部科学技术研究项目",
+                    "value": "8",
+                    "PUC": "8",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGemIHh1JjiRRBtKn9TJOEguQEw5wVvlx-7l2leAJ4KM58iruU13WNWCRttstpLkhKDjfFniFjZL8g1mNCDHGVc9lNVoeYV2zfGZHZrZI5J3Agt75AzERICw42exC850epKyfNBhgqW1LVJeaZANyLTkZ-X2QDc1K9I-1ATEDIH6fnn7iNCauH2zuaYqv1xe0QWQ==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "清华大学基础研究基金",
+                    "value": "1",
+                    "PUC": "1",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGehVinqlFVn2Rg0EE4Qe-k0_He91ZvWinzTs5Cg9wYS4hudSf9NtxP62f6SS9FfTxuYoyzoqBF1nUqAM2ZRWXOWvPv4BhLBv9wPTWVX_RB7wmuoscXHvzLCXGDgEwsrsf85-ja7qxm6mg3bd3MTD7WhCCgiFz14qgQb0knBsiIxEQLtahYa417y0=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "中国博士后科学基金",
+                    "value": "1",
+                    "PUC": "1",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGeqPOap9rnDU4eN0zof7Hb62RKdlesF-LIZ0-cV3ZFESM83JbvGtnAsa7dkHbp0ZUsTshJKcKOXpikuR9dPw43WeEUQTrkY6_jk7Uw_kNv7gLP0CQvkCN_zxN9soVVLQ8aiozuipWZA3LXPqKnYgrIXPYewzLbGOObnVBjBUP9Bbd&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "山东省自然科学基金",
+                    "value": "1",
+                    "PUC": "1",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGerN6lL_yTg5x3l_JDm6U-VedY1O4rYCO8NJbSyj4hVN23hqpM8IdzTXdEYo9KWmQwcJcJf3idE9xSmytC4NUxBzV0raCVJqFl_QCPzkFGI4-OS6dxSL0UxnWpVUs39oBendVDpK_NsiVKD66rDEIj2MIkVAZVEmzXPR4sKv7TwaY&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "福建省教育厅科技项目",
+                    "value": "1",
+                    "PUC": "1",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGem1I3pq17gPZqqGcJWZX_0HltLZA2HcdAmntG01nNDdMD8nNX8JL2jBX6gLuX8bilfIpq_IRBGXsQkyMX-AUe2Gzi3kveUGkjxt8LhEXkKcliqFBAaxkApkfjSl3uuO1GAL0KEgo4E4F9lFCPOXp1ZkcH3Ok8w85fSkKR-aVFDMRqzERKoZdcAg=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "智能技术与系统国家重点实验室(清华大学)课题",
+                    "value": "1",
+                    "PUC": "1",
+                    "url": "https://kns.cnki.net/kcms2/fund/detail?v=D99zBTMMfgyOJFh-GIFGesy3tT9Mi_VsCE0rCD1bERrpsWmar3b8nO_Q5Gcz1c06KarEgdfWsHhliyIoAruVWbpS_72K9QO-uZeRxLhhAyjztvusw1S5z_e5TvQFOmdEhn2bK-MflPJdi8DrpBCkmgWcoHuKWwpsN4JRyGaXMgxphtkM1rO2OOVrLCPkUqhA7De3ZxCDG9OzMnEwt1jpfykAg_pE9QZVEs5OvqHKHMbSFWxFnVIAudKe9UT8XX5QpPaIyDIDjIDp8zkhQKLd4iqf57NXlZ0lKDXj9AgfbOPfk_ueIWQxlowYa8aS20YWgl3Qa-HvMhw=&uniplatform=NZKPT&language=CHS"
+                }
+            ],
+            "coauthors_nodes": [
+                {
+                    "cnki_id": "000039057242",
+                    "id": "马少平",
+                    "name": "马少平",
+                    "value": 85534,
+                    "symbolSize": 17.1068,
+                    "itemStyle": {
+                        "borderWidth": 1,
+                        "borderColor": "#fff"
+                    },
+                    "label": {
+                        "show": false
+                    },
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwxE9ZwRQfM8oiAmLdWoC_2PCNmtpVS6xiEQnoUddRgXEcHHq8RKiZHYEb79WTT9tv2yoDPB7RRIIS4oKvXgKOOILvmdhe6Mpvh14Nb1nUo62EqhTtDrlq-&uniplatform=NZKPT&language=CHS",
+                    "PUC": "201",
+                    "DTC": "81082",
+                    "CTC": "4251",
+                    "symbol": "image://media/img/author.png"
+                },
+                {
+                    "cnki_id": "000039110715",
+                    "id": "孙茂松",
+                    "name": "孙茂松",
+                    "value": 87141,
+                    "symbolSize": 17.4282,
+                    "PUC": "288",
+                    "DTC": "82408",
+                    "CTC": "4445",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNwjXO05YtKH07DAiAwRU87MAirCsIsNbfQtFjE68NAOjQwF6yT7mtIwBa8Mt908kSJ2BsuwufR03gJkt_C7-pBqaGqURvRjfxh&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036843257",
+                    "id": "孙增圻",
+                    "name": "孙增圻",
+                    "value": 94858,
+                    "symbolSize": 18.9716,
+                    "PUC": "255",
+                    "DTC": "89057",
+                    "CTC": "5546",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNwJkssLUyXv47xZrXUBjbNbDL9HtNdgwcPAekHzvE_2z6mE9amH2E4TCVkCljdHIWsapwbMRBTokrFIKhzGHq2KDhuVUHecWOl&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000032039590",
+                    "id": "张敏",
+                    "name": "张敏",
+                    "value": 80877,
+                    "symbolSize": 16.1754,
+                    "PUC": "202",
+                    "DTC": "77477",
+                    "CTC": "3198",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNw1j3Zy8fqm_5AmNB2BUguYN_aeLnmaSTsSU3-Fr5TnmeS1bHQUVfHu8zVQF4S4b2jEDDE0MMa8HawcKqRXhuyWw==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000005347689",
+                    "id": "刘文印",
+                    "name": "刘文印",
+                    "value": 16130,
+                    "symbolSize": 3.226,
+                    "PUC": "163",
+                    "DTC": "15201",
+                    "CTC": "766",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNwQYUHixru4nJO7uiGhrMUcS9wD6pCN3mVHKLWEtPhhZZWHwpmEz5e8guVfcfaMm22CyeeleOjpi1OLVX9Sl51LBmzaiA-cvxw&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036824560",
+                    "id": "张钹",
+                    "name": "张钹",
+                    "value": 78735,
+                    "symbolSize": 15.747,
+                    "PUC": "157",
+                    "DTC": "72663",
+                    "CTC": "5915",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNwmuIibZSaZMDn325ddXu8yNLYmG6mqenCM7FdjOlvfuWrhAUX4IFddggcROPaCdaNqK73o9RWXwYGte3jguOrWw==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000026071627",
+                    "id": "夏莹",
+                    "name": "夏莹",
+                    "value": 116800,
+                    "symbolSize": 23.36,
+                    "PUC": "144",
+                    "DTC": "115147",
+                    "CTC": "1509",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwv0c7j3UqGEXRHEjIwlvNwHj_1DpbIH4aP-74V6EQ0uokLsIy2y0MiQSRIoT2RlWgVlfK9QDtmXMM_L4SXlIwH_0shmvp_nehtg1ipeabhEg==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036783981",
+                    "id": "刘奕群",
+                    "name": "刘奕群",
+                    "value": 48791,
+                    "symbolSize": 9.7582,
+                    "PUC": "132",
+                    "DTC": "47006",
+                    "CTC": "1653",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4OS0XQq2illfx1QKwfQArVP1h4yyRA8NVzfPSIXT9aZ54lOjA6ohYNSKCbZTNrMVnq8kr6DlouhKXLlVi07amw6Yzc2NYbzx8&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000035176020",
+                    "id": "马军",
+                    "name": "马军",
+                    "value": 25904,
+                    "symbolSize": 5.1808,
+                    "PUC": "110",
+                    "DTC": "24517",
+                    "CTC": "1277",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4dFk8edCu6_piA-5aYoeSQ8JxDjvc3BNBUkg3a0H-oHSI_7-4gXJl38UjqdiBZLz4zQuApNepfQc6qzRmsgZT1Q==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036792602",
+                    "id": "叶少珍",
+                    "name": "叶少珍",
+                    "value": 15160,
+                    "symbolSize": 3.032,
+                    "PUC": "96",
+                    "DTC": "14647",
+                    "CTC": "417",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH41Q2LsXbhEC4suech8yU60kixItBajhTMBfcY6g06U__Inj-5cusZRONmt42j33KQPu6cg_dSSU11H8J2MgmM6PC_A9IYJ84n&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036946702",
+                    "id": "俞瑞钊",
+                    "name": "俞瑞钊",
+                    "value": 19530,
+                    "symbolSize": 3.906,
+                    "PUC": "88",
+                    "DTC": "17879",
+                    "CTC": "1563",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH44wVAUQzdIC_Xx2nzd851BH5z0QK5YxblsHNetv1bCjUeLHx5KNlZ2jPp8yV7eZ1saaWRX5T0b5NQ3HD7EnGrpEV9TXG61eoN&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036949972",
+                    "id": "李业丽",
+                    "name": "李业丽",
+                    "value": 14686,
+                    "symbolSize": 2.9372,
+                    "PUC": "86",
+                    "DTC": "14220",
+                    "CTC": "380",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4sHfg-JuiD0LIUpNQ_WZ34b3shbMA1j9sqaKRJ0GKcY3VKBrDigcuhNHjL9z2Cxuwl0nRRbOR5r1PvnC7ON_q1v-Gi7fanu5D&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000037394036",
+                    "id": "朱小燕",
+                    "name": "朱小燕",
+                    "value": 19472,
+                    "symbolSize": 3.8944,
+                    "PUC": "86",
+                    "DTC": "18270",
+                    "CTC": "1116",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4LBNg9JwzDv_Vp46vDCuRLubwsXxt6x7hKHcUPqv4FwKSx5Sad3r0FI3V9gIyT-pnx_LbSOGFmDdq9tVfCGrJth2pQHxQFgvQ&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000038828288",
+                    "id": "朱绍文",
+                    "name": "朱绍文",
+                    "value": 15834,
+                    "symbolSize": 3.1668,
+                    "PUC": "85",
+                    "DTC": "14343",
+                    "CTC": "1406",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4PVNrsb6wMe7k2gA-mP8aedFiM4ReaKOwqs3dI0yGgyJvg_LxHw_HMgTqps1SOEtxPp6a66y0qDSiqId7yuLu1gwa8JCh1ChX&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000038859848",
+                    "id": "解凯",
+                    "name": "解凯",
+                    "value": 16336,
+                    "symbolSize": 3.2672,
+                    "PUC": "63",
+                    "DTC": "15568",
+                    "CTC": "705",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4vHwLH7qrrF4LUi-1UKAl9x5l9lT1mNPR-54V_H7tKVFJPh20wVztFApLaNDNfseOZWLLnnk5a3aF2RL7ytFR6w==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036933039",
+                    "id": "陈群秀",
+                    "name": "陈群秀",
+                    "value": 14664,
+                    "symbolSize": 2.9328,
+                    "PUC": "50",
+                    "DTC": "13676",
+                    "CTC": "938",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4PUJSHU-sqcYk00dxfm9xAYhx3bbAQ3zPLHAS-4-L0Im1HQnfU0mgxPLB9zkQyuMlo_PAJU4Jhw-RMAC5kTrBUnajjQrhX-6-&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000036724656",
+                    "id": "赵雁南",
+                    "name": "赵雁南",
+                    "value": 11305,
+                    "symbolSize": 2.261,
+                    "PUC": "48",
+                    "DTC": "10563",
+                    "CTC": "694",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4ip7O8BI1FYm_dSyBt4Ct9twPFlIBO_XdQJiMZtpKr_snbp_vSWd1VtqmyPAx8aGIPzvOGL_TelqRRQCeaWBMZcH6PdpG0jS5&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000000746041",
+                    "id": "曾庆涛",
+                    "name": "曾庆涛",
+                    "value": 6181,
+                    "symbolSize": 1.2362,
+                    "PUC": "48",
+                    "DTC": "5996",
+                    "CTC": "137",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4sGezm0eud-wrlurb_qcbgmdF_DdmWiE6hHyuovrM4ZdK-Wb51I7dRioN34E0sD_WG5GzA5yZ835kN6RP_9BUAM-g7gIa1pyz&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000042463355",
+                    "id": "张阔",
+                    "name": "张阔",
+                    "value": 8781,
+                    "symbolSize": 1.7562,
+                    "PUC": "47",
+                    "DTC": "8190",
+                    "CTC": "544",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4GXTxu31x2nMsK4ogZ2lFuFRlmDFfwbMlxiuRhhw71Tm8JhpMSwQkjQvh-nJc45FPYlFsB1Z9LuTk8GQJFm5q8A==&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000019965184",
+                    "id": "唐焕玲",
+                    "name": "唐焕玲",
+                    "value": 10700,
+                    "symbolSize": 2.14,
+                    "PUC": "42",
+                    "DTC": "10325",
+                    "CTC": "333",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4_drxBfKAwKhfmWJ741RNiBWNiY6WNDMzvhqWDquKDNsyW0n6XMRbgPkyuK9MiasnalxOARhE2lcIExRSKaTIZMKWMVvW94aF&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                },
+                {
+                    "cnki_id": "000039580502",
+                    "id": "郑文波",
+                    "name": "郑文波",
+                    "value": 5962,
+                    "symbolSize": 1.1924,
+                    "PUC": "42",
+                    "DTC": "5422",
+                    "CTC": "498",
+                    "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgyUcTC5Gc2niTIs09-ZVTH4hUHxJYXegpXN-D3dNLRmyAVF5Ffg0QWciSliEJ_4m6Z1cP6Zn44OhjRn7Qg5PQPm5aW7D9wOypq59hz2j8xi67E4ctPheM_F&uniplatform=NZKPT&language=CHS",
+                    "label": {
+                        "show": true
+                    }
+                }
+            ],
+            "coauthors_links": [
+                {
+                    "source": "马少平",
+                    "target": "孙茂松"
+                },
+                {
+                    "source": "马少平",
+                    "target": "孙增圻"
+                },
+                {
+                    "source": "马少平",
+                    "target": "张敏"
+                },
+                {
+                    "source": "马少平",
+                    "target": "刘文印"
+                },
+                {
+                    "source": "马少平",
+                    "target": "张钹"
+                },
+                {
+                    "source": "马少平",
+                    "target": "夏莹"
+                },
+                {
+                    "source": "马少平",
+                    "target": "刘奕群"
+                },
+                {
+                    "source": "马少平",
+                    "target": "马军"
+                },
+                {
+                    "source": "马少平",
+                    "target": "叶少珍"
+                },
+                {
+                    "source": "马少平",
+                    "target": "俞瑞钊"
+                },
+                {
+                    "source": "马少平",
+                    "target": "李业丽"
+                },
+                {
+                    "source": "马少平",
+                    "target": "朱小燕"
+                },
+                {
+                    "source": "马少平",
+                    "target": "朱绍文"
+                },
+                {
+                    "source": "马少平",
+                    "target": "解凯"
+                },
+                {
+                    "source": "马少平",
+                    "target": "陈群秀"
+                },
+                {
+                    "source": "马少平",
+                    "target": "赵雁南"
+                },
+                {
+                    "source": "马少平",
+                    "target": "曾庆涛"
+                },
+                {
+                    "source": "马少平",
+                    "target": "张阔"
+                },
+                {
+                    "source": "马少平",
+                    "target": "唐焕玲"
+                },
+                {
+                    "source": "马少平",
+                    "target": "郑文波"
+                }
+            ],
+            "quote_rank": [
+                {
+                    "title": "数据挖掘综述",
+                    "authors": [
+                        {
+                            "name": "钟晓",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzCrQwmIpMJsnfvymXr07Ly9AsJ8ipCAFjSPczVu-1ytgjJcxKvbCL3DjJxiFR-S0_SdeBkmNVWX6PvvMCuh0J3g==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000007262135"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzX4DbPJYMAZG5LR8IHPmHskOCPSAobBLTDOhKBt0-qmX17RDL8exMYeekpJxfg6B7PhpHVO6PNDmHdNYa4rtN_n_417Phk19l&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        },
+                        {
+                            "name": "张钹",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzAoJFa34lKQdNPJAAWZfqFgTNiOvPNJZAIZxFWqeIzIQzlKIqitgttd2Rym2T7F-JWgIZVYO8i-ZfRz3VC-F-Pg==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036824560"
+                        },
+                        {
+                            "name": "俞瑞钊",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzOtaF2uC6cDnxLwiwCTeYmaSWfm6HD1Wpn8EZfjvvsjRI3Sc6F6t5xo65yX8wHzFkoCqxgXPXEmVtfoouP-N2iVUhH6rSZ1SZ&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036946702"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "7711",
+                        "CTC": "527"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkUwrNeeUZRq3n4VgTO8fC3DdjZib6Sw87USPcJGBViN7cZypoWqZ2EGhMGq3bt0XaFcHcHjO1czIDsI4uEO6nIdVKpIbS9j28eKAMU04KdpHYgxnfnmkCVUPIXuIdbKI=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "527",
+                        "PT": "2001-03-15",
+                        "resource": "JOURNAL",
+                        "FN": "MSSB200101009",
+                        "BKLY": "模式识别与人工智能",
+                        "YE": "2001",
+                        "LY": "模式识别与人工智能",
+                        "TB": "CJFD2001",
+                        "AUC": "000007262135;000039057242;000036824560;000036946702",
+                        "AUFC": "0157820:000007262135;0187103:000039057242;0187103:000036824560;0157820:000036946702",
+                        "DFR": "7711",
+                        "AUF": "浙江大学计算机系人工智能研究所智能软件实验室;清华大学计算机科学技术系_钟晓;马少平;张钹;俞瑞钊;;",
+                        "AU": "钟晓;马少平;张钹;俞瑞钊;",
+                        "TI": "数据挖掘综述",
+                        "QI": "01",
+                        "TN": "CJFD2001",
+                        "AFC": "0157820;0187103;0157820;"
+                    }
+                },
+                {
+                    "title": "基于大规模日志分析的搜索引擎用户行为分析",
+                    "authors": [
+                        {
+                            "name": "余慧佳",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzpW8QvRbIt6heCOmfHTWhhdbl8ePFuO2wfo9NGns_YUsmWi-1JQZSe0SmL5d0uX5ayg_Tc-g6tz7Ms-WwrrcBXJZb32Jbx70A&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000021552275"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzTq246gnJfURDO8aQ6xB8ODKixedi__rLsuakuqIikozg6pKsFgSQslJK1EfBXxmDMhI-Hlq8NAhUZ7jpBccqzsT45ICuOcNK&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzpXZ9UCDU4dn36syy9vBa0ni402OIbBI6AzavnmQ_EQX76D3ofV-HN1rtmrFxPgWgSzFJlxUy84U8z_xwMB-s6g==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "茹立云",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zz_TL670spuFm5YHKHKjUic4RZ9B9JLvh-Hh5YHX4nxS1x6Fx8G0eqv1Ydonr65KVT8idw5QC3eKWn0Lk1hLOtpTq2tfrv0NGf&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000025292660"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzX4DbPJYMAZG5LR8IHPmHskOCPSAobBLTDOhKBt0-qmX17RDL8exMYeekpJxfg6B7PhpHVO6PNDmHdNYa4rtN_n_417Phk19l&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "4007",
+                        "CTC": "342"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkUwrNeeUZRq3n4VgTO8fC3DdjZib6Sw-qdhAVIHmGqYwYZgE4lv44rn4HaN6ruhq75sn-Bq-fmLUOZ4AXXXDY5pWOW-8iaQMG-ocEcC0oXJq3etzFroW27aCQyXi5ahE=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "342",
+                        "PT": "2007-01-30",
+                        "resource": "JOURNAL",
+                        "FN": "MESS200701017",
+                        "BKLY": "中文信息学报",
+                        "YE": "2007",
+                        "LY": "中文信息学报",
+                        "TB": "cjfd2007",
+                        "AUC": "000021552275;000036783981;000032039590;000025292660;000039057242",
+                        "AUFC": "0187103:000021552275;0187103:000036783981;0187103:000032039590;0735890:000025292660;0187103:000039057242",
+                        "DFR": "4007",
+                        "AUF": "清华大学智能技术与系统国家重点实验室_余慧佳;;\r\r\n清华大学智能技术与系统国家重点实验室_刘奕群;;\r\r\n清华大学智能技术与系统国家重点实验室_张敏;;\r\r\n搜狗公司研发中心_茹立云;;\r\r\n清华大学智能技术与系统国家重点实验室_马少平;;",
+                        "AU": "余慧佳;刘奕群;张敏;茹立云;马少平;",
+                        "TI": "基于大规模日志分析的搜索引擎用户行为分析",
+                        "QI": "01",
+                        "TN": "CJFD2007",
+                        "AFC": "0187103;0735890;"
+                    }
+                },
+                {
+                    "title": "自然语言处理在信息检索中的应用综述",
+                    "authors": [
+                        {
+                            "name": "王灿辉",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzUEmu28Tz4eC2-OpVpc1AQ0j2y1kMWxSg0XYsAJ1Q6EcX2SLyTf0s9LdF2lmvMsxyjKjz8aEN3908LeG9EwBKYO2-LTBtb_e_&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000038822966"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzpXZ9UCDU4dn36syy9vBa0ni402OIbBI6AzavnmQ_EQX76D3ofV-HN1rtmrFxPgWgSzFJlxUy84U8z_xwMB-s6g==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzX4DbPJYMAZG5LR8IHPmHskOCPSAobBLTDOhKBt0-qmX17RDL8exMYeekpJxfg6B7PhpHVO6PNDmHdNYa4rtN_n_417Phk19l&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "10555",
+                        "CTC": "190"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkUwrNeeUZRq3n4VgTO8fC3DdjZib6Sw-qdhAVIHmGqaOJ_MLTILKimAR24VLJ7LOgxCptrmzS_qFFEDxaVjnvRKZBOy4_-pzBQ9mBmrGAkR8NRf59dBfPNyA02gehauA=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "190",
+                        "PT": "2007-03-30",
+                        "resource": "JOURNAL",
+                        "FN": "MESS200702005",
+                        "BKLY": "中文信息学报",
+                        "YE": "2007",
+                        "LY": "中文信息学报",
+                        "TB": "cjfd2007",
+                        "AUC": "000038822966;000032039590;000039057242",
+                        "AUFC": "0187103:000038822966;0187103:000032039590;0187103:000039057242",
+                        "DFR": "10555",
+                        "AUF": "清华大学计算机科学与技术系_王灿辉;;\r\r\n清华大学计算机科学与技术系_张敏;;\r\r\n清华大学计算机科学与技术系_马少平;;",
+                        "AU": "王灿辉;张敏;马少平;",
+                        "TI": "自然语言处理在信息检索中的应用综述",
+                        "QI": "02",
+                        "TN": "CJFD2007",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "手写体字符识别研究",
+                    "authors": [
+                        {
+                            "name": "朱小燕",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzauqTTJlxfWJSr4GOMzKww_xpl9w_bRLbO8nsJKwSuMNQpPtiOkwQQPehrbcNw_SFpC2YbnyzAD_O2yRm9MsFX6cKIAjvQupq&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000037394036"
+                        },
+                        {
+                            "name": "史一凡",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzvEFRuBhC7o9mMg3xaJju06V-VfeS4_Pa7JpSqCwlsCasr5OsgoSOiuS_R3F1OKLDmBL0xgEXE0lLPUbYmNqbegZZ9qg5w3B5&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000002364478"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgzkUwrNeeUZRhHEbP3e87zzX4DbPJYMAZG5LR8IHPmHskOCPSAobBLTDOhKBt0-qmX17RDL8exMYeekpJxfg6B7PhpHVO6PNDmHdNYa4rtN_n_417Phk19l&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1128",
+                        "CTC": "164"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkUwrNeeUZRq3n4VgTO8fC3DdjZib6Sw87USPcJGBViMN96gi_-m3W_C_YjuwZOoeA0dJO0Qm_OBlaxtcDorS2Z49szMS0v1nP-8NaxgL6EsmWPr49cD02LhS0pm9D_jw=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "164",
+                        "PT": "2000-06-15",
+                        "resource": "JOURNAL",
+                        "FN": "MSSB200002010",
+                        "BKLY": "模式识别与人工智能",
+                        "YE": "2000",
+                        "LY": "模式识别与人工智能",
+                        "TB": "CJFD2000",
+                        "AUC": "000037394036;000002364478;000039057242",
+                        "AUFC": "0187103:000037394036;0187103:000002364478;0187103:000039057242",
+                        "DFR": "1128",
+                        "AUF": "清华大学智能技术与系统国家重点实验室_朱小燕;史一凡;马少平;;",
+                        "AU": "朱小燕;史一凡;马少平;",
+                        "TI": "手写体字符识别研究",
+                        "QI": "02",
+                        "TN": "CJFD2000",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "统计语言模型综述",
+                    "authors": [
+                        {
+                            "name": "邢永康",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iShaUHTtEGZ23HJJRV5kkD4vRsvdXJM7LQvX_45tGhRieRCnzkrrCCx2dopFXaL30a5d2L2dHMC7xeKQviNEMWsCvco_eRpvP-&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036643821"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSivlSChoo_98feaG7HHR0Sw55jm-kblSYAE91jLlYuFzevBAUuCgkbf2c9DY6gV1NQiXNmxRhUM7w44mn-NhpX8ru6pqXnDaw&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1441",
+                        "CTC": "157"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02jRYy661WAyya0NzPjZUVu_l3nxFLkn9Y6Vqrz7BfJeYSDCaF5bPdXbJeaqkOBJB37BDomvMfW48EK3S7L4MCGAXlyhEAKBRxo=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "157",
+                        "PT": "2003-09-15",
+                        "resource": "JOURNAL",
+                        "FN": "JSJA200309005",
+                        "BKLY": "计算机科学",
+                        "YE": "2003",
+                        "LY": "计算机科学",
+                        "TB": "CJFD2003",
+                        "AUC": "000036643821;000039057242",
+                        "AUFC": "0187103:000036643821;0187103:000039057242",
+                        "DFR": "1441",
+                        "AUF": "清华大学计算机系智能技术与系统国家重点实验室;清华大学计算机系智能技术与系统国家重点实验室 北京 100084;北京 100084_邢永康;马少平;;",
+                        "AU": "邢永康;马少平;",
+                        "TI": "统计语言模型综述",
+                        "QI": "09",
+                        "TN": "CJFD2003",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "基于语义关系查询扩展的文档重构方法",
+                    "authors": [
+                        {
+                            "name": "张敏,宋睿华,马少平",
+                            "url": null,
+                            "cnki_id": null
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "873",
+                        "CTC": "152"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02jRYy661WAyybW0hQ8YW7mkp3NcuCDajm3Dm12MgtsVtDYH9S8WWTwPnPYqL6n3BJ546GhU2BzIfSCxZbmlUhmeQpqCdswN80k=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "152",
+                        "PT": "2004-10-12",
+                        "resource": "JOURNAL",
+                        "FN": "JSJX200410011",
+                        "BKLY": "计算机学报",
+                        "YE": "2004",
+                        "LY": "计算机学报",
+                        "TB": "CJFD2004",
+                        "AUC": "000032039590;000036527514;000039057242",
+                        "AUFC": "0187103:000032039590;0187103:000036527514;0187103:000039057242",
+                        "DFR": "873",
+                        "AUF": "清华大学计算机科学与技术系智能技术与系统国家重点实验室;清华大学计算机科学与技术系智能技术与系统国家重点实验室;清华大学计算机科学与技术系智能技术与系统国家重点实验室 北京100084;北京100084;北京100084_张敏;宋睿华;马少平;;",
+                        "AU": "张敏,宋睿华,马少平",
+                        "TI": "基于语义关系查询扩展的文档重构方法",
+                        "QI": "10",
+                        "TN": "CJFD2004",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "基于Web-Log Mining的Web文档聚类",
+                    "authors": [
+                        {
+                            "name": "苏中,马少平,杨强,张宏江",
+                            "url": null,
+                            "cnki_id": null
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "425",
+                        "CTC": "120"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02ie1x-3BummgYL0b1jv_s_Y1DK8twd_MDbTaKsWwJA7V8K1Pq1uYMxK363v_Jqtr_rU4dlPhtAf3dVygy-CYTI4y1tJ0j1blBc=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "120",
+                        "PT": "2002-01-23",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB200201013",
+                        "BKLY": "软件学报",
+                        "YE": "2002",
+                        "LY": "软件学报",
+                        "TB": "cjfd2002",
+                        "AUC": "000039187133;000039057242;000034247499;000000556370",
+                        "AUFC": "0187103:000039187133;0187103:000039057242;0266798:000034247499;0035941:000000556370",
+                        "DFR": "425",
+                        "AUF": "清华大学计算机科学与技术系;清华大学计算机科学与技术系;Simon Fraser大学;微软中国研究院 北京100084 清华大学智能技术与系统国家重点实验室;北京100084;北京100084 清华大学智能技术与系统国家重点实验室;北京100084;加拿大;北京100080_苏中;马少平;杨强;张宏江;;",
+                        "AU": "苏中,马少平,杨强,张宏江",
+                        "TI": "基于Web-Log Mining的Web文档聚类",
+                        "QI": "01",
+                        "TN": "CJFD2002",
+                        "AFC": "0187103;0266798;0035941;"
+                    }
+                },
+                {
+                    "title": "问答社区中回答质量的评价方法研究",
+                    "authors": [
+                        {
+                            "name": "孔维泽",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSM6sNpWiUwv91wHdcQxpr3z-lA_G4ngxh2smbmpNSa5h5Za1qQLc_FvTcEOwFtH6i-_XlaayjczKeDACb2W3plZBnzrceMN2J&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000024172872"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSbk_AXxsRmPu0TXF1GWxweYE1I0FzSjrLq6ZBDZ4xJhpjs2eBt5Wbn-CB7zvOFjv4ELPGJeE5eH7zz0ZRoakcTOjOBY-_aSA9&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iStvWG_pBlPDjqN75YT3lqmlUvcA79v1OMKvh9jr8sLDKiyM_H2hvDRaKWMqNK9eZERRyzevIc96QK7iQ-AxzNDg==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSivlSChoo_98feaG7HHR0Sw55jm-kblSYAE91jLlYuFzevBAUuCgkbf2c9DY6gV1NQiXNmxRhUM7w44mn-NhpX8ru6pqXnDaw&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1549",
+                        "CTC": "116"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02iaRgi7WJP5GkTOTywkj_J6kSzD3RbYmIUuUG-vaXATS2jakKvPoPDuL0HIhbKlMaaEItxjXskYC9j4P89rLnByotW1HscM3zg=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "116",
+                        "PT": "2011-01-15",
+                        "resource": "JOURNAL",
+                        "FN": "MESS201101002",
+                        "BKLY": "中文信息学报",
+                        "YE": "2011",
+                        "LY": "中文信息学报",
+                        "TB": "CJFD2011",
+                        "AUC": "000024172872;000036783981;000032039590;000039057242",
+                        "AUFC": "0187103:000024172872;0187103:000036783981;0187103:000032039590;0187103:000039057242",
+                        "DFR": "1549",
+                        "AUF": "智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_孔维泽;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_刘奕群;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_张敏;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_马少平;;",
+                        "AU": "孔维泽;刘奕群;张敏;马少平;",
+                        "TI": "问答社区中回答质量的评价方法研究",
+                        "QI": "01",
+                        "TN": "CJFD2011",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "多Markov链用户浏览预测模型",
+                    "authors": [
+                        {
+                            "name": "邢永康,马少平",
+                            "url": null,
+                            "cnki_id": null
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "654",
+                        "CTC": "116"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02jRYy661WAyyW3Nrg5m1YowQuUeWnlrioR5Q1o9obVTohYhPI3FCg4yVxryt63jBmIU6lr4JygqB_Bv6grlalvgzxfnQdjuyF4=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "116",
+                        "PT": "2003-11-12",
+                        "resource": "JOURNAL",
+                        "FN": "JSJX200311012",
+                        "BKLY": "计算机学报",
+                        "YE": "2003",
+                        "LY": "计算机学报",
+                        "TB": "CJFD2003",
+                        "AUC": "000036643821;000039057242",
+                        "AUFC": "0187103:000036643821;0187103:000039057242",
+                        "DFR": "654",
+                        "AUF": "清华大学计算机系智能技术与系统国家重点实验室;清华大学计算机系智能技术与系统国家重点实验室 北京100084;北京100084_邢永康;马少平;;",
+                        "AU": "邢永康,马少平",
+                        "TI": "多Markov链用户浏览预测模型",
+                        "QI": "11",
+                        "TN": "CJFD2003",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "基于条件随机场方法的开放领域新词发现",
+                    "authors": [
+                        {
+                            "name": "陈飞",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSCCGHnBdhELWP6Ix99XjRaPzPXQXrAFHK6ox2q7u_-qf2oi9qyFN9ZTiIBjmwQZJ74Tp-PjJCli2PKb1f5OIlOA==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000035767923"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSbk_AXxsRmPu0TXF1GWxweYE1I0FzSjrLq6ZBDZ4xJhpjs2eBt5Wbn-CB7zvOFjv4ELPGJeE5eH7zz0ZRoakcTOjOBY-_aSA9&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "魏超",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iS-PB9DoABfBQcN-C6NFwP0mPgp6Avd9Uil6itfb95IGaMkcg1wY3FaJ-NiiGsmw9wsJgkkNGTw8wm7ei3xDgBdw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000029230425"
+                        },
+                        {
+                            "name": "张云亮",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSFbZ7miMz8BygASUrT15Lnw1NHvsR-SLXIPjxZAwVUNxSqeRdlX24v3_hG_99BsXMzeGVMojtpj-ppS7DJcW3k5hMhYDVO3JL&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000006882396"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iStvWG_pBlPDjqN75YT3lqmlUvcA79v1OMKvh9jr8sLDKiyM_H2hvDRaKWMqNK9eZERRyzevIc96QK7iQ-AxzNDg==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgx06PPPfANC3Sb0yJz4x1iSivlSChoo_98feaG7HHR0Sw55jm-kblSYAE91jLlYuFzevBAUuCgkbf2c9DY6gV1NQiXNmxRhUM7w44mn-NhpX8ru6pqXnDaw&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1531",
+                        "CTC": "110"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx06PPPfANC3cpgA0BTLNt3_hwWZype02ie1x-3BummgW6IQ4L9B9upziq-keozLr42k2T2gqKlN5VVeWPhC6kbwDeaWz0p7SMX6_zXvPA_JbLWKSeeDFwqx9GloJIWfFc=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "110",
+                        "PT": "2013-05-15",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB201305013",
+                        "BKLY": "软件学报",
+                        "YE": "2013",
+                        "LY": "软件学报",
+                        "TB": "CJFD2013",
+                        "AUC": "000035767923;000036783981;000029230425;000006882396;000032039590;000039057242",
+                        "AUFC": "0187103:000035767923,0187103:000035767923,0187103:000035767923;0187103:000036783981,0187103:000036783981,0187103:000036783981;0187103:000029230425,0187103:000029230425,0187103:000029230425;0187103:000006882396;0187103:000032039590,0187103:000032039590,0187103:000032039590;0187103:000039057242,0187103:000039057242,0187103:000039057242",
+                        "DFR": "1531",
+                        "AUF": "智能技术与系统国家重点实验室(清华大学)_陈飞;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_陈飞;清华大学计算机科学与技术系_陈飞;;\r\r\n智能技术与系统国家重点实验室(清华大学)_刘奕群;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_刘奕群;清华大学计算机科学与技术系_刘奕群;;\r\r\n智能技术与系统国家重点实验室(清华大学)_魏超;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_魏超;清华大学计算机科学与技术系_魏超;;\r\r\n清华大学计算机科学与技术系_张云亮;;\r\r\n智能技术与系统国家重点实验室(清华大学)_张敏;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_张敏;清华大学计算机科学与技术系_张敏;;\r\r\n智能技术与系统国家重点实验室(清华大学)_马少平;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_马少平;清华大学计算机科学与技术系_马少平;;",
+                        "AU": "陈飞;刘奕群;魏超;张云亮;张敏;马少平;",
+                        "TI": "基于条件随机场方法的开放领域新词发现",
+                        "QI": "05",
+                        "TN": "CJFD2013",
+                        "AFC": "0187103;"
+                    }
+                }
+            ],
+            "download_rank": [
+                {
+                    "title": "自然语言处理在信息检索中的应用综述",
+                    "authors": [
+                        {
+                            "name": "王灿辉",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytj4tTMFKN7p0xc4rNghoGrXwpaQa85nzoSQZZH0wBLe36WxbjsR-j1JLAj8ohcM6-_EIWKm86zI_V5--VROnyQ0T9cIw1Jhmt&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000038822966"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytX_VHR8rFpPKrKKdSZIbD4DQ-mW-Sw7cCw3QUW1Qj9Z-YhjBbB8gLpspI5uDEEBzT63XSE89UnTbuT9IoUTqK3w==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytpSyinystkeYx1Bz4oeG2JmF3pPG52w_mJA31crO-GjaBduo1KKjRt3a2xxfxdvcg10ngDbhW0M5C-6ZYAwu2fMEnUpY64EW8&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "10555",
+                        "CTC": "190"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwz1d0MPg3aBMfiAsgxtHqhFRvmrnJ8sx3Zt9f0IOXWMOZn7jrSc8Vh_fJISyltXTJcTnHoC2luJb0g0osI6o8heJ0g2XeZKhyaKiWm3Rab6s8Cx3DMxx51fUFqg2A0A30=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "190",
+                        "PT": "2007-03-30",
+                        "resource": "JOURNAL",
+                        "FN": "MESS200702005",
+                        "BKLY": "中文信息学报",
+                        "YE": "2007",
+                        "LY": "中文信息学报",
+                        "TB": "cjfd2007",
+                        "AUC": "000038822966;000032039590;000039057242",
+                        "AUFC": "0187103:000038822966;0187103:000032039590;0187103:000039057242",
+                        "DFR": "10555",
+                        "AUF": "清华大学计算机科学与技术系_王灿辉;;\r\r\n清华大学计算机科学与技术系_张敏;;\r\r\n清华大学计算机科学与技术系_马少平;;",
+                        "AU": "王灿辉;张敏;马少平;",
+                        "TI": "自然语言处理在信息检索中的应用综述",
+                        "QI": "02",
+                        "TN": "CJFD2007",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "数据挖掘综述",
+                    "authors": [
+                        {
+                            "name": "钟晓",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytlLUAUiGmHBU1UqyiG_80OloG7a7JWlChgitWUI0CjTn1EsMdLbsevrVWau3nOq3bYKeePtmzcYKBg0RO1XnH9w==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000007262135"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytpSyinystkeYx1Bz4oeG2JmF3pPG52w_mJA31crO-GjaBduo1KKjRt3a2xxfxdvcg10ngDbhW0M5C-6ZYAwu2fMEnUpY64EW8&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        },
+                        {
+                            "name": "张钹",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytBgBHLm8Z1BSMwB43PtQDZ31DlFoo212vRGQRryFqjeEnj98wlmcwmE__vvhx69QT9kTc4wDUz2nwqL3UT0Rn6A==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036824560"
+                        },
+                        {
+                            "name": "俞瑞钊",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytutZ0ApFDrypdn2wIQ0wjN7-a3FaTRgTG7yuf39PzuVJsjhA4RRBA8eswNNBT3UIWU7S4_jmfzenVEG7qsYYCLzdtAInhccSG&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036946702"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "7711",
+                        "CTC": "527"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwz1d0MPg3aBMfiAsgxtHqhFRvmrnJ8sx3YGlJW6LMZZITyjDQ7Z-BVZId89rXGnphOjMEbQZ87RkFRrSJ82rDQBH6AIQqT99Ut1-DDhOn1ZK3ohElDJRefo4pEqlFO4H8=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "527",
+                        "PT": "2001-03-15",
+                        "resource": "JOURNAL",
+                        "FN": "MSSB200101009",
+                        "BKLY": "模式识别与人工智能",
+                        "YE": "2001",
+                        "LY": "模式识别与人工智能",
+                        "TB": "CJFD2001",
+                        "AUC": "000007262135;000039057242;000036824560;000036946702",
+                        "AUFC": "0157820:000007262135;0187103:000039057242;0187103:000036824560;0157820:000036946702",
+                        "DFR": "7711",
+                        "AUF": "浙江大学计算机系人工智能研究所智能软件实验室;清华大学计算机科学技术系_钟晓;马少平;张钹;俞瑞钊;;",
+                        "AU": "钟晓;马少平;张钹;俞瑞钊;",
+                        "TI": "数据挖掘综述",
+                        "QI": "01",
+                        "TN": "CJFD2001",
+                        "AFC": "0157820;0187103;0157820;"
+                    }
+                },
+                {
+                    "title": "基于大规模日志分析的搜索引擎用户行为分析",
+                    "authors": [
+                        {
+                            "name": "余慧佳",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytPWrLXo1WtWm0LW9CSkefQOwhWF3URiID8UromaAYQlbaCSCKD-yYrJcJLgXJyJjH1kj42oz2UdHcJTNiIeq3Vbt0Twh4CuVh&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000021552275"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytYcIoVnHkuxyCdQdwWpLSuIKb7Ntg7VvDN6tCUy3L2_GnUkSrtYxrZk-plD6R5RkrkKI8moX_OxG1TnscgH0ojuJQZ6HkhH2_&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytX_VHR8rFpPKrKKdSZIbD4DQ-mW-Sw7cCw3QUW1Qj9Z-YhjBbB8gLpspI5uDEEBzT63XSE89UnTbuT9IoUTqK3w==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "茹立云",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytmf42fyZwbJMl3ULfdjFGtAgtpHESqqQUByhYBec_0BLFucsNcK72VylSXcFIM5v4zmHHCk81UGBa_rfjJ6CIxMOuA30loG31&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000025292660"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytpSyinystkeYx1Bz4oeG2JmF3pPG52w_mJA31crO-GjaBduo1KKjRt3a2xxfxdvcg10ngDbhW0M5C-6ZYAwu2fMEnUpY64EW8&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "4007",
+                        "CTC": "342"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwz1d0MPg3aBMfiAsgxtHqhFRvmrnJ8sx3Zt9f0IOXWMJz9uE6XWYHq3FQ-07ME1Wa1Uirjx8h3AGoTnsUq3Zsdl3Yvlx7kB8ONW5k74ofafIbLFLtl-mNKL3vrAPYdavg=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "342",
+                        "PT": "2007-01-30",
+                        "resource": "JOURNAL",
+                        "FN": "MESS200701017",
+                        "BKLY": "中文信息学报",
+                        "YE": "2007",
+                        "LY": "中文信息学报",
+                        "TB": "cjfd2007",
+                        "AUC": "000021552275;000036783981;000032039590;000025292660;000039057242",
+                        "AUFC": "0187103:000021552275;0187103:000036783981;0187103:000032039590;0735890:000025292660;0187103:000039057242",
+                        "DFR": "4007",
+                        "AUF": "清华大学智能技术与系统国家重点实验室_余慧佳;;\r\r\n清华大学智能技术与系统国家重点实验室_刘奕群;;\r\r\n清华大学智能技术与系统国家重点实验室_张敏;;\r\r\n搜狗公司研发中心_茹立云;;\r\r\n清华大学智能技术与系统国家重点实验室_马少平;;",
+                        "AU": "余慧佳;刘奕群;张敏;茹立云;马少平;",
+                        "TI": "基于大规模日志分析的搜索引擎用户行为分析",
+                        "QI": "01",
+                        "TN": "CJFD2007",
+                        "AFC": "0187103;0735890;"
+                    }
+                },
+                {
+                    "title": "基于日志挖掘的搜索引擎用户行为分析",
+                    "authors": [
+                        {
+                            "name": "岑荣伟",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhyttvRla7dP3ViAhwxitVDvp0bKi8AI6-VZ_HxPR3O7BaoNVj6U2zwYPO0OV2PpQwQqsIaoEBHgm00rdwYpe3DA6Ii9VOM7ROkp&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000019807547"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytYcIoVnHkuxyCdQdwWpLSuIKb7Ntg7VvDN6tCUy3L2_GnUkSrtYxrZk-plD6R5RkrkKI8moX_OxG1TnscgH0ojuJQZ6HkhH2_&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytX_VHR8rFpPKrKKdSZIbD4DQ-mW-Sw7cCw3QUW1Qj9Z-YhjBbB8gLpspI5uDEEBzT63XSE89UnTbuT9IoUTqK3w==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "茹立云",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytmf42fyZwbJMl3ULfdjFGtAgtpHESqqQUByhYBec_0BLFucsNcK72VylSXcFIM5v4zmHHCk81UGBa_rfjJ6CIxMOuA30loG31&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000025292660"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytpSyinystkeYx1Bz4oeG2JmF3pPG52w_mJA31crO-GjaBduo1KKjRt3a2xxfxdvcg10ngDbhW0M5C-6ZYAwu2fMEnUpY64EW8&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "2295",
+                        "CTC": "90"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwz1d0MPg3aBMfiAsgxtHqhFRvmrnJ8sx3Zt9f0IOXWMEJ1IPNd47gbVINEoIyBDbLTgO522_59dbdtQO6ig_N6TJEGJD_YdBNWC55C9N3s2tVVHDW5lcf-mClqmlGvURM=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "90",
+                        "PT": "2010-05-15",
+                        "resource": "JOURNAL",
+                        "FN": "MESS201003008",
+                        "BKLY": "中文信息学报",
+                        "YE": "2010",
+                        "LY": "中文信息学报",
+                        "TB": "CJFD2010",
+                        "AUC": "000019807547;000036783981;000032039590;000025292660;000039057242",
+                        "AUFC": "0187103:000019807547;0187103:000036783981;0187103:000032039590;0187103:000025292660;0187103:000039057242",
+                        "DFR": "2295",
+                        "AUF": "智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机科学与技术系_岑荣伟;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机科学与技术系_刘奕群;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机科学与技术系_张敏;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机科学与技术系_茹立云;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机科学与技术系_马少平;;",
+                        "AU": "岑荣伟;刘奕群;张敏;茹立云;马少平;",
+                        "TI": "基于日志挖掘的搜索引擎用户行为分析",
+                        "QI": "03",
+                        "TN": "CJFD2010",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "卷积神经网络特征重要性分析及增强特征选择模型",
+                    "authors": [
+                        {
+                            "name": "卢泓宇",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytqtuXA_14yRMB4UB0W9CIH-3fbw-i1kA5ns-9OfcIIbjdk3k1Hc4kU2P3Q5gU57Tuv08lP6hU5ItcM9MA9oPXHOjDARImg8DV&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000004216831"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytX_VHR8rFpPKrKKdSZIbD4DQ-mW-Sw7cCw3QUW1Qj9Z-YhjBbB8gLpspI5uDEEBzT63XSE89UnTbuT9IoUTqK3w==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytYcIoVnHkuxyCdQdwWpLSuIKb7Ntg7VvDN6tCUy3L2_GnUkSrtYxrZk-plD6R5RkrkKI8moX_OxG1TnscgH0ojuJQZ6HkhH2_&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytpSyinystkeYx1Bz4oeG2JmF3pPG52w_mJA31crO-GjaBduo1KKjRt3a2xxfxdvcg10ngDbhW0M5C-6ZYAwu2fMEnUpY64EW8&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "2008",
+                        "CTC": "86"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwz1d0MPg3aBMfiAsgxtHqhFRvmrnJ8sx3jkLpEjUphwofX6gQ5MvLaci47e0VJtARRLwk02RPxpzUm4hoBYaOu4HtYy2taDhFhYbU1LNFtvBqmZjSQwGfgI-sa0FSfwZgceUQDeQq1XQ==&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "86",
+                        "PT": "2017-11-15",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB201711007",
+                        "BKLY": "软件学报",
+                        "YE": "2017",
+                        "LY": "软件学报",
+                        "TB": "CJFD2017",
+                        "AUC": "000004216831;000032039590;000036783981;000039057242",
+                        "AUFC": "0187103:000004216831,0187103:000004216831;0187103:000032039590,0187103:000032039590;0187103:000036783981,0187103:000036783981;0187103:000039057242,0187103:000039057242",
+                        "DFR": "2008",
+                        "AUF": "清华大学智能技术与系统国家重点实验室_卢泓宇;清华大学计算机科学与技术系_卢泓宇;;\r\r\n清华大学智能技术与系统国家重点实验室_张敏;清华大学计算机科学与技术系_张敏;;\r\r\n清华大学智能技术与系统国家重点实验室_刘奕群;清华大学计算机科学与技术系_刘奕群;;\r\r\n清华大学智能技术与系统国家重点实验室_马少平;清华大学计算机科学与技术系_马少平;;",
+                        "AU": "卢泓宇;张敏;刘奕群;马少平;",
+                        "TI": "卷积神经网络特征重要性分析及增强特征选择模型",
+                        "QI": "11",
+                        "TN": "CJFDLAST2018",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "中西方媒体报道各国疫情的对比及情感分析方法研究",
+                    "authors": [
+                        {
+                            "name": "陈雪松\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwz1d0MPg3aBAJzVspYQhytwbBJ1f7A6MMpRC87a--Mq_IIPeixUjoMP0PynnLaKNBXwBmdl7G2UQVZxGYXepW1OAuAMYgfymsxG5bIuN5H00m9jxWIQYJOX0qEyN7MmAs=&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000026608045"
+                        },
+                        {
+                            "name": "毛佳昕\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIl5OU_Yh9FKvcpLSkjuHipHWpsABM-PjuaPnhoP2hvzz_hC2N4Z0Pw7dMaiw1qH_23WLHvrE5NVAXPy1yBpCoule6k95aKZFVVYlaoDuV1Go0=&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000019101613"
+                        },
+                        {
+                            "name": "马为之\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlP_DeHXqLJ_43HyTvl6QYXKZBOHFYpN_5oDMfbAoEjiOesUodhlRuQTTe9_X6F1S_15ivpO4OrvjOp6-y3s3InJoILyUFLy184kjmxGo1Clg=&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000019061092"
+                        },
+                        {
+                            "name": "刘奕群\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIljgUw6Vo01SLe6U5yf77SccJReN3aC6hzY4ygMZtJE5gyJIKkUcHSKG0wpmWPhsD2sU9K5dkKf04yPA_DkLw_y9UvP25rxRZHizJQ3ObBXxA=&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlxPxwqPPfiOiuz8wk6H9gQnT1Fv6Rw-e7wJa9Dkppd_RSKuUPEUMEb6BMzjJQiZ8vlc74NeqPa_nFFsMuw_lzvUUEmzMc-SkW&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平\r\n",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlHJ3r154TpwWK2DLHDrJ_tX7cDHmhvnStbX1cDRgxpB4ooX7fblcLGNjpPWgSI_moxJ1-zUdrEcl8E2WGQrF5rNNqlebyYaxT0oYHwPIKJbQ=&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1976",
+                        "CTC": "12"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwbY-NjGy07sLcUWkgZTzC-AESPhsN3o19ZSwONKA0eMizhGR4vsJxSYX2pjRl_2nuolnnnWQ1lt_koyMX_Bn2mtooQHniQMsXOk3VOGkY22SfEYESjbac1gK_RlOcg5TloiFcP7B3Jig==&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "12",
+                        "PT": "2022-05-15",
+                        "resource": "JOURNAL",
+                        "FN": "JSJX202205006",
+                        "BKLY": "计算机学报",
+                        "YE": "2022",
+                        "LY": "计算机学报",
+                        "TB": "CJFD2022",
+                        "AUC": "000026608045;000019101613;000019061092;000036783981;000032039590;000039057242",
+                        "AUFC": "#:000026608045;#:000019101613;#:000019061092;#:000036783981;#:000032039590;#:000039057242",
+                        "DFR": "1976",
+                        "AUF": "_陈雪松;;\r\n_毛佳昕;;\r\n_马为之;;\r\n_刘奕群;;\r\n_张敏;;\r\n_马少平;;\r\n清华大学计算机科学与技术系_;;\r\n北京信息科学与技术国家研究中心_;;",
+                        "AU": "陈雪松\r\n;毛佳昕\r\n;马为之\r\n;刘奕群\r\n;张敏\r\n;马少平\r\n;",
+                        "TI": "中西方媒体报道各国疫情的对比及情感分析方法研究",
+                        "QI": "05",
+                        "TN": "CJFDLAST2022",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "微博中用户标签的研究",
+                    "authors": [
+                        {
+                            "name": "邢千里",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlqiXn0wN4zv0-3CPLjmlAljVynmdJnLA2pPRO9UCmFL6jMdHEJQI2v8y7tiy1baT40PSuYL9kfR-IgStnPCh3kK87zMFH4E2T&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000005392938"
+                        },
+                        {
+                            "name": "刘列",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIldLbpZAYsnEPxKJj8BRKjjQpbO_NBmJRtOMwtuBEaWjJcAGxy7L3WRoNS8W37OIOc_vXWvjKM58Mf_gCnTqMOrg==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000038913607"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIljgUw6Vo01SLe6U5yf77SccJReN3aC6hzY4ygMZtJE5gyJIKkUcHSKEz6NSPYGd9lC7AAyGXOYSkz3fhRSLRxZ7_wItto5UrS&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlxPxwqPPfiOiuz8wk6H9gQnT1Fv6Rw-e7wJa9Dkppd_S0L7YdYz3xG_LTSOWrMyf582Hs27jDrvjF01CJdVZxXw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlHJ3r154TpwWK2DLHDrJ_tX7cDHmhvnStbX1cDRgxpB4ooX7fblcLGJa44rHF6fsEA0_m86598Cjqso3XA-j_rs-pG0_zn1uf&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1804",
+                        "CTC": "95"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwbY-NjGy07sLcUWkgZTzC-AESPhsN3o18TAsYouh6l4xN0u-YzQKddwosjA5JFLsUTEvw660qgbJHzNFD-AGTg0Upz24uEpzKtzIk2RAq_rI3DgPCErutn1DyFm__4KabH89mNbZpI7g==&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "95",
+                        "PT": "2015-07-15",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB201507006",
+                        "BKLY": "软件学报",
+                        "YE": "2015",
+                        "LY": "软件学报",
+                        "TB": "CJFD2015",
+                        "AUC": "000005392938;000038913607;000036783981;000032039590;000039057242",
+                        "AUFC": "0187103:000005392938;0187103:000038913607;0187103:000036783981;0187103:000032039590;0187103:000039057242",
+                        "DFR": "1804",
+                        "AUF": "清华大学计算机科学与技术系_邢千里;;\r\r\n清华大学计算机科学与技术系_刘列;;\r\r\n清华大学计算机科学与技术系_刘奕群;;\r\r\n清华大学计算机科学与技术系_张敏;;\r\r\n清华大学计算机科学与技术系_马少平;;",
+                        "AU": "邢千里;刘列;刘奕群;张敏;马少平;",
+                        "TI": "微博中用户标签的研究",
+                        "QI": "07",
+                        "TN": "CJFDLAST2015",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "基于用户行为分析的搜索引擎自动性能评价",
+                    "authors": [
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIljgUw6Vo01SLe6U5yf77SccJReN3aC6hzY4ygMZtJE5gyJIKkUcHSKEz6NSPYGd9lC7AAyGXOYSkz3fhRSLRxZ7_wItto5UrS&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "岑荣伟",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlI5iIXLnJM763AyYLhSKwL_dHog3qlNuO8G7x9cT17Q0kKYqzkTvinzkHfpkbLFo-bXz4azx-ydCUz4fkeE8R1H4k5IGMse-k&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000019807547"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlxPxwqPPfiOiuz8wk6H9gQnT1Fv6Rw-e7wJa9Dkppd_S0L7YdYz3xG_LTSOWrMyf582Hs27jDrvjF01CJdVZxXw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "茹立云",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIldpPhgs5BmdJguWfXtcZZZw2r1mx9DELLE3YF_rdmH7tQd2iu_u5nDP8SSo-OTXzPjNdl4mgHpN1zJ77iS5KoMuDwghe5dZms&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000025292660"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlHJ3r154TpwWK2DLHDrJ_tX7cDHmhvnStbX1cDRgxpB4ooX7fblcLGJa44rHF6fsEA0_m86598Cjqso3XA-j_rs-pG0_zn1uf&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1759",
+                        "CTC": "93"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwbY-NjGy07sLcUWkgZTzC-AESPhsN3o18TAsYouh6l48p6Te8TnH134TGnHWn7tMIBB3oNV2bR0AaHWNYe3O1ayfs-ZEYwSj7cmFYmNTKbe0ek7uxtrtXn9s-Nbi0nwdw=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "93",
+                        "PT": "2008-11-15",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB200811027",
+                        "BKLY": "软件学报",
+                        "YE": "2008",
+                        "LY": "软件学报",
+                        "TB": "CJFD2008",
+                        "AUC": "000036783981;000019807547;000032039590;000025292660;000039057242",
+                        "AUFC": "0187103:000036783981;0187103:000019807547;0187103:000032039590;0797440:000025292660;0187103:000039057242",
+                        "DFR": "1759",
+                        "AUF": "清华大学计算机科学与技术系智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)_刘奕群;;\r\r\n清华大学计算机科学与技术系智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)_岑荣伟;;\r\r\n清华大学计算机科学与技术系智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)_张敏;;\r\r\n搜狐公司研发中心_茹立云;;\r\r\n清华大学计算机科学与技术系智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)_马少平;;",
+                        "AU": "刘奕群;岑荣伟;张敏;茹立云;马少平;",
+                        "TI": "基于用户行为分析的搜索引擎自动性能评价",
+                        "QI": "11",
+                        "TN": "CJFD2008",
+                        "AFC": "0187103;0187103;0797440;"
+                    }
+                },
+                {
+                    "title": "问答社区中回答质量的评价方法研究",
+                    "authors": [
+                        {
+                            "name": "孔维泽",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlj2KXdqzlJ4xPwn7UOCWoNh8KTO2qyhTdVNgX13UDgeac8U1TKlCSolFGWwC_xBkRediAP_Is0AedBBttSLyPOy1VwYX7qfq1&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000024172872"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIljgUw6Vo01SLe6U5yf77SccJReN3aC6hzY4ygMZtJE5gyJIKkUcHSKEz6NSPYGd9lC7AAyGXOYSkz3fhRSLRxZ7_wItto5UrS&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlxPxwqPPfiOiuz8wk6H9gQnT1Fv6Rw-e7wJa9Dkppd_S0L7YdYz3xG_LTSOWrMyf582Hs27jDrvjF01CJdVZxXw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlHJ3r154TpwWK2DLHDrJ_tX7cDHmhvnStbX1cDRgxpB4ooX7fblcLGJa44rHF6fsEA0_m86598Cjqso3XA-j_rs-pG0_zn1uf&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1549",
+                        "CTC": "116"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwbY-NjGy07sLcUWkgZTzC-AESPhsN3o1_MRoXeftCtKRT4m-SbiUp8gftCMO52IpbvF8wAjnDWt2KOsqK-FfItpme00dmuzHK1P_1ZG8w0HhOJJEK9y16Xm3GGvCqC9SA=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "116",
+                        "PT": "2011-01-15",
+                        "resource": "JOURNAL",
+                        "FN": "MESS201101002",
+                        "BKLY": "中文信息学报",
+                        "YE": "2011",
+                        "LY": "中文信息学报",
+                        "TB": "CJFD2011",
+                        "AUC": "000024172872;000036783981;000032039590;000039057242",
+                        "AUFC": "0187103:000024172872;0187103:000036783981;0187103:000032039590;0187103:000039057242",
+                        "DFR": "1549",
+                        "AUF": "智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_孔维泽;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_刘奕群;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_张敏;;\r\r\n智能技术与系统国家重点实验室清华信息科学与技术国家实验室(筹)清华大学计算机系_马少平;;",
+                        "AU": "孔维泽;刘奕群;张敏;马少平;",
+                        "TI": "问答社区中回答质量的评价方法研究",
+                        "QI": "01",
+                        "TN": "CJFD2011",
+                        "AFC": "0187103;"
+                    }
+                },
+                {
+                    "title": "基于条件随机场方法的开放领域新词发现",
+                    "authors": [
+                        {
+                            "name": "陈飞",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlmB8inczyAr7NxAjdKxq1Ezs4Vq-YTEXAFpofzXY-WNhxNvoc_2ZxRvNT_2VB5Xun12MAEev7Xab1CXA3JSZijw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000035767923"
+                        },
+                        {
+                            "name": "刘奕群",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIljgUw6Vo01SLe6U5yf77SccJReN3aC6hzY4ygMZtJE5gyJIKkUcHSKEz6NSPYGd9lC7AAyGXOYSkz3fhRSLRxZ7_wItto5UrS&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000036783981"
+                        },
+                        {
+                            "name": "魏超",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlUJUqcan9QfdMvIUxUM3evtqxyC6PE3Ch0Z1eUPVv3Tijwv-KDV8gKqaJFENevMBG-zxcO-JaXnzouKpXX4qsrw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000029230425"
+                        },
+                        {
+                            "name": "张云亮",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlaOoGrg9SYJ3wpvmO7GIaQCiLtTTvkCU6BYm4D-7MHBNNVbo5f8rPixgQ_NqaU8BWP3UwC_IB8NRX2dsmtE2c9x_7YurT-hY_&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000006882396"
+                        },
+                        {
+                            "name": "张敏",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlxPxwqPPfiOiuz8wk6H9gQnT1Fv6Rw-e7wJa9Dkppd_S0L7YdYz3xG_LTSOWrMyf582Hs27jDrvjF01CJdVZxXw==&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000032039590"
+                        },
+                        {
+                            "name": "马少平",
+                            "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwbY-NjGy07sKfh0_Yl-EIlHJ3r154TpwWK2DLHDrJ_tX7cDHmhvnStbX1cDRgxpB4ooX7fblcLGJa44rHF6fsEA0_m86598Cjqso3XA-j_rs-pG0_zn1uf&uniplatform=NZKPT&language=CHS",
+                            "cnki_id": "000039057242"
+                        }
+                    ],
+                    "metrics": {
+                        "DTC": "1531",
+                        "CTC": "110"
+                    },
+                    "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwbY-NjGy07sLcUWkgZTzC-AESPhsN3o18TAsYouh6l40PRhxNreZOP9zyH3LWCBXRKI9_EzXOwR0NGaLHz3elz7LEdpBCMoz23bLn5_uRQ2zrwL_5zFGBfZgbGOZ2SV9I=&uniplatform=NZKPT&language=CHS",
+                    "metadata": {
+                        "product": "CJFQ",
+                        "CF": "110",
+                        "PT": "2013-05-15",
+                        "resource": "JOURNAL",
+                        "FN": "RJXB201305013",
+                        "BKLY": "软件学报",
+                        "YE": "2013",
+                        "LY": "软件学报",
+                        "TB": "CJFD2013",
+                        "AUC": "000035767923;000036783981;000029230425;000006882396;000032039590;000039057242",
+                        "AUFC": "0187103:000035767923,0187103:000035767923,0187103:000035767923;0187103:000036783981,0187103:000036783981,0187103:000036783981;0187103:000029230425,0187103:000029230425,0187103:000029230425;0187103:000006882396;0187103:000032039590,0187103:000032039590,0187103:000032039590;0187103:000039057242,0187103:000039057242,0187103:000039057242",
+                        "DFR": "1531",
+                        "AUF": "智能技术与系统国家重点实验室(清华大学)_陈飞;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_陈飞;清华大学计算机科学与技术系_陈飞;;\r\r\n智能技术与系统国家重点实验室(清华大学)_刘奕群;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_刘奕群;清华大学计算机科学与技术系_刘奕群;;\r\r\n智能技术与系统国家重点实验室(清华大学)_魏超;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_魏超;清华大学计算机科学与技术系_魏超;;\r\r\n清华大学计算机科学与技术系_张云亮;;\r\r\n智能技术与系统国家重点实验室(清华大学)_张敏;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_张敏;清华大学计算机科学与技术系_张敏;;\r\r\n智能技术与系统国家重点实验室(清华大学)_马少平;清华大学清华信息科学与技术国家实验室(清华大学)(筹)_马少平;清华大学计算机科学与技术系_马少平;;",
+                        "AU": "陈飞;刘奕群;魏超;张云亮;张敏;马少平;",
+                        "TI": "基于条件随机场方法的开放领域新词发现",
+                        "QI": "05",
+                        "TN": "CJFD2013",
+                        "AFC": "0187103;"
+                    }
+                }
+            ],
+            "conferences_rank": [
+                {
+                    "name": "中国计算机语言学研究前沿进展（2007-2009）",
+                    "Value": "9",
+                    "url": "https://navi.cnki.net/knavi/conferences/proceedings/ZGZR200907001/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "第八届全国汉字识别学术会议论文集",
+                    "Value": "5",
+                    "url": "https://navi.cnki.net/knavi/conferences/proceedings/ZGZR200210001/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "第四届全国信息检索与内容安全学术会议论文集（上）",
+                    "Value": "4",
+                    "url": "https://navi.cnki.net/knavi/conferences/proceedings/ZGZR200811001/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "面向21世纪的科技进步与社会经济发展（上册）",
+                    "Value": "3",
+                    "url": "https://navi.cnki.net/knavi/conferences/proceedings/DIDD199910001/detail?uniplatform=NZKPT"
+                }
+            ],
+            "journals_rank": [
+                {
+                    "name": "中文信息学报",
+                    "Value": "40",
+                    "url": "https://navi.cnki.net/knavi/journals/MESS/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "软件学报",
+                    "Value": "15",
+                    "url": "https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "计算机研究与发展",
+                    "Value": "8",
+                    "url": "https://navi.cnki.net/knavi/journals/JFYZ/detail?uniplatform=NZKPT"
+                },
+                {
+                    "name": "广西师范大学学报(自然科学版)",
+                    "Value": "5",
+                    "url": "https://navi.cnki.net/knavi/journals/GXSF/detail?uniplatform=NZKPT"
+                }
+            ],
+            "domains": [
+                {
+                    "name": "用户行为分析",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsPEjQCuU43dbqfqShAk7r7Dfte3D3KTZxrUInXSoz02-k4jh-MjzK2I01-HeIcNspNjPyMpXnTx6NHog9QuGwsOnZkkXO58rMEz5coB_XlT8=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "中文信息处理",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsGWmKAh0czDPZachHuWJ5umACLc_lIHG317Re-BHQmi4qC01hy4f33sPslY8UMbsontqyCBnyYjHCKk7FYUzSgNSbUpEx3WMEZhf0SbXcAfM=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "网络信息检索",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsN4x6sFgo_RGXEUc80nf6kF-r8JakCKl9qhU1cFepyqAqXpeTGHNMCE9h0of1pJUAZhkwYnWKECsmuRUgnOtXcA1zPnXBMVviC5wtq30phkM=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "搜索引擎",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsMhoBEEG2rKLPkOErrrINQyYL-CAEFEMYw7MiprHKCHNNigDfQmEbEQTpCmf_mkLhbrqfCgGuaZJ0QPMjGQugBQ==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "计算机应用",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsy9jLauTETJIh3JoWlEOKGEYaMkhWIZyMJhJvIYfw6rXk-Pn5SR0y4JM4-jTDPGVY3Gecnkg93cEX80rjck5nC9qClG4EckO6&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "信息检索",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nms8q0LHyt8pJWxS4ezYGH3w7RXIBCYdAmslCjh_lZNFnhuAaU9fULZFIqYv2FzdOBAK7uKgo4GoSbbgGT_OO3jJg==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "汉字识别",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsNXK0L27KYIgsvnFTe99CcEMCTik9rmz12AHWOaDb0M7siipM62Lx2as2WsZLHWp62RysS3wviBt17MoEr135cQ==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "机器学习",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nms9JczhCiuLnm39GmihzfIuiov9PJcQqOxJnJTzxNZru51xzuMWCzm10j_7wyY1L3fmB02Esu0wVrFx409ByFPew==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "用户行为",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsPEjQCuU43dbqfqShAk7r7Dfte3D3KTZxrUInXSoz02-xpul_bUYStXwIJB2JsHX6ragYoZGD80YsDVWmwnV1DA==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "Web信息检索",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUiKwbMJu3FIaf4pP_S8A4NwZ0mudSGXtloMZRZgLVCESu0qz4ubD1q3ISqJnJTFwMdtu4N3nC4Ao9uLS00aXK8gs0WsgWeHM0eCq2rhqUYmc&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "推荐系统",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsHSK0hWyczAOHLuwvyjbxe8GFXSLUk-1RO3pXdxXDy6uZv5AXrj5A3tP3ApFT3w-PIh_HKY0X6eINUlgJTPVkdw==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "虚拟组织",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsnuH1-Q8HEVlcGWnfbkWe3vV5Uk5iuOj91u_04EqqGRZs5uCuNUiRGqbyMycSTTKWXRKKZMpjCh-jvmiR3yQlww==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "分类",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsdpDLkNDgQZbGt4RQT7ta1QiQXWz4LzyY8yuEGpzRATY8GXdgDM1qPRwbDF0GSy8i&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "聚类",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsyF9pQukGtdGS6oTkRlg9ma4p7lClxnI3HpouWG-vE-KvjFEI5QAJV5LeEnFp_S3M&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "基于内容的图像检索",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsn40sIwAkF-YOo3Bu22HrvaCB8FWBGx-FsoEAQal1QqdJ6yBuF5zSbAOB6TDaQcMwW4-dRjhtTc__KddQfkHu_CsgcORxC48y64EZhc58swN7UKk1GwfennQsL9Orx6qtIVJwquPkeKfbE1LphARTVA==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "深度学习",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nms2PzvtybFuhvz9RFOT8lDlXz4V7rYQ0zgSymfyvMCjX7cSiIn0oUt0uu98WWw9FarBR1AdzPfxbb7CqbsmW0nVA==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "相关反馈",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsMnhX28s7tNa8lVgiTB4VPQ3hoKENHx1Ij31FrhIf3YaryitXEGAlSC3llxK4DWGOIiBw6OBpNUThX_Zw6kq92g==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "文本分类",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmsOiUJM_aplUY2MRDM-84sekM2jBlfbscYUbkfW3HfgfM1oFe_t7rG4LYgFjX1d8ktlGa5yxU36r65kEdJejBU7A==&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "关键资源页面",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nmseUyUz9meOSlnxWxxl6s4W8C6OANnIWRYCpPBdYlUkirOQq6LMDhMrMy2i1WTW8gDRNvoOaNEEXKK8gbwy3ni6R4rCgmC-40BEw2DKhd0UnY=&uniplatform=NZKPT&language=CHS"
+                },
+                {
+                    "name": "后处理",
+                    "url": "https://kns.cnki.net/kcms2/keyword/detail?v=D99zBTMMfgySMWiUc9dkUnu1oUtB7nms9zehjHS1imQPNFtqKR-06-MrKJhxlWI6xQRQoH9BYlsmUaAaCo-NxLykIN303BCWN34CpVSLO4I=&uniplatform=NZKPT&language=CHS"
+                }
+            ],
+            "query": {
+                "total": 23,
+                "size": 5,
+                "data": [
+                    {
+                        "no": 1,
+                        "metadata": [
+                            {
+                                "name": "ZZCZDW",
+                                "value": "湖南省桃江县农业局;桃江县武潭镇农业综合服务站;湖南省益阳市赫山区蔬菜局;"
+                            },
+                            {
+                                "name": "DYXZPS",
+                                "value": "2"
+                            },
+                            {
+                                "name": "ORG",
+                                "value": "湖南省桃江县农业局"
+                            },
+                            {
+                                "name": "WXPS",
+                                "value": "20"
+                            },
+                            {
+                                "name": "RZZZ",
+                                "value": "0"
+                            },
+                            {
+                                "name": "NAME",
+                                "value": "马少平"
+                            },
+                            {
+                                "name": "HXQKLW",
+                                "value": "0"
+                            },
+                            {
+                                "name": "ORGCODE",
+                                "value": "0078229"
+                            },
+                            {
+                                "name": "ZZCZDWDM",
+                                "value": "0078229;1752315;0220214;"
+                            },
+                            {
+                                "name": "PJBYPC",
+                                "value": "2.4500"
+                            },
+                            {
+                                "name": "CODE",
+                                "value": "000045041282"
+                            },
+                            {
+                                "name": "BYPC",
+                                "value": "49"
+                            },
+                            {
+                                "name": "YJLY",
+                                "value": "农作物;园艺;植物保护;"
+                            },
+                            {
+                                "name": "XZPC",
+                                "value": "1466"
+                            }
+                        ],
+                        "affiliations": [
+                            {
+                                "no": 1,
+                                "id": "0078229",
+                                "title": "湖南省桃江县农业局",
+                                "relations": [
+                                    {
+                                        "scope": "ABSTRACT",
+                                        "url": "https://kns.cnki.net/kcms2/organ/detail?v=D99zBTMMfgz_8ctv1eW7rMz4Kye7uJnhlSbSaYIMguJWuPF0b6XjZ6IimMaZiPPQTW-CFKrbHZq128zAtHhWeIdYw-ifFsB1VXne9sxG7rKFELIa9-WAgM0CI1P2_U4lvzFpE-3lzQvIW_6WU_ZfVKGeGQQhhg2GB-m5ejGaHDqQmaEMg_51HcEbIoPcqzHa&uniplatform=NZKPT&language=CHS"
+                                    }
+                                ]
+                            }
+                        ],
+                        "metrics": [
+                            {
+                                "name": "PUC",
+                                "value": "20"
+                            },
+                            {
+                                "name": "DTC",
+                                "value": "1466"
+                            },
+                            {
+                                "name": "CTC",
+                                "value": "49"
+                            }
+                        ],
+                        "relations": [
+                            {
+                                "scope": "ABSTRACT",
+                                "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgz_8ctv1eW7rMz4Kye7uJnhmrmccBQppm1ewxe5X_QevHyFstJUFtM0kKE5-RbmKAyFpiXVgsSq3UxljkFpbr3K2UHrqH6LFuwDXhAZj8JkMwkUR9Y1IlT0&uniplatform=NZKPT&language=CHS"
+                            }
+                        ]
+                    },
+                    {
+                        "no": 2,
+                        "metadata": [
+                            {
+                                "name": "ZZCZDW",
+                                "value": "皖南医学院第一附属医院;皖南医学院弋矶山医院;"
+                            },
+                            {
+                                "name": "AUZC",
+                                "value": "副主任医师;"
+                            },
+                            {
+                                "name": "DYXZPS",
+                                "value": "4"
+                            },
+                            {
+                                "name": "ORG",
+                                "value": "皖南医学院第一附属医院"
+                            },
+                            {
+                                "name": "WXPS",
+                                "value": "15"
+                            },
+                            {
+                                "name": "RZZZ",
+                                "value": "0"
+                            },
+                            {
+                                "name": "NAME",
+                                "value": "马少平"
+                            },
+                            {
+                                "name": "HXQKLW",
+                                "value": "2"
+                            },
+                            {
+                                "name": "ORGCODE",
+                                "value": "0137691"
+                            },
+                            {
+                                "name": "ZZCZDWDM",
+                                "value": "0137691;0032482;"
+                            },
+                            {
+                                "name": "PJBYPC",
+                                "value": "7.4667"
+                            },
+                            {
+                                "name": "CODE",
+                                "value": "000039057225"
+                            },
+                            {
+                                "name": "BYPC",
+                                "value": "112"
+                            },
+                            {
+                                "name": "YJLY",
+                                "value": "妇产科学;肿瘤学;医学教育与医学边缘学科;"
+                            },
+                            {
+                                "name": "XZPC",
+                                "value": "2174"
+                            }
+                        ],
+                        "affiliations": [
+                            {
+                                "no": 1,
+                                "id": "0137691",
+                                "title": "皖南医学院第一附属医院",
+                                "relations": [
+                                    {
+                                        "scope": "ABSTRACT",
+                                        "url": "https://kns.cnki.net/kcms2/organ/detail?v=D99zBTMMfgz_8ctv1eW7rFvfWh66u6ONmNCoz02bzUEP8SF7iVLzGYASVWxHFM2GwTItoquvMoEWxnZW5xTNo1T7WvWFuz4epgg8QT3sBQAgDrGDdo0XfsCUrrJrrq2TitS42MhC3n22bjSkSh8keel0Wg3KnCQqA1K4-KBpi15_qWESb5ckCAbuT2zABA9lSrYx6toxLUuw0kT2STLq6ODWvNKxprXS&uniplatform=NZKPT&language=CHS"
+                                    }
+                                ]
+                            }
+                        ],
+                        "metrics": [
+                            {
+                                "name": "PUC",
+                                "value": "15"
+                            },
+                            {
+                                "name": "DTC",
+                                "value": "2174"
+                            },
+                            {
+                                "name": "CTC",
+                                "value": "112"
+                            }
+                        ],
+                        "relations": [
+                            {
+                                "scope": "ABSTRACT",
+                                "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgz_8ctv1eW7rMz4Kye7uJnhwfT290M8uLQPXuCQQ7NEKfCNRDQM8hZfW6gQQ5yfEBXohKrhe69qnHJPEg6Wa1-du-8m440bEH0aIbolmpYXoabx3WD6p90a&uniplatform=NZKPT&language=CHS"
+                            }
+                        ]
+                    },
+                    {
+                        "no": 3,
+                        "metadata": [
+                            {
+                                "name": "ZZCZDW",
+                                "value": "宁夏金太阳药业有限公司;"
+                            },
+                            {
+                                "name": "DYXZPS",
+                                "value": "0"
+                            },
+                            {
+                                "name": "ORG",
+                                "value": "宁夏金太阳药业有限公司"
+                            },
+                            {
+                                "name": "WXPS",
+                                "value": "10"
+                            },
+                            {
+                                "name": "RZZZ",
+                                "value": "0"
+                            },
+                            {
+                                "name": "NAME",
+                                "value": "马少平"
+                            },
+                            {
+                                "name": "HXQKLW",
+                                "value": "0"
+                            },
+                            {
+                                "name": "ORGCODE",
+                                "value": "0475726"
+                            },
+                            {
+                                "name": "ZZCZDWDM",
+                                "value": "0475726;"
+                            },
+                            {
+                                "name": "PJBYPC",
+                                "value": "0.2000"
+                            },
+                            {
+                                "name": "CODE",
+                                "value": "000039057227"
+                            },
+                            {
+                                "name": "BYPC",
+                                "value": "2"
+                            },
+                            {
+                                "name": "YJLY",
+                                "value": "中药学;药学;"
+                            },
+                            {
+                                "name": "XZPC",
+                                "value": "0"
+                            }
+                        ],
+                        "affiliations": [
+                            {
+                                "no": 1,
+                                "id": "0475726",
+                                "title": "宁夏金太阳药业有限公司",
+                                "relations": [
+                                    {
+                                        "scope": "ABSTRACT",
+                                        "url": "https://kns.cnki.net/kcms2/organ/detail?v=D99zBTMMfgz_8ctv1eW7rN9WYk5NMq2byFe9rnjpfKinjCAJaXVYZsEoHYKn4s8UZFH9KdY8UezwyMCl2d4oent1AN1JLgiGjpab3l4whGKknbQIeR5oLYpwBN0aq2XYuD-xjUBOftAIJKci2SViHRTqxNCAvculaz2uo7XAEwdcywtZ_jJzujkG2DD64sdy702cLVJBktJgX0SfwCqzJ4iwXhkOvK3S&uniplatform=NZKPT&language=CHS"
+                                    }
+                                ]
+                            }
+                        ],
+                        "metrics": [
+                            {
+                                "name": "PUC",
+                                "value": "10"
+                            },
+                            {
+                                "name": "DTC",
+                                "value": "0"
+                            },
+                            {
+                                "name": "CTC",
+                                "value": "2"
+                            }
+                        ],
+                        "relations": [
+                            {
+                                "scope": "ABSTRACT",
+                                "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgz_8ctv1eW7rMz4Kye7uJnhwfT290M8uLTmclhJWT09JFs2jqz7hH5CibvrMAaO6yFVVPRb2juy2MeyEOXQnQqk__RXTdeNjGUgJI2upGsTok3qkgC-Czdi&uniplatform=NZKPT&language=CHS"
+                            }
+                        ]
+                    },
+                    {
+                        "no": 4,
+                        "metadata": [
+                            {
+                                "name": "PJBYPC",
+                                "value": "0.0000"
+                            },
+                            {
+                                "name": "CODE",
+                                "value": "000049379444"
+                            },
+                            {
+                                "name": "DYXZPS",
+                                "value": "0"
+                            },
+                            {
+                                "name": "BYPC",
+                                "value": "0"
+                            },
+                            {
+                                "name": "YJLY",
+                                "value": "电力工业;机械工业;仪器仪表工业;"
+                            },
+                            {
+                                "name": "WXPS",
+                                "value": "10"
+                            },
+                            {
+                                "name": "XZPC",
+                                "value": "2"
+                            },
+                            {
+                                "name": "RZZZ",
+                                "value": "0"
+                            },
+                            {
+                                "name": "NAME",
+                                "value": "马少平"
+                            },
+                            {
+                                "name": "HXQKLW",
+                                "value": "0"
+                            }
+                        ],
+                        "affiliations": [],
+                        "metrics": [
+                            {
+                                "name": "PUC",
+                                "value": "10"
+                            },
+                            {
+                                "name": "DTC",
+                                "value": "2"
+                            },
+                            {
+                                "name": "CTC",
+                                "value": "0"
+                            }
+                        ],
+                        "relations": [
+                            {
+                                "scope": "ABSTRACT",
+                                "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgz_8ctv1eW7rMz4Kye7uJnhEQFxwsuwFqvxP5asx98bmu1GBLO4-C-tRtz8sb_s76ud-Q2CJGzA1gD5WNL0cZs0htGuRnXwWd-ghfxwPZrueiTqddaLNC01&uniplatform=NZKPT&language=CHS"
+                            }
+                        ]
+                    }
+                ],
+                "start": 1
+            },
+            "pub_count": 201,
+            "journal_count": 119,
+            "meeting_count": 41,
+            "thesis_count": 0,
+            "newspaper_count": 0,
+            "author": {
+                "cnki_id": "000039057242",
+                "id": "马少平",
+                "name": "马少平",
+                "value": 85534,
+                "symbolSize": 17.1068,
+                "itemStyle": {
+                    "borderWidth": 1,
+                    "borderColor": "#fff"
+                },
+                "label": {
+                    "show": true
+                },
+                "url": "https://kns.cnki.net/kcms2/author/detail?v=D99zBTMMfgwxE9ZwRQfM8oiAmLdWoC_2PCNmtpVS6xiEQnoUddRgXEcHHq8RKiZHYEb79WTT9tv2yoDPB7RRIIS4oKvXgKOOILvmdhe6Mpvh14Nb1nUo62EqhTtDrlq-&uniplatform=NZKPT&language=CHS",
+                "PUC": "201",
+                "DTC": "81082",
+                "CTC": "4251"
+            }
+        }
+    ]
+}

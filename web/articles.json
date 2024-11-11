@@ -1,0 +1,2352 @@
+[
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyxb8nyf-bMEzV4YiE3TK5kuONJuc4yNdz3P21CYrdUSHjK4sA2mrKl_SzpKLpVhZbbqk1NtUlTVnbJHh7JUJbxozFhh3hjeUVXWopL0yJfp3pJCBEeJ9WrFt_oMYuEVnFZI7F7pDxOkbNWdVdIXUH6SdNEwNiFVBJzAwiiFH_y02rItLge-S2q&uniplatform=NZKPT&language=CHS",
+        "title": "中西方媒体报道各国疫情的对比及情感分析方法研究",
+        "author": [
+            "陈雪松",
+            "毛佳昕",
+            "马为之",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "计算机学报",
+        "date": "2022-05-15",
+        "data": "期刊",
+        "quote": "12",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz7-5-W2Iujr2CrTprZR8W86D38FUCcMPLTucsa4dlmC7G2O9_PC4S8pEvBvhTIuVqAbhWvLfOZEnFsJKq9rIr0yHxQEksbGzMwvnMnLnxBfC4tbMguZOce32q9Pz5BxFKEQlSmn1AAaWaWyTLWbtIdY1B3NLcqCDOBwnAbPP652wzILlseMOOR&uniplatform=NZKPT&language=CHS",
+        "title": "ReChorus:综合高效易扩展的轻量级推荐算法框架",
+        "author": [
+            "王晨阳",
+            "任一",
+            "马为之",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2022-04-15",
+        "data": "期刊",
+        "quote": "8",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz7-5-W2Iujr2CrTprZR8W86D38FUCcMPLkwH3TYUN1Vrzer5RlZdQod772dQcnMImgeTlsjYgG44c7JhTlUaaIUyV4Hd8jT6Lhl-5meYKAP4ElPt7tuEWmkIqRSge_TKd02EN1WHOxablqF9bArraqJfYiQni5kduEwrllXIGHTb72Vnrx00Oc&uniplatform=NZKPT&language=CHS",
+        "title": "司法场景下案例推荐系统的召回方法研究",
+        "author": [
+            "肖悦",
+            "马为之",
+            "张敏",
+            "杨俊",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "山西大学学报(自然科学版)",
+        "date": "2022-01-06 11:44",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz7-5-W2Iujr2CrTprZR8W86D38FUCcMPJGuHi2KGfrwpGez_mXNC21q2pV7BxQBpq0rUInYzOcX4wbp7TMlcDpE7NmsWA1GXVJWHb0gd2hiegibJwIa7lFKjqVZyEYGPWY3G6YI5-SWEylUNMDbLSS-3rYQ9XNm6yqO3rqiqcC0fNv2FNW4Up5&uniplatform=NZKPT&language=CHS",
+        "title": "细节决定成败:推荐系统实验反思与讨论",
+        "author": [
+            "施韶韵",
+            "王晨阳",
+            "马为之",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "信息安全学报",
+        "date": "2021-09-15",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzuiHvn4HLkA7cvOqvkumII2tqvEScTCi3k03VSVB-Xz-bDq23WZnYS6JTVb9PRNr_B92XelVh_ekhgIdfs2FcaDaXo9szDstFt94s239bDHY7lKubmNcT_svDa7C0Gh0AaDDX-SRhxThSfwVvX4cFA8Xjpz8y_n-TIs-fyONfvP4iO2jv2Hzu&uniplatform=NZKPT&language=CHS",
+        "title": "结合用户长短期兴趣的深度强化学习推荐方法",
+        "author": [
+            "阎世宏",
+            "马为之",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2021-08-15",
+        "data": "期刊",
+        "quote": "21",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzuiHvn4HLkA7cvOqvkumII2tqvEScTCi3k03VSVB-Xwe2p-KAb2EaV4ThU5a1qFozrf_h4X8hCWIPBsYvqti36MVLXaz2HP5xMfr12yYulwFQae7u8zlhESH6IyOi94_8YIcicGQtLrNgiB7BJzQ2L7NCzmalEbYImv1_eXngPI4xJxvKWq4B&uniplatform=NZKPT&language=CHS",
+        "title": "基于生活日志的情绪识别",
+        "author": [
+            "王鹏宇",
+            "张敏",
+            "马为之",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2021-01-15",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz68aCyUjhoAoOdXfklBafmX8_Gc_kgOVt1R1S3MmrdeaNQlASs03TBF9B5sTZgpjfZoU517JTf4n1O5300AUPnZ8IDg4xqPXaHF56p4U5qLulY_tS2kFY4uAzuQ6K0O24SeQ83TVBB4g8R1XGWR1tJGULBVX0qYHpt9QVboUIZO-ropN6xgOsS&uniplatform=NZKPT&language=CHS",
+        "title": "基于半监督学习的涉及未成年人案件文书识别方法",
+        "author": [
+            "杨圣豪",
+            "吴玥悦",
+            "毛佳昕",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "华南理工大学学报(自然科学版)",
+        "date": "2021-01-15",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz68aCyUjhoAoOdXfklBafmX8_Gc_kgOVtEoo0KpDJHV4RC6osDKRoaR44y78oQEM_o74OgSNnUB37k-F_GG_BGEeIn05s3Tg8orYq1fo6ntxajDdp3V58ifnXgXogKM11PvF9VcJrIprjWwTt_AaCzP1ic_s5sIhTosSRQsZxfeiLalZcsHny4&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户意图的搜索结果文本突显方法",
+        "author": [
+            "张辉",
+            "马少平"
+        ],
+        "source": "上海交通大学学报",
+        "date": "2020-02-28",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwprzqy8upQ7YXpK5kF6FqYWr1b8vovO61VoQ4Y62gVkY1VTh-RCIr6Fm2wm980tFnTZx8t3ouos3o1ox-1EcZY-RdrEtnDqJ0mnHEYhkJZKCD9tkeYDfqSpaL7zKB6PMoDuXYLnsLOt08Q-dSTqEmG4YYKS-wa8eCGvANeWIA7TIkVFuWopL-S&uniplatform=NZKPT&language=CHS",
+        "title": "融合商品潜在互补性发现的个性化推荐方法",
+        "author": [
+            "邵英玮",
+            "张敏",
+            "马为之",
+            "王晨阳",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2020-01-14 09:53",
+        "data": "期刊",
+        "quote": "28",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwprzqy8upQ7YXpK5kF6FqYWr1b8vovO61cvMJMFMKsHqthTJQrw7exhLZlMhLzltOLzwwkMqqZoPzt4lpO1mB3ogjoia8r0drRUV2GmuTGO4VZzk3Jw_WjI7JlDSMCI7f3d0lHASVRtjot5TaOKxOwqo1p0339bKZv8ao15rg9ZZNU-tr5ppKp&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎结果展示效果自动评价方法",
+        "author": [
+            "张辉",
+            "马少平"
+        ],
+        "source": "中南大学学报(自然科学版)",
+        "date": "2019-06-26",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzEcyWoY_e6CRyosqu8rqdiW_T3XrZ5ODxYql_vhuyH2DNs5n-MV6ay90ZCubFg0Iczef99nBZjyKn2HawLvCfi0itwMlYobMGtS-5f5lPpkLTeBv2cC1Gw4s1jjGR3lYXwqpisX21vk4YnDlEg8kyNyL9lULgKSaC51vOG6MkVAFXkQYMXLO_N&uniplatform=NZKPT&language=CHS",
+        "title": "图像搜索环境下用户满意度预测方法研究",
+        "author": [
+            "陈雪松",
+            "张帆",
+            "刘奕群",
+            "罗成",
+            "张敏",
+            "马少平"
+        ],
+        "source": "山西大学学报(自然科学版)",
+        "date": "2019-01-29 15:00",
+        "data": "期刊",
+        "quote": "9",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzEcyWoY_e6CRyosqu8rqdiW_T3XrZ5ODyGAeKfMsikKxQN7xf9Ghu5EhKHh5hG_AsOdus0QyQgPED2jjqmOe2rxvuTuIGeT4Y-S5AAz7xnXkBpKyWZVwkv1dAzeqxA_wKAY6HIhrLUuoBzV75z14kv3AtVm8R0TBMor0BSARF1WAf-uzASorl0&uniplatform=NZKPT&language=CHS",
+        "title": "T-Reader:一种基于自注意力机制的多任务深度阅读理解模型",
+        "author": [
+            "郑玉昆",
+            "李丹",
+            "范臻",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2018-11-15",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwN91N7pw0ZCRm1EYR1ShqRV5JPEKxhqHjgtb9sJ3xzIJ17SeZUg6QRRnIlpdj_yb6Lkz2gA8Rgs6WqAgmbSusZFhp32HT9BUdytRcFvYoEXZVqok6Q6CaaoAsPbnVZDHKMOnj-0LeEMZCI9_4kmPKIp2s5w1ma23f8pI-hcGW2DjxrB2U9uGOt&uniplatform=NZKPT&language=CHS",
+        "title": "文本飘红策略对搜索引擎用户行为的影响",
+        "author": [
+            "张辉",
+            "苏宁",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "清华大学学报(自然科学版)",
+        "date": "2018-08-15",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwN91N7pw0ZCRm1EYR1ShqRV5JPEKxhqHiYtYHVaQAT8c49Jh1uuYZ5EC-Dg-ZarewOPUGsn4Pb0mSsCKuhXyZZSs9Q14calf80BMggrGvtZN4I7Bx6xAXEMrsa-6VDic3qxqloaIZQc6WyLK8cr_2VhzX5Ngimt79IeZ3vJfo0A89eJ2W0SMb-&uniplatform=NZKPT&language=CHS",
+        "title": "儿童外语学习认知数据收集的在线游戏框架",
+        "author": [
+            "马为之",
+            "张敏",
+            "张琛昱",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2018-04-15",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzwnsY0ISXu9HblGl3hq2zLpgSRTZmhFo7X3OpMLIr6SF93datH394KkScO7NHA8SYghslnim4Ylydeh1MHYTywvGd6Z6DMqG-C0ci_9EJNkrSJsrEXbR2Mtup6gugFhONKf_UzagB6FgnSkwIkjBx6SoqZVQUyxn1yL7yDtbU8S_9qFrWXUYTS&uniplatform=NZKPT&language=CHS",
+        "title": "卷积神经网络特征重要性分析及增强特征选择模型",
+        "author": [
+            "卢泓宇",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2017-11-15",
+        "data": "期刊",
+        "quote": "86",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzwnsY0ISXu9HblGl3hq2zLpgSRTZmhFo5EDKj5F1JoVAxLteLf_AxG95TU37AvPEh8yBrSj3NnOeRHsv5415HkLpTe7ruLnidvRdkdng5tumj222uH6M9FjoCykMYPPCA4QbmVMjzhtik3BoYVYyDEESMUObESQ1k2sQBjSeP12JJ7OXYxkbhI&uniplatform=NZKPT&language=CHS",
+        "title": "基于深度学习加强的混合推荐方法",
+        "author": [
+            "张敏",
+            "丁弼原",
+            "马为之",
+            "谭云志",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "清华大学学报(自然科学版)",
+        "date": "2017-10-15",
+        "data": "期刊",
+        "quote": "100",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzwnsY0ISXu9HblGl3hq2zLpgSRTZmhFo43CkSruNJRTXvYmcoc-htrVAbVSN4mNQskQOAd3684QBBTvNfI_AWXD2WVdESKLmLBxp_LiG1U9LOjQ5Xn8FTYMDLD7ivZ2ZhxnO7j7rC9OqneXwPJfSnGoELEwyEtwx0YbryrrvJ6KGgAhbVFqYU0&uniplatform=NZKPT&language=CHS",
+        "title": "基于深度神经网络的搜索引擎点击模型构建",
+        "author": [
+            "谢晓晖",
+            "王超",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2017-09-15",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx_xXxDjzaaN9TO39VhB-1qtZWs72PNpq0-168IEkWcyh__1LYRKAGDeMaMX6_npWMzJhcl9BsgLJDT6MaFg9Jw7QAx4hQnqwWOpTvmCck5SiPxIDvwzJA0iWBB-SManti3pur9QDbOwTFYSvnhle0jy5MdyRQXxCyXC8zHcao1VjbViBICOvue&uniplatform=NZKPT&language=CHS",
+        "title": "HTML页面中的文献记录分析算法",
+        "author": [
+            "曾庆涛",
+            "解凯",
+            "李业丽",
+            "王欣刚",
+            "叶宇姗",
+            "马少平"
+        ],
+        "source": "北京邮电大学学报",
+        "date": "2017-06-15",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx_xXxDjzaaN9TO39VhB-1qtZWs72PNpq270tx4RMtoFMktvK0AIX613k8lyFZ8y1EB6o13-Vbuhj6ja20fDsx-F_WcqgeZ6WCyzi6GfZNCpT6mxhHg5d2iOxQdQp3GODMjcMSAdOwbbGz3CzLifsyCVkdLCQUwwc08aKxQHE_fzwyMv8DDDCQ1&uniplatform=NZKPT&language=CHS",
+        "title": "异质搜索环境下的用户偏好性预测方法研究",
+        "author": [
+            "张帆",
+            "罗成",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "山东大学学报(理学版)",
+        "date": "2017-06-14 09:01",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzY7W694VPkOaVO1eE3hJ4u8vsLvaEZ56KjLc7ffNWJjWJyZBXO8cWCBJFc6eHtqgqG8Tj9GmkoTdu9uDikjIIaPcgNFK0xo14oKnWFPeBjmXTyfqvL4x1spvopl8U03zaz8pEFhbZ_VtF92Cv9D5I9dDQAac_lcnnh5ayX3RQPzwIhg-HGh-ce&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎点击模型综述",
+        "author": [
+            "王超",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "智能系统学报",
+        "date": "2017-01-11 16:19",
+        "data": "期刊",
+        "quote": "14",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzZvZMGz0-HC-3Ct0Vi3o-HJDIdWBdtdEHUVXrRPiPnpshZ09goNGGd2mio-1ghvXTKPFw7Tm0oyKnHNSqfB8eWw-uY5tZr6tTLsaA25JItyMa0PmEr_Ax3ed2mpWnx-impvbmfDOtz-lYxfWsAkqrStAiQtiLvcHPBzDshy4fc172nhrSnzDZb58nMU8AhOQw=&uniplatform=NZKPT&language=CHS",
+        "title": "基于条件随机场的文献记录分析算法",
+        "author": [
+            "曾庆涛",
+            "解凯",
+            "李业丽",
+            "叶雨珊",
+            "马少平"
+        ],
+        "source": "2016年全国通信软件学术会议程序册与交流文集",
+        "date": "2016-06-24",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx-RZvUur9GUe3oYRj2lloj_7chxX9w-uDdPy-nina3b8r_raRhh2XiwKgA4Ru_aK3stQGmvCEv9LggkY7CWe7wL9Ik1r-64wk8I9DGyUSFfeOcac5K_rJ_h3XNZHiP9-dovAPgUq_srB-pXzEnpEQ8L9n5wrDNE6q7vDyJ816Is52HRnvV8esT&uniplatform=NZKPT&language=CHS",
+        "title": "社交网络用户标签预测研究",
+        "author": [
+            "刘列",
+            "邢千里",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2016-03-15",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx-RZvUur9GUe3oYRj2lloj_7chxX9w-uDdPy-nina3b8r_raRhh2Xie9K7tJHqud7_erbaMIl1-ZL5GPQIEQjV5Biw485ZzXFxTx61oxYa9jJz9urirrAzzoFoq6AAvTbadE_iQL1eHW19xXUq8rGPuIhLk71Dw7pKy_STlIGcqxga-oEiGo1f&uniplatform=NZKPT&language=CHS",
+        "title": "基于在线社会网络的用户影响力研究",
+        "author": [
+            "许丹青",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2016-03-15",
+        "data": "期刊",
+        "quote": "8",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwHPb5oJkjBEkzWEQNWxR0dly5k0qdaaHypvIYJMbMrA1VsDRXUWJvkOqRoJ4laMqJryWrcwJbqv_Htl7tjsVIH5Jv3gzHq9Mnifi-zOobHQq4YatSmR_NvgB8SnxXTxvC6bJDvx1JlryBnAmW-BJNiqdkDR-xQGf5l4OtwCDkh88Q-ipXukOZX&uniplatform=NZKPT&language=CHS",
+        "title": "基于查询子主题分类的多样性搜索评价方法",
+        "author": [
+            "陈飞",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2015-12-15",
+        "data": "期刊",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwHPb5oJkjBEkzWEQNWxR0dly5k0qdaaHypvIYJMbMrA3hC21ZMmIavxx2F21IiGXQplx_HeD8xgEgbtP8aUjkc7WaJajmmwxQ_0D1q1sP9Ps7xzACr27pZjwpTL9yYol4S7MAtJoI_1Fz0SPutcNE0xyFTwLOW-b1Qm0Mq1JuBJWVdyFSGeNu-&uniplatform=NZKPT&language=CHS",
+        "title": "微博中用户标签的研究",
+        "author": [
+            "邢千里",
+            "刘列",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2015-07-15",
+        "data": "期刊",
+        "quote": "95",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzSGQV0vslEBe4K-6Vwvi3xRH_PDHym0N-AwlXl9oj4X14GYifWJ9OitDCUNLQN8jhv7j8EKSKn7euMURrj5m4Ar0lg1ZIY5-XWBHRr8mWYQB3e3l62WB_8FjYwWVxdOEtG5AeR5SrbiYhgA7NQE9SZx7xLf7xgqchXysqVY_LGQhC_TYat1Eva&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎索引网页集合选取方法研究",
+        "author": [
+            "茹立云",
+            "李智超",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2014-10-15",
+        "data": "期刊",
+        "quote": "16",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzSGQV0vslEBe4K-6Vwvi3xRH_PDHym0N9MjtNYpNDxm0pyXyQzrwofbkKF2thhjcMFttxorW1E5tU89d0RHFVqDTKFboR7UU5wPVHjF7eAD0pWKvU-BJMGcA500fT-pri6zHKZ0HjE3wGPXb2gl6c3TqgBV1cfBel7dMImArhi-313Kbfr4cZK&uniplatform=NZKPT&language=CHS",
+        "title": "文本情感分类中生成式情感模型的发展",
+        "author": [
+            "张辉",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "计算机应用研究",
+        "date": "2014-08-27 09:49",
+        "data": "期刊",
+        "quote": "7",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw9oyoJyacn8owLlLqZihXfxx_nv76uxGo9QtOWi0lUMieGA3ry02YeIMTZrtB0fY_a1mNwcerfcQZlsejC2DV9kYt7lxx9ovgl4h5a4KvE4ibRvyX41uo8AquTQfBzwWjqRhKdl3JrKFNClnd6QJ3S4szM98B9cKQH5_UG94f9LBaBISkSVFO1&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户意图识别的查询推荐研究",
+        "author": [
+            "罗成",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云",
+            "张阔"
+        ],
+        "source": "中文信息学报",
+        "date": "2014-01-15",
+        "data": "期刊",
+        "quote": "30",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw9oyoJyacn8owLlLqZihXfxx_nv76uxGo9QtOWi0lUMieGA3ry02YeebXPvKBtl6oZryxjYRtwcSp2h8kldygUZFQPbCUA-FVThtIaYI4SvPTxdlZxKlUm5D1sEhUuC5ITxXeZwBCXFQSPoRiUOKHm4kRYBlAC7vBQVH_nV_DKZ9cPotLzPPis&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎用户行为与用户满意度的关联研究",
+        "author": [
+            "刘健",
+            "刘奕群",
+            "马少平",
+            "张敏",
+            "茹立云",
+            "张阔"
+        ],
+        "source": "中文信息学报",
+        "date": "2014-01-15",
+        "data": "期刊",
+        "quote": "23",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxj6zkxZqJw-OGpENPG-Iyxy0owaMWvVoyxD3LARXQXEhQzWXFSIyHTLV-VsGRzDBKRU1JDn0Amwpxd-jOqlRN-oZbbOFDQs1424-66eV6fraqTTHRMv34_cBQfR26faHXW8OZADTCsm6GPyNVuMztHQJn4mrpYZxQ4oaLT_K_ZJHGFWe3RdX_s&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎广告中广告商状态建模",
+        "author": [
+            "姜昌浩",
+            "张敏",
+            "高斌",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2013-12-15",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxj6zkxZqJw-OGpENPG-Iyxy0owaMWvVoxqoFJfNIZUDktOR2w3MChUhfwa3W98Otwls9qXcL-zkeZ5POesgA8aQNbLXC45w4RSB7uO9NXfYMlgZzcGNa6UvdwksDzPLGC9x_WQ--cnbhEb7658s76zNZwiDz0r2pPW0KKhDwb6ftn-3DzWLpum&uniplatform=NZKPT&language=CHS",
+        "title": "基于网络资源与用户行为信息的领域术语提取",
+        "author": [
+            "闫兴龙",
+            "刘奕群",
+            "方奇",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "软件学报",
+        "date": "2013-09-15",
+        "data": "期刊",
+        "quote": "27",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxYmHOapBOHTGZaE9w5WrukIPp-II86oa30V9OpCv302-B9WmN9bmB0jeLeosB8bsBnsaLpVvDLtnl7kWTg3n07taz0GDu_aN2I6rTpqz2nZcADJXUm3YBExHp3b1aSPzG7YRUNTJHyankKz3XfR9CubwCM5WOwhRv23jcrIbZCi_tVSOg_kcf9&uniplatform=NZKPT&language=CHS",
+        "title": "基于条件随机场方法的开放领域新词发现",
+        "author": [
+            "陈飞",
+            "刘奕群",
+            "魏超",
+            "张云亮",
+            "张敏",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2013-05-15",
+        "data": "期刊",
+        "quote": "110",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxYmHOapBOHTGZaE9w5WrukIPp-II86oa32IKhOYu3WVbCF5lGpr8GtDaMSfhIEQe6W4CuDJxSFncJ-Z7pQrr7MYjqRv_Ew9evvmBUBd47fS1F8xoJ4ySe8LBT-QFYkgd_VccGpEj9ZAdIlMDBsjMiMb819p5Mu5R3AnQfXWw7VFuEwXd8aAjJy&uniplatform=NZKPT&language=CHS",
+        "title": "搜索引擎用户查询的广告点击意图分析",
+        "author": [
+            "靳岩钦",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "哈尔滨工业大学学报",
+        "date": "2013-01-30",
+        "data": "期刊",
+        "quote": "13",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw0YKC7jj9kFy-ZRQyu2Jm3-LUAei9ZJDXszakLTb4QCHmgxTRF54UKTBhdsscKru_oiC9nPR1RFjuItSzKTamJsK3NkpTM9hUxV_QSHbHdotvmFFBFkycdtJQ1iQR3xm75qStKVbR7zdVGi0w_yQyJk6rI8wJZFT0zx9Rqh55Hhjjdaa0otr3f&uniplatform=NZKPT&language=CHS",
+        "title": "构建查询需求形式分类体系",
+        "author": [
+            "王超",
+            "朱彤",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2012-11-15",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw0YKC7jj9kFy-ZRQyu2Jm3-LUAei9ZJDUs02sglaJ2_YIVorvT2u3KXEW-C_HQMmE_3AcpkpdzJwpCcDEWmk0y9TUMudGQhKJJthiP5qpTrGZy94dz8BpMzRurNlYmX8cxw4EwkmTXYvqR-mvXEb6XwMBiAORBFnyDdumGguXnUPtwcfd4yG2q&uniplatform=NZKPT&language=CHS",
+        "title": "面向浏览推荐的网页关键词提取",
+        "author": [
+            "闫兴龙",
+            "刘奕群",
+            "马少平",
+            "张敏",
+            "茹立云"
+        ],
+        "source": "智能系统学报",
+        "date": "2012-09-25 10:09",
+        "data": "期刊",
+        "quote": "7",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyVDukEaOIopqj8s8nN0kh1wh7ksJqilOKeckUkHRPAL6ujVW3d-eH16Bm-syge3VdvtOfelnJOqZOpj3eA_vPlaLDIL3gSHxEPPo2ehDzQGug5GEQXatD96hpukFUWHWc4Ht3c8ze6UbuEkcZDa80Qo-d1xMCWX9-dOl9LGdAtxHxmo4J0Ds6J&uniplatform=NZKPT&language=CHS",
+        "title": "基于遗传规划集成学习的网络作弊检测",
+        "author": [
+            "牛小飞",
+            "马军",
+            "马少平",
+            "张冬梅"
+        ],
+        "source": "中文信息学报",
+        "date": "2012-09-15",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyVDukEaOIopqj8s8nN0kh1wh7ksJqilOKeckUkHRPALwCmY7ZVOyIgpwFfROjj7JWDmdcHYiEHGuQ-mXU8W_qfO4jAVcKHZb4Pc-AlLsxCSotfjKa4XE5LEzcokHGLuQP8XkLP1IF1G08nN3kfY71MYMTs8uLPtMph1CN_vVKLINw_LGOUkvHl&uniplatform=NZKPT&language=CHS",
+        "title": "中文搜索引擎用户行为的演化分析",
+        "author": [
+            "马少平",
+            "刘奕群",
+            "刘健",
+            "张敏",
+            "祝建华",
+            "茹立云"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-11-15",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyp0sPAoPucz49u8ajWF844MxaYerxBUlEJlmlKGHHL-EVLyBpBVjH09Sjc-Xf3QBNHU5opib9bR6gf9QkEHKqL1IIxavf35T6n_KQjMk1-6AsMXjdSh9ofGlNedng1hicYi3aKjyxmJsi6qInbvlwTTev7n02sojRPVsJOc1td2mDRnw4CUPC7&uniplatform=NZKPT&language=CHS",
+        "title": "网页质量评价体系的研究",
+        "author": [
+            "魏超",
+            "陈飞",
+            "许丹青",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-09-15",
+        "data": "期刊",
+        "quote": "10",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyp0sPAoPucz49u8ajWF844MxaYerxBUlEJlmlKGHHL-EVLyBpBVjH0Mwlo52wAbf0XFkR5bBqebHR8hyD8GvhzbtK9JUb3QT1jwfDK083hdhh0xy_IlDy6nGK7FWJGiUnofhH0bt4-SrYSxS_GVcBXcrTeRpE6t89zy-di08pQsPYcJYzx0prO&uniplatform=NZKPT&language=CHS",
+        "title": "基于浏览器收藏夹的用户行为研究",
+        "author": [
+            "方奇",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-09-15",
+        "data": "期刊",
+        "quote": "6",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz7JmcXO8QzioDKMIcuNDYDCB2r1YD_C8-Dtg6WNWUq5wy1WArw53HdDd8F_jMOli4YAuuJKqntvbv-cYYmhOnTnYUCVfDNFu4qK1wqyFYjJnmztzpF5TFIFq69xtYiL8CV3QdeQNlQvp2U_f_6I7GtvC_75dIPgdu3K0mEelKXX_F2qvLnmX8S1wMLkVsvavE=&uniplatform=NZKPT&language=CHS",
+        "title": "基于维基百科层次分类框架的主题推荐系统的研究",
+        "author": [
+            "谢科",
+            "刘奕群",
+            "岑荣伟",
+            "马少平",
+            "茹立云",
+            "杨磊"
+        ],
+        "source": "中国计算语言学研究前沿进展（2009-2011）",
+        "date": "2011-08-20",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxCFYcIQDVUXcYAOQw0ysiWmYMI5NFFLlq7l6Ru-uH7kHTCO3u68X4YuDq9xMLO7hf6uVH0DF87GhT6CaT8qYbU27_F0R-p2u5xCKCvqsfD7XKvAmsFn5sAlsHI2UUmDL3EoTRSwKwSJzbwWEKWArLRDGpd61Ygcn4RKKKuayPB1nMv-bSJFD0r&uniplatform=NZKPT&language=CHS",
+        "title": "锚文本检索有效性分析",
+        "author": [
+            "周博",
+            "刘奕群",
+            "张敏",
+            "金奕江",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2011-08-15",
+        "data": "期刊",
+        "quote": "7",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxCFYcIQDVUXcYAOQw0ysiWmYMI5NFFLlpeBNad4u4dDUUhYxQxeNnmmIPfc8j4aPn3vX9EpJ-4SHiqi1f0yc4cvbQPbpb1QtwCnatV1v26A87dqjux1T983YzaJYaAo0Zk3J_OHQ3ykINwn3-QrZolj9zZkWA-iFSyqU6m012gYi5itnhdyccy&uniplatform=NZKPT&language=CHS",
+        "title": "人工智能导论课大作业设置探讨",
+        "author": [
+            "黄宇",
+            "马少平"
+        ],
+        "source": "计算机教育",
+        "date": "2011-08-10",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwQMOwv0WPM9TbTajzRqwW1zBvzSCc7Cd79PBmommzK_KwM0Bd9StIbioR6FoKfNi1Yn_ipc9wtsZcnWEwIHWESvJZZcjmw-RmTSMGW_YuNNw_UKSgZ5oqKQ0bC8xqHyp9ZOmvbeCaQ3KaO1H28mK8spEka8bCO6DGEpZ5TvLJvKouMQ-Vwbb44&uniplatform=NZKPT&language=CHS",
+        "title": "面向排序学习的特征分析的研究",
+        "author": [
+            "花贵春",
+            "张敏",
+            "邝达",
+            "刘奕群",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "计算机工程与应用",
+        "date": "2011-06-11",
+        "data": "期刊",
+        "quote": "16",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwQMOwv0WPM9TbTajzRqwW1zBvzSCc7Cd6lDihRh0GdjImHJ5W-76-BN3yOdPsDeZTaiRzLMYM1j4Zdd-zUZ15sK7o9TrSyQTIruCaJfhjerwHCsMkqCb3API5r3efAbQSlDC0sjdfXRQZInPPEOQ-R4W2kNjMQmSRaAqykIlvo0tt8_U7C39Cm&uniplatform=NZKPT&language=CHS",
+        "title": "基于HITS算法的查询结果多样化方法",
+        "author": [
+            "陈飞",
+            "张敏",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "山东大学学报(理学版)",
+        "date": "2011-05-04 12:04",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw7upD9Ht9UonXVhh7OrvOCgCCKtPcR682Tht6zhjLZG8DUfakr4tB8HBcWSQkntZbe0tkxGCFTwLSisWCpOVufBlX7pwKKf9_smprLa_v1PnObPKQp4721OAfFyVy2HeRrMurri_5GE4sHNQixr2-ZTzLI-wMJieJLecC92eudix4swtSe01GY&uniplatform=NZKPT&language=CHS",
+        "title": "网页作弊与反作弊技术综述",
+        "author": [
+            "李智超",
+            "余慧佳",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "山东大学学报(理学版)",
+        "date": "2011-05-04 12:02",
+        "data": "期刊",
+        "quote": "19",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw7upD9Ht9UonXVhh7OrvOCgCCKtPcR683NEwP0PxEbgGE5WYsnYQCWPTBrQO87Y4hQz1jpTvedoejKFIG_I2bAQVUb4Nu4C6wSvkJ7BGe3zJ_nsqO8-Hu-4-ZqyU9rM3Bfr3CpQaaMkyrzYw7bwCYzUQjJiyAPXG2MxEQk0Rs8d0GLdlZNiTOb&uniplatform=NZKPT&language=CHS",
+        "title": "基于日志分析的中文输入法用户行为研究",
+        "author": [
+            "许丹青",
+            "刘奕群",
+            "岑荣伟",
+            "马少平",
+            "茹立云",
+            "杨磊"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-03-15",
+        "data": "期刊",
+        "quote": "8",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzUxmOhBSoDPYNhnLWty1WSQ3gDTQvuI-Ti9WGhJTkM7OA9TtnEoRbWD8DeRcIG6lE4-Iadjzs4xSJGhxuTg-yygWR4vt-e9LuGWO60kUHMkJBmjyiq8gFU2Nntt4STtlXdtHg348WsArMg2HlhA7q3OJdB04IRUcwx4ybODn3ymS7xSi1ImFtX&uniplatform=NZKPT&language=CHS",
+        "title": "问答社区中回答质量的评价方法研究",
+        "author": [
+            "孔维泽",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-01-15",
+        "data": "期刊",
+        "quote": "116",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzUxmOhBSoDPYNhnLWty1WSQ3gDTQvuI-Ti9WGhJTkM7OA9TtnEoRbWYiGsq_D-p1dGJlexgu_t01ebv0gR-uYU7yZCOkMQpweZW2uWPV3gcmDvZYwLH4gEkvIWLVUT1bX5iM4xzIhYmNU8FybRYBJnrD0e3bcbm1cypKkoBYd4R3HkGUrRlc9Z&uniplatform=NZKPT&language=CHS",
+        "title": "基于群体智慧的Web访问日志会话主题识别研究",
+        "author": [
+            "方奇",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2011-01-15",
+        "data": "期刊",
+        "quote": "11",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyDuDjSiH526DulEnXdKO1IRBlmyq0DimMI1WJ2_qgr4A40B7b-BQCD1LWydreKOL0osRU8s64N-FiazTomVdgjJGz8qEAwsijTy0uPvV9BrGikc43HaN9S90NeneXbqfKgrHRGdBGkS6t0xCYGj0tSvdMe99DmG3xtxvXCd7TNWas6PK3qziYkCz3cvf51O5s=&uniplatform=NZKPT&language=CHS",
+        "title": "基于日志分析的中文输入法用户行为研究",
+        "author": [
+            "许丹青",
+            "刘奕群",
+            "岑荣伟",
+            "马少平",
+            "茹立云",
+            "杨磊"
+        ],
+        "source": "第五届全国青年计算语言学研讨会论文集",
+        "date": "2010-10-11",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyDuDjSiH526DulEnXdKO1Iz1coCl52hHP4Qmz9gmOWtxSP2eOyLGzoYziDkxNj5g05SxFCqwvtqTTIfcHGKTZOT1Fu9u8srB0GNvF72HgIzyiKcyTO2q4MQL64ck2la5r_BRFsV6Elemh7aJeBMX6Z3-7r8quo1D0w2SJZykWD3Ddbm59EpT2g&uniplatform=NZKPT&language=CHS",
+        "title": "面向搜索引擎竞价排名的关键词商业价值分析",
+        "author": [
+            "王倩",
+            "刘奕群",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "广西师范大学学报(自然科学版)",
+        "date": "2010-09-15",
+        "data": "期刊",
+        "quote": "6",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyDuDjSiH526DulEnXdKO1IRBlmyq0DimMI1WJ2_qgr4DTWJTMLtFmDJ5qg4bBPrmbmSNJLosFY-cIBO9Hnhm8XdTbMmcYRRqQYbAw68jfb5okVV6sXEacjc9bCKk-AYbfi7u9P175UXPXv3Qgv6LsJPwvwjeuG4CZBYQKlSvy0gveLlnkl4FigtTqML7RWaTI=&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户行为的色情网站识别",
+        "author": [
+            "曹建勋",
+            "刘奕群",
+            "岑荣伟",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "第六届全国信息检索学术会议论文集",
+        "date": "2010-08-12",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzOZh8Cx4kGXfGRespsUKnj-dASmCUWdJntxqy4d_BOA26q7vRQGfFDE3BHwTZJvpxpwy3Bu6ONDnrRcwK45gQSr6vmD65Z_T_NwEor5P3Dn99PyHGQ0lIsDjCTmOu3cC_r_8qo-_f1gb9lvmXC4OIjJU24WKq8TV9fsHFDmBb3qGMtfdy1VNgI57VJKURPXHM=&uniplatform=NZKPT&language=CHS",
+        "title": "问答社区中回答质量的评价方法研究",
+        "author": [
+            "孔维泽",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第六届全国信息检索学术会议论文集",
+        "date": "2010-08-12",
+        "data": "中国会议",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzOZh8Cx4kGXfGRespsUKnj-dASmCUWdJntxqy4d_BOA26q7vRQGfFDVQ-Ov8Gx9GZHhduxvoPW3HIswADguriKCMRbwPdeJ0CDbJKX0Hp9i2qFv0U-U6RBkW8lXtzaC576kbSeursyueqN3H5C__7Vj2lvPRgXoqhZGqXaGAU9mpp9Q5UJ252jFQbnmgmnpNY=&uniplatform=NZKPT&language=CHS",
+        "title": "基于群体智慧的Web访问日志会话主题划分研究",
+        "author": [
+            "方奇",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "第六届全国信息检索学术会议论文集",
+        "date": "2010-08-12",
+        "data": "中国会议",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx8hmiKkKGf_CGBBjOTA-pxa8WhuK988T05kCM1Y4UdkSaCnIOJM7I8U2If8uIVAPX_rRHLQ91je8wffCXj_NVH5MoQaUfhY2q3zV1LDX_8fgemgbzwvTezLmZAiU-f2fKWPjRsPkx_igC1K5bNYbiYnU6BZv4PSTUswDRPCnVEZAr6qHzTmJSx&uniplatform=NZKPT&language=CHS",
+        "title": "面向用户行为的页面质量评估",
+        "author": [
+            "王晓光",
+            "刘奕群",
+            "金奕江",
+            "岑荣伟",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "计算机科学与探索",
+        "date": "2010-07-15",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx8hmiKkKGf_CGBBjOTA-pxa8WhuK988T29HsGO0_vcx1B0CtbPU5nxukUY1g-BU9Wd8-06x7YVnvkMyilZmRIxueJYz7TrE178IFSkzf6g5Duxs7wRLNogn_RVrkP_Ij4hf2_2mHyRM26yRPbYzpKuXx_JecpGjbB1cDh9qUXuO3TuBMIFnG2c&uniplatform=NZKPT&language=CHS",
+        "title": "网络检索用户行为可靠性分析",
+        "author": [
+            "岑荣伟",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2010-05-15",
+        "data": "期刊",
+        "quote": "15",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzvqj1dB2jhG7wU3k6hYEipJj67i3GuOxCiRLQ6ikWUUgSmhwoXA0Zb_u0ad9GjPlMb87qpFUDZkdDfFJCz7pf5sguIMV0s8t2XiexUo5eP9XSVBkNJWtbly2MXgxM03hVInto-WiCwESq5WCJzIY0xuc-Jm4UNEKE98RbQwwlkfy3gyI9G7y4X&uniplatform=NZKPT&language=CHS",
+        "title": "一种基于文档相似度的检索结果重排序方法",
+        "author": [
+            "周博",
+            "岑荣伟",
+            "刘奕群",
+            "张敏",
+            "金奕江",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2010-05-15",
+        "data": "期刊",
+        "quote": "18",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzvqj1dB2jhG7wU3k6hYEipJj67i3GuOxCiRLQ6ikWUUgSmhwoXA0ZbhwXFHE7OBeflWXNcl5-Nc8JFpfep2ea_Ggn5dXShfMUyhmofp8_zPZ9gpQDbxwVoeL6AKmYeB0BwcHZyrGV_R63eWj53FCWKb9M0lJ9M7T51YAzrSuLNkfN5YyRX3dwE&uniplatform=NZKPT&language=CHS",
+        "title": "面向用户互联网访问日志的异常点击分析",
+        "author": [
+            "王倩",
+            "刘奕群",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "中文信息学报",
+        "date": "2010-05-15",
+        "data": "期刊",
+        "quote": "11",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwC7K8LvAP8pAXXdk2Z3R15lr8z70ye_sugfBPH1IefGQ0N8NjYtOjw7bal-UOWstiLruzzyiACEr2shuCHtUiEVdcFD_HGB2ubNXHBNiUiOcXAP0XHkGJ4BssXYeB7M3ePQibDFJaAqIRi69k6FbQ3b65gIjTKe56gKw8LQ_nfdKscNkrtt0VD&uniplatform=NZKPT&language=CHS",
+        "title": "基于日志挖掘的搜索引擎用户行为分析",
+        "author": [
+            "岑荣伟",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2010-05-15",
+        "data": "期刊",
+        "quote": "90",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwC7K8LvAP8pAXXdk2Z3R15Mylf51WAGEoNrdIXuOvIkVv3NTo9GI1AOvMqiaZ2Nvz2BLfGSYGswnXZtj85uzLljoPA6tIpZLEcdWu6k_xxKMclN4HZMdPWSpeHI5WiBZL50lJDa4fagRAsnrH5bp9wIYWjsCJqg3GnTOBg1iZdjgHRFazLYsKZ9TOMttF2wK8=&uniplatform=NZKPT&language=CHS",
+        "title": "相关反馈任务中一种基于文档相似度的检索结果重排序方法",
+        "author": [
+            "周博",
+            "岑荣伟",
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第五届全国信息检索学术会议论文集",
+        "date": "2009-11-14",
+        "data": "中国会议",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwC7K8LvAP8pAXXdk2Z3R15Mylf51WAGEoNrdIXuOvIkVv3NTo9GI1ANGLMJBuEvqiN-o3An5vvNU8Z7Za9PQc2qgAC7n83RKrwwqsSO-QLOnazxq6VKkYbEbmIQUuqhhNSj0b4nxKq_GDH8FTnx7mJHONrEFzfwbXpMNfIRCjMicsLfXjL15Re81Huu9un8P0=&uniplatform=NZKPT&language=CHS",
+        "title": "网络搜索引擎用户行为分析和研究",
+        "author": [
+            "岑荣伟",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "第五届全国信息检索学术会议论文集",
+        "date": "2009-11-14",
+        "data": "中国会议",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzY-Cx2qnz9YX0gVtocSXjCCtnn8ggHE8FWyTiI_7Az-BPIutfOqcQ_OKxsH3-DbwQnAM63gP6Z3bjNmYffPw2d5X2YubaLU_KJp9nNBiKg2vScwQYw0Lmg9tkAgSE_YtZdYkQeXONs-l2v8k0LQVBHfkdk59bLggHLRqocNlEFl9PYRCUUwtk2H_CAsC_uPg=&uniplatform=NZKPT&language=CHS",
+        "title": "面向用户互联网访问日志的异常点击分析",
+        "author": [
+            "王倩",
+            "刘奕群",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "第五届全国信息检索学术会议论文集",
+        "date": "2009-11-14",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxYa0z0UZplA__tn3VGD2AZyVsg6TztiwtAr165zjlj2OLDkqxqxlIZHBkNEa6vB6ljlhTekiuETfeo824kbxaqepjyCoFRnaTttuceB-oJYqcVSIkCdvoiigjixFN5bqWuMLYVnQ11gYicrOb0Mh0az8TO2KxrTYREqJncuOmy556Vf4a5JxsK&uniplatform=NZKPT&language=CHS",
+        "title": "基于多Agent系统的脱机手写体汉字识别",
+        "author": [
+            "马少平",
+            "金奕江"
+        ],
+        "source": "智能系统学报",
+        "date": "2009-10-15",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyo4RchZgJL5ngom9HwY4aAiUTBO2h8F49NUj03cs2o4HPJShPzU7wDpVX1vOoTltO-fCEr_zcDi8h0INMQjpuOcs2QQPwwUSoqEnOaMTU0A31wUmM_DXl8JjKRenZPlt3QqZlJX6-_3FCLdYUlfY03Wp13p1rHTP0DJhwBxA9DaDXKrgeaqlvTP-QY7J4-FAI=&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户浏览图的网页质量评估方法的比较分析",
+        "author": [
+            "薛宇飞",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "中国计算机语言学研究前沿进展（2007-2009）",
+        "date": "2009-07-24",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxcaXxuie1zqbOqSUHN_-Sp7B2SOA7pZNcdDnGP10UtTqghD4Yq-ILxt7HluHv53v32atoFwwrSyEdlx5Wc7hgcZMfKbLsq5AT1nU5HDGdaIgvJjiLkO1h6tVql-JHK6nAlNxzf5NfbC62_fGQE3x0rBeDEsfvW0vCNQJ-UvfYNtKbItoC0ZdWJ&uniplatform=NZKPT&language=CHS",
+        "title": "基于目的分析的作弊页面分类",
+        "author": [
+            "余慧佳",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "中文信息学报",
+        "date": "2009-03-15",
+        "data": "期刊",
+        "quote": "18",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyDUKbcCZIShB-jGdqWxtIoB2gwgGMxFkpVUKLv9HiL4avBwuPVLjkoZhQk0LKZ9D59B4PSCGGh_R4YCMHpkGvUcxiGVnSeR8FAAL8P9f4WjRFhUv2j2D2QE-R4Zbnodz1bA6yAGVu6mNvWOsuyQgOv-qBSnjcrc8080t1aO9lSuKjI5rufvch7&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户日志挖掘的搜索引擎广告效果分析",
+        "author": [
+            "陈磊",
+            "刘奕群",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2008-11-15",
+        "data": "期刊",
+        "quote": "44",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwtWZGYxiJJMokkz6f2gRFd0QwfmbwQt0GREAPTpUlKyQXHe9TCZ8HSZuF8G3ANN6xU9X5SzLqQaWacUha19M8pfBj30xyIvF8SnhcqS-_DcNrr5IjP5nWIKHP7M5QcIyO0xRJd0aXhtlylF7dcPE_Aa_ool-71q0QtyM_W6MMlMA3besQeqLDX&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户行为分析的搜索引擎自动性能评价",
+        "author": [
+            "刘奕群",
+            "岑荣伟",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2008-11-15",
+        "data": "期刊",
+        "quote": "93",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwtWZGYxiJJMokkz6f2gRFdjAIdA8vjI5AUmEF_gpzo4nR4eZ1uSmDv_DzCzP03yOULXk-uAjZCkLDJmADtc3QjVgYTPGQnY4ijMI896nVjpfxB63xTNbDkzn__FvC2tEwBIzdrxy8ql-bXh5qsVhNLKo6XweyC2oIo9Q4OQHnyO6MbVFa8o5pNI9R8xYrODKY=&uniplatform=NZKPT&language=CHS",
+        "title": "通过邮件分析进行专家查找",
+        "author": [
+            "富羽鹏",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第四届全国信息检索与内容安全学术会议论文集（上）",
+        "date": "2008-11-01",
+        "data": "中国会议",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyf-UL2TMguQ8QtQwTyjQ_oPCeTQ4_0eZalpr4zeJyWXSzMrVJOPfyjg31k2G_fKOqUZfNeOFes64p6nDOdlbLrycnqGlpc6hcrqUO-0Xog78f9rl9dd3iQsUSTau0n_czP7rWNc44tJux4IHI01BeCuR8h3D0L4_y8vu_LwhBlNGTBxHfPsvF0sAGHNLcdAJg=&uniplatform=NZKPT&language=CHS",
+        "title": "基于目的分析的作弊页面分类",
+        "author": [
+            "余慧佳",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "第四届全国信息检索与内容安全学术会议论文集（上）",
+        "date": "2008-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzVnMqbHLO1Z8-Rk4CTNKXHTFkLk_dmWJMz0VanC1f5o17S-2blI4xTN2ar4P5F8lw7vAKOyCf3B0LDX17pYACm05epYtSPp7nwsd_3EPyT5q6qbvDDGMncF28dnIhwWPxsZ5-q3CfT1rjglKlKQ82NfQV54JNVEyy0ze00-60S0mX8h_A3q5f4kNEKVUXU44=&uniplatform=NZKPT&language=CHS",
+        "title": "基于多例学习的web图像聚类",
+        "author": [
+            "路晶",
+            "马少平"
+        ],
+        "source": "第四届全国信息检索与内容安全学术会议论文集（上）",
+        "date": "2008-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzVnMqbHLO1Z8-Rk4CTNKXHTFkLk_dmWJMz0VanC1f5o17S-2blI4x2WwgAj8GzXoaab1tM1O2Epvv2y4wAd-CBfyWQyRwbAV8HtsFWG4MvtCpWxu6SQ5OP81lKmRoXLWsAQqx1fx87OrhvPhIjQFMcGPjdbDvnB9eSxAypvPb6Jb9L1Yc_vcihLZ0ySqs7s0=&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户行为分析的网页目录自动构建",
+        "author": [
+            "黄志毅",
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "第四届全国信息检索与内容安全学术会议论文集（上）",
+        "date": "2008-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxClLgZ5-AJOTlIhLEWzlfLIwi_zyMVIRy08rdcjvXr_Vw1lQfPuHDpxxBrvGxY6RHzO4VdKqY0U-Y2uWB7G14d1hQPgfC5TxQdA0H1fa58YE0un2BF1neHqD6e6jSjPm2KAxn4QPxhZSNhNSZxgHNhUsvcLxYYo0PXixY-rIBDT698msewEcb143UYuE1aNVY=&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户日志挖掘的搜索引擎广告效果分析",
+        "author": [
+            "陈磊",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "第四届全国学生计算语言学研讨会会议论文集",
+        "date": "2008-07-01",
+        "data": "中国会议",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzLxxjgy9F1i461jEK7tEudF78p3PwHyG6IDRFFEOPj7R9daqae8P9ypXw5CKHtttaXFBgi4CcBg_KV8WIV4-tIe7CidEAigQKtFwg0qEz0FGlufwreHh60a3DvtgJme4I5Y0Jx2E5ryrUveRs2Bkf5gbLB1gVNOS_pEJsTlICkkOJx9L7uMuv&uniplatform=NZKPT&language=CHS",
+        "title": "企业内部邮件中话题讨论检索研究",
+        "author": [
+            "富羽鹏",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2008-03-15",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxzLxxjgy9F1i461jEK7tEudF78p3PwHyG6IDRFFEOPj7R9daqae8P986fUbcQtjpj1SRAaYABNQNq-VnN9lMxkThTRVRAeFAfxQ7Df2F01GYfwFPYjCgYUSFhF8qBaGIH_y_yp0hRUpI8qwnggkreKq6i-9urWGjaY7D_InJf4HTkd6x2ouBcw&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户兴趣分析的网页生命周期建模",
+        "author": [
+            "王勇",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "中文信息学报",
+        "date": "2008-03-15",
+        "data": "期刊",
+        "quote": "9",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzGsIanvTP4Z7PiGIiQ7sNe0bXrVSBMkXeuiAHRPonqTktcU8yaFcnwsErWEKbZIVsf3hjztT09_HERIc7FqDoRWqdrpcpsOnhYg1puhNTkhp5Kh5OUgtElo9aBKCjl4qGaq1_9tXhyRWOl3B4a2WVnQnVqaC26hLXSwfZZpuWI0dwiEWaktLVTX9oKZFWGjr4=&uniplatform=NZKPT&language=CHS",
+        "title": "企业内部邮件中话题讨论检索研究",
+        "author": [
+            "富羽鹏",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第三届全国信息检索与内容安全学术会议论文集",
+        "date": "2007-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyEv9Dt0IaGTdMWbF81yXGwHRb1aGPcbyGc9Jz5opHUNN27sDrcpzIxfXYAAM2xO3gXe-ZRIn1DJdZFbxqFZvjtdB2f0k-GpSGTPqsn87Kf64cfkulJcIgVmOBgF7k5D5J5tIypVv9WNR0ZS1NzS3h0-yiu91QDtTggKzj5zgpfDdDBZcSSm_rKqaW6zHvdSQc=&uniplatform=NZKPT&language=CHS",
+        "title": "使用支持向量机进行作弊页面识别",
+        "author": [
+            "李智超",
+            "余慧佳",
+            "马少平"
+        ],
+        "source": "第三届全国信息检索与内容安全学术会议论文集",
+        "date": "2007-11-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwJznHOVVFX_F6-ZNIP1YMkKUJprQcVs3QnKyg4L6jrleIWdfYhSzKOuHQysnOLbyNp8716sQDORUbSOdLgUOifkRN5J14W-eZ7g-ObijtSF5dNF8JpzuKJKGZFWB8Z2c862bMTCdvIghpd4gX9hMNkF_gEuatiEQggWOBjxsHI1sktxXMUDN_wRSVXBzBS5Qw=&uniplatform=NZKPT&language=CHS",
+        "title": "基于用户兴趣分析的网页生命周期建模(英文)",
+        "author": [
+            "王勇",
+            "刘奕群",
+            "张敏",
+            "马少平",
+            "茹立云"
+        ],
+        "source": "第三届全国信息检索与内容安全学术会议论文集",
+        "date": "2007-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwJznHOVVFX_F6-ZNIP1YMkMRtGgwBNrHiW0ziQ5-UFMiuL5k7a73Nuoo-ieeIh1ETFN3RIwoKVNgd-YC9VuraimPgCe7i8Qro20U76nL0833aBgydNJA_1kY1pJo-DGRJGlaf92qbpxTDh_dn5cPONS5mAd0QvNYZBfGBbE_U8QF23n08Q_5T34BzSp6i7d-I=&uniplatform=NZKPT&language=CHS",
+        "title": "基于URL特征的动态页面聚类",
+        "author": [
+            "崔安颀",
+            "岑荣伟",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中国计算技术与语言问题研究——第七届中文信息处理国际会议论文集",
+        "date": "2007-10-01",
+        "data": "国际会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx2OeQllKbZH2K3pxetRWM_W5rbLv6kwvzP1FVs_E14SML4TX8eSIlBxi2yGjECinuRa2DiUpJlN-sb1nhXUvKwDHsxYA1Rszo1G6-lCtQtTMMviCPVRs5Ws_Mg4N11039JlimXF0rvOIObS_WdZH-bDOi8Gbe83OLBo0n8aoUTtET1ksRrr2wX46fu0AGeqPw=&uniplatform=NZKPT&language=CHS",
+        "title": "基于虚拟专家描述文档的专家检索研究",
+        "author": [
+            "富羽鹏",
+            "张敏",
+            "马少平"
+        ],
+        "source": "内容计算的研究与应用前沿——第九届全国计算语言学学术会议论文集",
+        "date": "2007-08-01",
+        "data": "中国会议",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwZSWlXwOH-WgW_QBYYdUNKzp5_DVDU9aHH_Br85nlxcsC1nhPAwMEonUE3bnHG8lisi1I3i5QkAzg0FAIeMf1R4lIBBFfelA452e-0zQsBpP_2qyxmOGh_fK4Ql88GLmH5tQNvfNoDl31v6lRkKQOr66h2Tx-Z6VMPHo4UrOX6pXtPPFXwIo3GndYx4R_F2sg=&uniplatform=NZKPT&language=CHS",
+        "title": "基于虚拟主题的网络关键资源页面定位技术研究",
+        "author": [
+            "岑荣伟",
+            "刘奕群",
+            "茹立云",
+            "张敏",
+            "马少平"
+        ],
+        "source": "内容计算的研究与应用前沿——第九届全国计算语言学学术会议论文集",
+        "date": "2007-08-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwZSWlXwOH-WgW_QBYYdUNKf_NarYJOiSBzH1kCmZous9_7BBnkkZZtfP75-3Od9koXEGu600RCFAuGJyXAt3ZxggDIbDT5gPWEuyVASWMtWmXgv645NWFOmYHLQBeJA74ODxn_hFBzdHmP8uo3EL8SFAx5Tg9PaVSVm5z0v8SdiRmXPfKKIlK5&uniplatform=NZKPT&language=CHS",
+        "title": "企业与内联网信息检索方法概述",
+        "author": [
+            "富羽鹏",
+            "张敏",
+            "马少平"
+        ],
+        "source": "广西师范大学学报(自然科学版)",
+        "date": "2007-06-15",
+        "data": "期刊",
+        "quote": "9",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxTeBPQFcDFKXP06intHip5-YDqWBJgkKi9lhehjPuduNXI8x9zX7MsAr6fG-pIXbXpqIYX7aelIxnjnPYjkjP2JDFs1kkwvhulldEHrHqXk3D_eW07Io6bMvHUQbmRexAoozoV7WiXQgQGDGJ9CfY4ZEOSPXptISgPltQUA2H0hFXtuVTc3Szb&uniplatform=NZKPT&language=CHS",
+        "title": "基于相邻词的中文关键词自动抽取",
+        "author": [
+            "王灿辉",
+            "张敏",
+            "马少平",
+            "黄宇"
+        ],
+        "source": "广西师范大学学报(自然科学版)",
+        "date": "2007-06-15",
+        "data": "期刊",
+        "quote": "21",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz-gU9ksOSaKsQjd5dRMdTOB5Meiy8AL796G8iSPnPClZvuSmHen57zE7mjq8ZQPEw2ZXy-Tgi1h5G2p6cfcxf6ryIsbVclrkh4kL5C240J4s3EGiARcUvxj0bD7Zabl2pwHfwcy0xk_RJdgpT_COTjEkD9lywmVjR5-0jVzgonIHy2CZjvXhj9&uniplatform=NZKPT&language=CHS",
+        "title": "分布式大规模文本检索系统",
+        "author": [
+            "李智超",
+            "熊风",
+            "富羽鹏",
+            "马少平"
+        ],
+        "source": "广西师范大学学报(自然科学版)",
+        "date": "2007-06-15",
+        "data": "期刊",
+        "quote": "11",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgz-gU9ksOSaKsQjd5dRMdTOB5Meiy8AL78GHXRxGrwhMn66Rw9vyesw5hyjx3TlBrgY8Zml7rviHWCFQ9u9CYtUIVJkZMsopaip3QY_RJNxb18871id0pHCfH1yYw7RmP-3IHcf9lqDbq_WZp7368GxW38hZXdwDXRU_Knx3Y2ISJWAOLLeaj-i&uniplatform=NZKPT&language=CHS",
+        "title": "基于概念索引的图像自动标注",
+        "author": [
+            "路晶",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2007-03-30",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxV_TYBv9SwoMnvwA3xwHNXB-T1nnlqhI4F9YOTREztWgQQhTa9laJCJeuWWQHXW5Rf_67ghHonNr8m9WawkNuOZucKd4JBX_f-MdKrdIZoftSkfBV2olUaYORrd0A7K-pumkMczQyoKSNWRWYz4vwWvNAea7QvlCwHZoxTz2_zPVMQGGm74W4h&uniplatform=NZKPT&language=CHS",
+        "title": "自然语言处理在信息检索中的应用综述",
+        "author": [
+            "王灿辉",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2007-03-30",
+        "data": "期刊",
+        "quote": "190",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxV_TYBv9SwoMnvwA3xwHNXB-T1nnlqhI4vGqfzpFN-AhhmjklJbQn8Ddt04aL-LtQlYmuRrKCofkm5jbor2rGGjMRIVUVwXDBBs60owz-pRXlMuZJWxtQwjuPguDBLhKj3_gEG7kxgFSnCycx6xZp_eqFvLu5hkAdrD7zZukhpiQ1FWmvyNMQi&uniplatform=NZKPT&language=CHS",
+        "title": "基于非内容信息的网络关键资源有效定位",
+        "author": [
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "智能系统学报",
+        "date": "2007-02-15",
+        "data": "期刊",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx7i8VAgX63ky5i-d0VcgRJeb-_Q44ohh5WGQuFnmBkQRnH_UJu0ZIlvaYlOJInQ11T2eubEwso43wtRmepjVFKqrz4GV1v8fC7TlDk7Esz6fx4bDXrVfKz7kryDZ6_ZM21yRqr0HBlB93MwYZRZszh9s2W4wxNT5F2MQvSIhyEDB3ziXZNOE1_&uniplatform=NZKPT&language=CHS",
+        "title": "基于大规模日志分析的搜索引擎用户行为分析",
+        "author": [
+            "余慧佳",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2007-01-30",
+        "data": "期刊",
+        "quote": "342",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx7i8VAgX63ky5i-d0VcgRJJGVWsc4nW7bHbEg7_njNHVMvGFDiV2FX2FeMXZQCDZOTruJpQ9MdboP_tBF_9ODxWU_1E69YxGP39CxtiqgEIFzvaIZ05qtekD9BzxQYUHdhPQt7HCSvB-O7t75ubeCAFvYQ7h1exooYCHz3KcS-QBWqjhokM2is48_RqxLSzJ8=&uniplatform=NZKPT&language=CHS",
+        "title": "信息检索研究:过去三十年中我们走了多远",
+        "author": [
+            "马少平",
+            "张敏"
+        ],
+        "source": "中文信息处理前沿进展——中国中文信息学会二十五周年学术会议论文集",
+        "date": "2006-11-01",
+        "data": "中国会议",
+        "quote": "4",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx-BUElGYONialDSVIVs4Jvt5NacUhSWN8RRtH8hH49atVOP-bN-Q84oJihXTT4C4FM4so5OapZDSW0AiDPlUUnL06hy3vd1vX4gvCV1cPRRHOWAjeuF3Mwi96c3_pu3xvsxAgZyFV_gTbFbZD28d7tkmCMvyuXnyAeDDjXE5Oe2ixR_tptKHWQNE-In4pcg3E=&uniplatform=NZKPT&language=CHS",
+        "title": "基于文档中心内容快速提取的Web监控辅助系统",
+        "author": [
+            "王灿辉",
+            "金奕江",
+            "马少平"
+        ],
+        "source": "中文信息处理前沿进展——中国中文信息学会二十五周年学术会议论文集",
+        "date": "2006-11-01",
+        "data": "中国会议",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx-BUElGYONialDSVIVs4Jvt5NacUhSWN8RRtH8hH49apr0pyv6CXN_14WDpZvY-lhp8qnNkZje1TplKpC6NGuzWKL4z1utMnDVHATaZB47_EfzaN-EmMa4UIfd1GFQavYMrDaoQEfjYfe7_SxYy3yL9y7PWck9Dr5Vkrwr-7HWEbutdQIJ90U3AmqIGADhTwM=&uniplatform=NZKPT&language=CHS",
+        "title": "基于大规模日志分析的网络搜索引擎用户行为研究",
+        "author": [
+            "余慧佳",
+            "刘奕群",
+            "张敏",
+            "茹立云",
+            "马少平"
+        ],
+        "source": "第三届学生计算语言学研讨会论文集",
+        "date": "2006-08-01",
+        "data": "中国会议",
+        "quote": "18",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx-BUElGYONialDSVIVs4Jvwq5up4OeliPTv_TjTEiVrHyMQgSqi_7zHTxi0kiLnUAdU3WydGqzg-XT8k0Yokkt-Lv9aCEeAfVXXCS5EuBH655deLPN43A3qZKf_ECOqhuHIfYV7Ir5LrtgMHtlHB5_o0nUJRTok6qMref9QkKbOMDf7aBf7g9A&uniplatform=NZKPT&language=CHS",
+        "title": "面向信息检索需要的网络数据清理研究",
+        "author": [
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2006-05-30",
+        "data": "期刊",
+        "quote": "9",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy2gK6mJ1kTsBB1yp1Wga3K3IAeKEviY7nQ2YtqpLU93aMVyQH0uxZvSoR14cjCsS2RkCGrxF_ypchginCvqyS86uzXrswnJeItqJpFu_XUgYpcX2UixKzcKPar8zepHdpq0o_RbMjR-rbRwFwJvmCv248PpmEWqslxATuBQ1GbUD080XqtPHgS&uniplatform=NZKPT&language=CHS",
+        "title": "基于Boosting学习的图片自动语义标注",
+        "author": [
+            "茹立云",
+            "马少平",
+            "路晶"
+        ],
+        "source": "中国图象图形学报",
+        "date": "2006-04-30",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy2gK6mJ1kTsBB1yp1Wga3K3IAeKEviY7kItevjT2dilTGuIhnbGqHFlmDRd-NIvB8-xNG53_Ic2s9rIc_DL9uwUiUujXFcZKgafDxyybKKvHr91czcOmyP1wQtM2h69agy2FOFeQipqI_R0lVuVo4cUJLkGkCxHkeV4vsK2yVcs8vmdXnarGEM&uniplatform=NZKPT&language=CHS",
+        "title": "基于改进决策树算法的网络关键资源页面判定",
+        "author": [
+            "刘奕群,张敏,",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2005-11-30",
+        "data": "期刊",
+        "quote": "40",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgztKeTNEJVfveHWUdjHJ2erNj384eoZf-JCzjcba55Uy2V5wDqWv8ZBdVqY-FgBpbrqh43YgTmUsa9iWoo1H_SyBKWzYaA5AAA4onsV0s0fg44kBWC4S3Yf2sTcO4jQ6L_K5B13H24wZli8HF8KuTDng1nydR1JOmZiEia2n8FwkZXS8Cd6s0_Ek-jSQDtr1_A=&uniplatform=NZKPT&language=CHS",
+        "title": "基于元搜索引擎的多关键词检索技术",
+        "author": [
+            "陈伟雄",
+            "马少平",
+            "步建华"
+        ],
+        "source": "广东省电机工程学会2003-2004年度优秀论文集",
+        "date": "2005-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgztKeTNEJVfveHWUdjHJ2erNj384eoZf-JKred4fZUVN56BazPufb9nP24ilNlipUbWSuK27Mds0pq3Q1s5f7o20LCDFurjbvJEHzCgsLJubUHZKKYbHwDblVHjQESiRAqymcuCVL4fesi6OhjdVC1vi_HNRlplCO0p_6yNa-P3VslqYQkVq1teSmE5XpbmO3o=&uniplatform=NZKPT&language=CHS",
+        "title": "面向信息检索需要的网络数据清理研究",
+        "author": [
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第二届全国信息检索与内容安全学术会议（NCIRCS-2005）论文集",
+        "date": "2005-10-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwiiKbTFNNWatdXfvH3FeMqy8rdwb7Ad94agLz3gZ1qOkVXF75Err6h6ORRKfnoJKKoxQdsnYHCwd9-YpAsBhFkCqe_hH9Pgm8M8uFVhY_Hnq12TQGTXXvOV4JnWWd9aM3qfViYcnApfUQxOB0vZixF11_Zmds1PJzb_LzUCdT3W45ZW4Ney6gKoKwFcBe8tow=&uniplatform=NZKPT&language=CHS",
+        "title": "Web作弊与反作弊技术综述",
+        "author": [
+            "王灿辉",
+            "张敏",
+            "马少平"
+        ],
+        "source": "第二届全国信息检索与内容安全学术会议（NCIRCS-2005）论文集",
+        "date": "2005-10-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwiiKbTFNNWatdXfvH3FeMqbEFj5i0QGtAHgOLYjCjd12PMavTpVUn15aRz2bKUGPjix5WWVoPWXCMBgfjbuWAGXpVs3jBQnMR0wByr38SSUfg2eSHV8AeVo-9MNSd7CbtA4Dv3N1KxFV-oc8nOpx4xmIO0zVtVjp-0mJcKlJcSL0AHxgR9k2r8&uniplatform=NZKPT&language=CHS",
+        "title": "基于平均检索精度的图像特征融合方法",
+        "author": [
+            "茹立云,",
+            "马少平",
+            ",路晶"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2005-09-16",
+        "data": "期刊",
+        "quote": "9",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwiiKbTFNNWatdXfvH3FeMqy8rdwb7Ad94agLz3gZ1qOpLrzO-xsXjOy_0aY-y1fYUm09MvlXe7_FYqm8QUB9b8a-TWXpHc6BSGiF6gyFNXVgakNfB5G_w5kzceYyU9eV02dzHdaKexTjHYF4s1syj9dPtE8TfwJhikY2fLwdBFZayT496lGLK2HV60-byio4I=&uniplatform=NZKPT&language=CHS",
+        "title": "基于伪反馈与分类的文本检索",
+        "author": [
+            "王灿辉",
+            "茹立云",
+            "张敏",
+            "马少平"
+        ],
+        "source": "全国第八届计算语言学联合学术会议（JSCL-2005）论文集",
+        "date": "2005-08-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxr4qZ70xq-oOEftI3kGdjJFSMMTDpUQxMEpZQ3vdqQFN84JVSr3ZM_bkgfcW1L0bfhelHdzgMLWGMWirLTNZ9F-mCvhkhiiSgFrLfgP3jnu-cWYy7iZL_Fy3NgG3jmmxndwv5y0iEGoG6DVzcMqj6Tr20A_7fvg01nyMKaF_9qGPuSzYidB3erYI5AvdDjgEM=&uniplatform=NZKPT&language=CHS",
+        "title": "用户行为分析在网络信息检索中的应用概述",
+        "author": [
+            "刘奕群",
+            "张敏",
+            "马少平"
+        ],
+        "source": "全国第八届计算语言学联合学术会议（JSCL-2005）论文集",
+        "date": "2005-08-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxr4qZ70xq-oOEftI3kGdjJzZlIbdtNK1UbRWrzx4qf9XJ7SxzVeEkqTaamP8ap7g77RPtIHapXhZxC6ZSpOjhlb2ClTns4-gRs8WSh7_vzS7lJQKrlIwDwUdfLH6gQ1jtK8AMS_zIf5zzD_b9Gc7P03B8sEqtfDtXKebjkqr2f5cnvTm3MOYOO&uniplatform=NZKPT&language=CHS",
+        "title": "DF还是IDF?主特征模型在Web信息检索中的使用",
+        "author": [
+            "张敏,",
+            "马少平",
+            ",宋睿华"
+        ],
+        "source": "软件学报",
+        "date": "2005-05-30",
+        "data": "期刊",
+        "quote": "28",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxQwkeAS3T0GhbvxTuRno44RclECiyNxH5Fd98cLIaZy_CnYxiUocO_DgNbWAx8I7mq38T_JHjumW13Ayv9Uwb7yeBPKpSds3M_oUiVvCKhgwpO_n18_T1T4cShPTfJEOO5shlndNjFCaCLzmqWgIGLHpdfQXVdwlqcqlL3Q6Gl2P2PAWPRrxyM&uniplatform=NZKPT&language=CHS",
+        "title": "利用虚拟站点定位技术的网络信息检索研究",
+        "author": [
+            "刘奕群,张敏,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2005-03-25",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx_Qgon4KRLuPEgo-9zaIYb9FJys0-KJ5aHAvwTeak7IZUVLJhnaziWQkOtzNy3flvdQpIaF9LzWkStO9qoVhtYQmWAmcTdHfegUke3wvn64CaAn4LFEeswGgsXqP9GI-xfJslAsdBRxLN4x7AUwPOAkrJMBZYFSLx_BK1GMyOamz5ki3HeG881&uniplatform=NZKPT&language=CHS",
+        "title": "使用遗传算法的信息检索动态参数学习方法",
+        "author": [
+            "张敏,林川,",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2005-03-16",
+        "data": "期刊",
+        "quote": "6",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx_Qgon4KRLuPEgo-9zaIYb9FJys0-KJ5bBFmj1kGRyC9XGOk4QzcstPcWxzeg9yOywan_u0dKQDn8ikM03M55mhqbavuzrwFIWT8GsmK5d20HDc-HOZk7H3bofU0xBy_3zKr46VEFYR3xnLtGUSheLKTevlahOsNwzSypBCxat7eTt0Ujn4IrD&uniplatform=NZKPT&language=CHS",
+        "title": "基于凸包像素比特征的粘连汉字切分",
+        "author": [
+            "魏湘辉,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2005-01-25",
+        "data": "期刊",
+        "quote": "19",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy4xYYE0aU0YpBl6mkOQw1SbjMuDrlvC_-8m21GBFO4oY4WyNspjktwae6AC6T_ifT9R1qlihDVUubYCR50W8a4795BY_m8NKzOk6HWseXPFggH-k8UgBJxPxK8oRkyESIjkjDWZpggyoxxTHCQZ2wWVd74V-DBPTSd32KRTNdd9czoyTHdverR&uniplatform=NZKPT&language=CHS",
+        "title": "粘连字符切分综述",
+        "author": [
+            "魏湘辉",
+            "马少平"
+        ],
+        "source": "计算机科学",
+        "date": "2004-11-25",
+        "data": "期刊",
+        "quote": "13",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy4xYYE0aU0YpBl6mkOQw1SJ7ISGG-coPJH5yK8jFcnCcqhD4zrPnJYFF2cRioLGY4bEkDdbOj-uTk9X-iewLpbjTTY4FanUQUND6CW9VEXFOmnGcTiF9fiVlqDS8TIhhQpwMamN6crNbhMEPFyFg6KDISACwuk6Ie4u57ZEzKcL6hU4DwQyx9tsPheH6DQwBo=&uniplatform=NZKPT&language=CHS",
+        "title": "利用虚拟站点定位技术的网络信息检索研究",
+        "author": [
+            "刘奕群",
+            "马少平"
+        ],
+        "source": "NCIRCS2004第一届全国信息检索与内容安全学术会议论文集",
+        "date": "2004-11-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzX7iYD8AzLtfqgui4RRepVc445R-ACNATs4isazIDHP54d2cd8ds4LtlpifFBUoiMT4c7HpDsZ_Pk4gLef7qxzFkXl2Mp8EsYlmlSKbnNJPRZYFwuGOIHBWyj5bQ3ogRZ9jRN6Yp8uJEbqPMo1ao7y5bKYgn04p8aM0wLAOYM_9W4bwg_DKIub&uniplatform=NZKPT&language=CHS",
+        "title": "基于语义关系查询扩展的文档重构方法",
+        "author": [
+            "张敏,宋睿华,",
+            "马少平"
+        ],
+        "source": "计算机学报",
+        "date": "2004-10-12",
+        "data": "期刊",
+        "quote": "152",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzX7iYD8AzLtfqgui4RRepVc445R-ACNATs4isazIDHPx5pFbrsLNzD-J0aQ1ps_AlPVQA3ED6KHYV_SwKRenuDyIWqUAtQi0Uz2zTXE-7JpTYIPYTEyoCg3nhjPSH8OvthVxiUnMPbXbPRXKmK8fAZKtFw2T9ALNqnSJQrCcOKmnQCyYhdACCT&uniplatform=NZKPT&language=CHS",
+        "title": "基于元搜索引擎的多关键词检索技术",
+        "author": [
+            "陈伟雄,",
+            "马少平",
+            ",步建华"
+        ],
+        "source": "计算机工程与应用",
+        "date": "2004-08-21",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgysGRWpjyPo5fAPTr6xfoJ3F2MkiJWnB2VGQ_CxAxIUrX4uGJ2LYJrz6098sOVkm01Sp7Vs9rKTfVqcU43xKQi9QDF--u73fgss4xPx6CYnidUNY47l3fo68SzdmrmId4VDpNnMq5nvwW2cgIkjgTT375f_oynKLv8gP_6-QdqcdoPjge_1ukBM&uniplatform=NZKPT&language=CHS",
+        "title": "Web信息检索结果融合中的按位加权插入合并算法",
+        "author": [
+            "张敏,金奕江,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2004-03-25",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgysGRWpjyPo5fAPTr6xfoJ3F2MkiJWnB2W_2FgTg-GRmZx9AwqMOpt0Bt3ZbEybFosE8sCIFS3lpONh5bQexgwBjZmxDPnCMXZ0BRR0XojTldB8V72rbxEMpvRKzvIRDsjxOquyiFBNbKJ9gGCNc0fbi7PLxhH0LebxEeuJu7bXIGXTl_b22A-S&uniplatform=NZKPT&language=CHS",
+        "title": "基于重叠动态网格和模糊隶属度的手写汉字特征抽取",
+        "author": [
+            "吴天雷,",
+            "马少平"
+        ],
+        "source": "电子学报",
+        "date": "2004-02-25",
+        "data": "期刊",
+        "quote": "36",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw-NaieRt8oMuMG0ZeOuXr65DVepPtlXswFOesvcIxJD_zbiPkLJETuDScJ0EsdBxpkZT3t7ZoRCXMMsoiBkdZk4p3jenhcHhniZ75NI9yZ0fgehnoU75W1JvAk-fXlJqe9111gU_UCwytpLJ-8bzucLi0VR2or86dil6BZueqCL0IINbewYvae&uniplatform=NZKPT&language=CHS",
+        "title": "基于链接描述文本及其上下文的Web信息检索",
+        "author": [
+            "张敏,高剑峰,",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2004-01-16",
+        "data": "期刊",
+        "quote": "62",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw-NaieRt8oMuMG0ZeOuXr65DVepPtlXswFOesvcIxJD-rpJvwMm5ly_luI1nFzQ6TtMiAG0KKf7OELlQwIqfr6avzkP_CUUpNVGoHuJejiHBTQLyPmVhBJna4TSsHysHgdHH0B_NrPxlcbiwhEoW97xsK8wzwI9qkJK6eUMAA7XQnQ1xcXsfsf&uniplatform=NZKPT&language=CHS",
+        "title": "基于内容图像检索中的特征性能评价",
+        "author": [
+            "茹立云,彭潇,苏中,",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2003-11-30",
+        "data": "期刊",
+        "quote": "105",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgytSda38iT5qJbn9PbZWGsP6iSJObAwxN64Oo2ukXNwYC2IwBABi4mcr3v5R1aGrgwVQEsF1w6SsjTsYnNSCyeFgX9flMpy__S_oNf744cLrSPdPeAwDaeljtrOKmFF2XKscsUjdVvrxjv0Zc-1ShQAAdCEj2BoerDA8zek0IjaxNZ0o5_B2The&uniplatform=NZKPT&language=CHS",
+        "title": "多Markov链用户浏览预测模型",
+        "author": [
+            "邢永康,",
+            "马少平"
+        ],
+        "source": "计算机学报",
+        "date": "2003-11-12",
+        "data": "期刊",
+        "quote": "116",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgytSda38iT5qJbn9PbZWGsP6iSJObAwxN64Oo2ukXNwYCk4woMkhut8tUBI7PkELryug2sIp8PtmlxrsB0mmJjpGfa4UDvj2faSMwYsL1e1u8uU_2UccXnecHOIENQ6yNMbrWz6anOe2RJqCmPtjjZmNWAN1eiJFhII2naEzF6CPts3aus83YUI&uniplatform=NZKPT&language=CHS",
+        "title": "统计语言模型综述",
+        "author": [
+            "邢永康",
+            "马少平"
+        ],
+        "source": "计算机科学",
+        "date": "2003-09-15",
+        "data": "期刊",
+        "quote": "157",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw73EOiHAMOeMXZ3sjBifF82adWVLaWe9eye9HvxLN3gQdhW0LOpVv6X8TudM3aPhCbWiSRtrTyYhurDEeVjO4Iju2HGbhFzr5dnLxkok6O_LFQgOEHwaFpeN9uqA0SE48Sx2zqsLBFHZ7i8q_uJyHoyTiQZjSW-FV8oFqPSirJoLFsQMWStpHx&uniplatform=NZKPT&language=CHS",
+        "title": "智能技术与系统国家重点实验室",
+        "author": [
+            "马少平",
+            ",应明生"
+        ],
+        "source": "中国基础科学",
+        "date": "2003-08-15",
+        "data": "期刊",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw73EOiHAMOeMXZ3sjBifF82adWVLaWe9ekQYQVzcYssyLEdNZVRr5iAkKhF5I5SVFY7KFgu9GQ9RHxUHMhhTLBLp4j7Epr1hWS8QOVQqeGmZh9A7hYgDeBrpBtMHn0YQhvyZEK0xnAOgUAGrNgEDtNab6auOTJYDXdgPXxsFB4PTh3ZVtzi66F&uniplatform=NZKPT&language=CHS",
+        "title": "信息检索的概率模型",
+        "author": [
+            "邢永康",
+            "马少平"
+        ],
+        "source": "计算机科学",
+        "date": "2003-08-15",
+        "data": "期刊",
+        "quote": "88",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw73EOiHAMOeMXZ3sjBifF8t8dyUQXPlTuHrxe4Ji9zmjBl_rxuX9DqC60Qf3MdQk7f3SQzKw1xvZFoOYO_DCqOc-ld6PCpI9DZXfxySDaCTVlP7tJb0J-fCTCowF7HnEfqZIAxBzMsi_XodhJE3zGwmV2-P6RU3Vyd2EX1EkJ1VlpLNqJob4X6mC7_wBBxPtU=&uniplatform=NZKPT&language=CHS",
+        "title": "TREC2002介绍及清华大学实验研究",
+        "author": [
+            "张敏",
+            "马亮",
+            "马少平",
+            "陈群秀"
+        ],
+        "source": "语言计算与基于内容的文本处理——全国第七届计算语言学联合学术会议论文集",
+        "date": "2003-08-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwVX7Bm1lAAYB9oKzXP8w5fk6OZkEa7itRXkwxD_zoM7hTvtdk7ifH_t4IPDRQqQdCwjKf4zYZfInE_anWMkYU_kmOXy7O29f8WYvKjPKojcutAbLq5mWp4uxqDpfEmnzbogYFTNtvQhbBQ_PZDuLiXslqbLVKT6zqDFHzgV4DwvoErIEEwwH04&uniplatform=NZKPT&language=CHS",
+        "title": "自动对用户感兴趣的词进行加亮的用户个人代理",
+        "author": [
+            "彭潇,陈正,",
+            "马少平",
+            ",刘文印,马维英"
+        ],
+        "source": "清华大学学报(自然科学版)",
+        "date": "2003-07-30",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwVX7Bm1lAAYB9oKzXP8w5fk6OZkEa7itT6EKih40zvU9mwXtG8fgglihCg2FpB6YXJE-I1s9u7IuzpJs77Da8uJEVHbprfDZ6C9nxDjNdM_m7xg46IMzAURU4fFd3gTtsST4JTTv4g3YhRLW_pt6j899L1TFNnckMk4jS96EcRpX3GTgwPUHvy&uniplatform=NZKPT&language=CHS",
+        "title": "一种提高中文搜索引擎检索质量的HTML解析方法",
+        "author": [
+            "宋睿华,",
+            "马少平",
+            ",陈刚,李景阳"
+        ],
+        "source": "中文信息学报",
+        "date": "2003-07-25",
+        "data": "期刊",
+        "quote": "64",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwsamB3f3JjAv6oprHiHwCAHvyfkVhW_gDi2F5ntwIiqgGcuqnrkTauzC1IE-Fu3GMArHEfBeJefqQiR-m6LjfIqu5qCFJprStmFiRryGE5WGey3NE2S-yPKLL2HdmGafabViNITFSAQppT7EAnptznUMB9aiicGR7Q2ORi6AAM372KPX5qTiIz&uniplatform=NZKPT&language=CHS",
+        "title": "基于大型藏文语料库的藏文字符、部件、音节、词汇频度与通用度统计及其应用研究",
+        "author": [
+            "卢亚军,",
+            "马少平",
+            ",张敏,罗广"
+        ],
+        "source": "西北民族大学学报(自然科学版)",
+        "date": "2003-06-15",
+        "data": "期刊",
+        "quote": "40",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwsamB3f3JjAv6oprHiHwCAHvyfkVhW_gCbScS4DYY9NXaKpraTj38XbGIyJSARzgZTx2m13nGnfwpZqIbxBXPGi27YcLnQHinP8XqBOOgQcEXlSVRMd1Xr4NZVxTaRQMzEANO0bdyKaqC5ER9aobGRiD0cZWVHK2XxqGLxoo9ooZe_dsIzUREP&uniplatform=NZKPT&language=CHS",
+        "title": "银行信用卡分类挖掘数据的预处理",
+        "author": [
+            "翟凌慧,",
+            "马少平",
+            ",唐焕玲"
+        ],
+        "source": "计算机工程",
+        "date": "2003-06-05",
+        "data": "期刊",
+        "quote": "37",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzjin3UN-t3cr9YeirHAtoHXVXH2iIACl5gJLav8gwVSO4UVwpeyGk0EWoMST5XWpseY0EWgwxoXihNlPS4qRRQgZBYACL9xCzbV_pZJx_TNYYARKa2mebCQfkTX1l1hNDyn8wa1pMTQsBO45ZPU6pazyxN_7XEhvHxMoLPsYTC9tPhZ1Ycyi-L&uniplatform=NZKPT&language=CHS",
+        "title": "自组织中文语义映射网络的优化特征编码方法",
+        "author": [
+            "张敏,马青,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2003-05-25",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyXaewJJtWI0DrBgXL-2cVS4w8kK2rJBJoJ-84LDH7K216qUO2E1pJmp9RGREzYwAIQNseMIRd2OkS2youbB57exK7JW80AJMl7j3ibzZJLDjr1VmzGlobj6RZokSXf1Bm-eyzscoh6VEk1EMI_ov2qXGzazBWCpoyCTPJ10nKMafAaMTOxOSzy&uniplatform=NZKPT&language=CHS",
+        "title": "基于局部化原理和概率模型的LVQ改进算法",
+        "author": [
+            "叶少珍,吴鸣锐,张钹,郑文波,",
+            "马少平"
+        ],
+        "source": "计算机学报",
+        "date": "2003-05-12",
+        "data": "期刊",
+        "quote": "14",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwqykSY7zqAZv0j7by-fsKK4xzzm7H9DqC5JNl94gDcuyb0n9YIc2d2LUg6nUsvWEeLwLEkQNWx-_kk2XKL89MeuZVWdWBkgfv63HHbRxXGLvn-nGgjFz4B9ESxoRXr6I5nfjsIksfCQgnXFJcbugrQzvjgcdDg9mskBmAMOkNinA5hwUfgs2tJ&uniplatform=NZKPT&language=CHS",
+        "title": "一种提高Web信息检索精度的分段检索方法",
+        "author": [
+            "宋睿华,",
+            "马少平",
+            ",张敏"
+        ],
+        "source": "广西师范大学学报(自然科学版)",
+        "date": "2003-03-25",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwqykSY7zqAZv0j7by-fsKK4xzzm7H9DqB7Slf3lCZyIggQ2D6KQPmZC2Z0VNDHTOzzF8hV1OVesjIyeNMCDMs24aaZnbQPg70v-40MFXXi9SL9DCGnBgeuPoAbhN9XkqNXlN486K2draXhjV2a9E2eSqEIFZcED2F16tP9GzUAh9RiRU4oVVPj&uniplatform=NZKPT&language=CHS",
+        "title": "一种基于Markov链模型的动态聚类方法",
+        "author": [
+            "邢永康,",
+            "马少平"
+        ],
+        "source": "计算机研究与发展",
+        "date": "2003-02-28",
+        "data": "期刊",
+        "quote": "60",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyNqP1AMkWGmLJge4aMqqz7v-6v7UAdnLQJNLTZdYO_GRzCCF6XrdYH2XQbKSygzC6GvH_scKby8iVRjtLbWfMNPC4I4HWRy08NNZ1nIBwK7nk6uloEynpV5F8NGv9LUVClSSeJifZzqFmRVmQWD1UPBXAEVglYYVXxSZsKjjf4grrN4QXSA8e8&uniplatform=NZKPT&language=CHS",
+        "title": "基于内容图像检索的特征子空间抽取",
+        "author": [
+            "苏中,",
+            "马少平",
+            ",张宏江"
+        ],
+        "source": "软件学报",
+        "date": "2003-02-23",
+        "data": "期刊",
+        "quote": "37",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyNqP1AMkWGmLJge4aMqqz7v-6v7UAdnLQK67Y3WURixqSufP0yOWGv_MF596YKVwTB7BstEMHUQs-VSigQwtaZ5x1l8Qxw6T9nLFdKh6W81LDgXrkd6rziViq8vMnqPDXUlP-54YY0PmxeuD1UIlaGcx_CVJWgUNn1AxpXgxPKgzU5LaxmF2rT&uniplatform=NZKPT&language=CHS",
+        "title": "基于链接的方法进行Web信息检索的TREC实验研究",
+        "author": [
+            "张敏,",
+            "马少平",
+            ",高剑锋"
+        ],
+        "source": "中文信息学报",
+        "date": "2003-01-25",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwv8YaD720m_7QBRsZjFGwDMfwkTIeaEKOinhfFVBvdMKsrn5Zm9RUeDXKtqKVwznXsBovEqckxQQ9uZzAXVffpc8SxypV3vzO_0iDUTZIezPAvo7ReouSsVBtXoRBgd6I3skuGcEPb1bRdB4Mtn1oPqtZGvdm-6I2lxreziHwHqSEqfv-4mtWx&uniplatform=NZKPT&language=CHS",
+        "title": "基于统计分词的中文网页分类",
+        "author": [
+            "黄科,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2002-11-25",
+        "data": "期刊",
+        "quote": "72",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwv8YaD720m_7QBRsZjFGwDMfwkTIeaEKP1XIVmsZb_N_ZUJJMHz4FfS-1VtOpvFjZ8O6fp5yO1r6gWyi4wbZHxFNiYHX4pys4xlYdS6tWG_DVnQTpcbmEUHoXG6VE8IoqzVmBj_QEurBM0eJrR9RTM4r9SRVc15hYeuk_6pL48vtz41gGOOlKs&uniplatform=NZKPT&language=CHS",
+        "title": "基于贝叶斯分类器的图像检索相关反馈算法",
+        "author": [
+            "苏中,张宏江,",
+            "马少平"
+        ],
+        "source": "软件学报",
+        "date": "2002-10-23",
+        "data": "期刊",
+        "quote": "85",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx46iiZlkZbS8bbmhXlyn6AkZM7NigavhJbapr9FBSedgy2r2rb--Hcw_1m0TITBpZu_dHJy2ySo0PIH7FRONwlsgMDwEuk_l1frzKK18UGKKCAZ6AFoLawgugwhSt5T0s6ko4JySetFsHx7DIO9zISh-s7Rani0aWbWqlW96OQwzqXoPTPgE1dfEjgPsNAPuE=&uniplatform=NZKPT&language=CHS",
+        "title": "大型中文古籍数字化系统的设计与实现",
+        "author": [
+            "马少平",
+            "姜哲",
+            "金奕江",
+            "黄宇"
+        ],
+        "source": "第八届全国汉字识别学术会议论文集",
+        "date": "2002-10-01",
+        "data": "中国会议",
+        "quote": "6",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgx46iiZlkZbS8bbmhXlyn6AkZM7NigavhJbapr9FBSedgy2r2rb--HcW_AsjSrDxNBcvMk12A1_XD7_GBXRPXSZXkmNkKm0dgK211RWqreOfvZy0f51JtUGnwz7RCx7DX_cesfmFtjJt4z4Jwm0L8A7TsrYBrT4OeGMIuQYxS2rJEo6qMhObTWZL5Xf1XyeeYQ=&uniplatform=NZKPT&language=CHS",
+        "title": "中文古籍数字化体系与工具系统",
+        "author": [
+            "姜哲",
+            "马少平",
+            "金奕江",
+            "张敏"
+        ],
+        "source": "第八届全国汉字识别学术会议论文集",
+        "date": "2002-10-01",
+        "data": "中国会议",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzIFpjiB_M3APt7XhpiYcTa_0nFEoPSwkEu4ElV5DAX1oeUscI-wbGiNQ78TVWcv-K7bn9GZP9Hc1iBkNYSOnGOqPE6qTNprYUx1znrkbrksJ8Xl-69Ouk-ajg27H_8AhQbCAx-hY3kMhJvNikXIqytge38HlHYQTTRCOpsWNizqXSteMavA6tl5G7nUlLwwKY=&uniplatform=NZKPT&language=CHS",
+        "title": "基于重叠动态网格和模糊方向线素特征的手写汉字识别",
+        "author": [
+            "吴天雷",
+            "马少平"
+        ],
+        "source": "第八届全国汉字识别学术会议论文集",
+        "date": "2002-10-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzIFpjiB_M3APt7XhpiYcTa_0nFEoPSwkEu4ElV5DAX1oeUscI-wbGijrEytuNEOQFEgMiK9xommy8ZH3FlEO_sDc7wja2jWPXa7JznCYVx9RxJLfFXqHikgca3N6VbRelqpyAjtbiC-Bl4lL6T2IPSH0qD9hQcfe_w-R2o4G71t5P2T9PmBPxuadvgsoEs804=&uniplatform=NZKPT&language=CHS",
+        "title": "基于ASIC识别卡的脱机手写体汉字识别系统",
+        "author": [
+            "宁薇",
+            "郑翔",
+            "金奕江",
+            "赵雁南",
+            "马少平"
+        ],
+        "source": "第八届全国汉字识别学术会议论文集",
+        "date": "2002-10-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxkuJwTsHivrviX4O4ddwESQ6ZaLmA9mbf47AskMqM5728v2KCruT79gkQ4RYwE15gVIu11VqyPnfYnLsV9Zp-_Z4P5RlaAdl4-bcK9LW622QRdRkyd5KeIYak0Y-FQC-fAv-xWUFCzybrFV6MT9EM9NtjG-z5E7e6Z6KPjogtgDbhfO0pGu-QCo5KlX1849Ok=&uniplatform=NZKPT&language=CHS",
+        "title": "采用“否定概率和”合成两类判别的汉字识别方法",
+        "author": [
+            "金奕江",
+            "马少平"
+        ],
+        "source": "第八届全国汉字识别学术会议论文集",
+        "date": "2002-10-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxkuJwTsHivrviX4O4ddwESQ6ZaLmA9mbf47AskMqM576Hg8YvGL1TzAAMGV_RR-5Ro7IW3CP9xLRTw_TswR8h597JHvpi6_wCaXvgtpd0JiiBerP8b5p8RFDDyr-9YsCL44N7_Jy6fz2sQmoxbnYAcX9NKWtXXGoLZmuaAlpgYpBEsd1J3Ow1djZWEm5sZmjE=&uniplatform=NZKPT&language=CHS",
+        "title": "基于链接的方法进行Web信息检索的TREC实验研究(英文)",
+        "author": [
+            "张敏",
+            "马少平",
+            "高剑锋"
+        ],
+        "source": "第一届学生计算语言学研讨会论文集",
+        "date": "2002-08-01",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgxkuJwTsHivrviX4O4ddwESUH6vg4TmhSrp_C1sN8bRgOFgvYaiU5kg0h_YtD3AnMeT2adWTzJzjYLJ3B0BU6dJseDHkkRyGk4An7AX3wepmwPJkhcGZB0niPq3j2dzdoXo3BzArbrgDhTtyXU2IFPWLyWQsaQNJN51wDDMPtD-1vlVVlaD6JIx&uniplatform=NZKPT&language=CHS",
+        "title": "基于神经网络球面领域覆盖构造法及其应用",
+        "author": [
+            "叶少珍,郑文波,",
+            "马少平"
+        ],
+        "source": "福州大学学报(自然科学版)",
+        "date": "2002-06-30",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzGFtLFhEAyaGU5IHPs8ashg1eVFDIvdM-hI0enB8eu74_lJEEIj9GagrqQcKyrIN87e3tjCeLr3N9EGlVJIc5XC3PJ3KWOTwKmayWv6ssmTDd2Tbzvl3xfaSrO4I1FXU5BwkJKT-e7_SHxkG2j3gm36Pt2ilWkbXl_UNTPynW6O_zgy7EQhhaK&uniplatform=NZKPT&language=CHS",
+        "title": "基于Web-Log Mining的Web文档聚类",
+        "author": [
+            "苏中,",
+            "马少平",
+            ",杨强,张宏江"
+        ],
+        "source": "软件学报",
+        "date": "2002-01-23",
+        "data": "期刊",
+        "quote": "120",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzGFtLFhEAyaGU5IHPs8ashg1eVFDIvdM_NVG3BxrZkWDM3xbwHsjoH9uZ6FPtRveWAj49qJlRcPWxhh1OsnSdKr4rCDH-tJE1MDYeIsV9KwyS8cKQf-683_lx5_8VptxjwUuiOUmx8NxOwRe0b3GR-NIqG2yxIin6P9ntfF0lNxja7LDnp-fAY&uniplatform=NZKPT&language=CHS",
+        "title": "基于IMM-IME输入法接口的实现方法",
+        "author": [
+            "胡宇晓,",
+            "马少平",
+            ",夏莹"
+        ],
+        "source": "计算机工程与应用",
+        "date": "2002-01-01",
+        "data": "期刊",
+        "quote": "51",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkqIZcwEJZDP_FjLXAhHnCYaouy05uEX7nzhWMptYwLsVnwC-51HPQvKfockthgm0oGwC3DWe9UCWDZGNS48zJL0VyepjyFxeVirryQHiz40JKptiE5YTN1Wt7y0clRNsKm_LIHALW62crilmMB8Y22o-0JDduqz8w8UZAn9_dgANHidtGfoVS&uniplatform=NZKPT&language=CHS",
+        "title": "用于信息检索的古文统计分析",
+        "author": [
+            "张敏,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2001-11-25",
+        "data": "期刊",
+        "quote": "10",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkqIZcwEJZDP_FjLXAhHnCYaouy05uEX7nzhWMptYwLsVnwC-51HPQjzYG_o0cJ-XiTMrEkdp1Bn7bfmlZaDDBeB7YJ75V-Ht7cWxZ5IhPzbUM94P8REQM0t6Su-cZ1zER4ZYFtqCWBJ8r84HAimkba_l0WkKQNvv3iklI1wbyBeXxnhngMWVz&uniplatform=NZKPT&language=CHS",
+        "title": "IBM大型机与小型机间汉字转换解决方案",
+        "author": [
+            "翟凌慧,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2001-11-25",
+        "data": "期刊",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzkqIZcwEJZDP_FjLXAhHnC0kJ_nYiGK4KJGAnsU-_-TvzZ6bKXCO1iMivNhr1fhHzufWRpDt-9yL6QS5xrRhDfPWp73G8QNF-HIkivOoKCPngynkBpLThL0lX5Pc0PBIHfMHP6ksztpj_UrlSA8o2A_B0mt0mdJHTT3n0kpXm44wpsmmREI-gWcejNoE0igpI=&uniplatform=NZKPT&language=CHS",
+        "title": "基于写作风格的作者识别",
+        "author": [
+            "孙晓明",
+            "马少平"
+        ],
+        "source": "辉煌二十年——中国中文信息学会二十周年学术会议论文集",
+        "date": "2001-11-01",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwDToBqrdbTK10AE16R3pIDLJ4e9fUWh9ldmvXnlsDMplSZqGLLq4gBiQAkACKqklt2lIwSi19-yRXjZPueP9wuhc_kfq55HE9JtgstHNN-6BcIqrZV830hcRFNJ2BrbrNMdMXyGkOGTclnTQlZC247fYRnuaagQ0SToWr7hsCWvHOzKQXCMWH-&uniplatform=NZKPT&language=CHS",
+        "title": "故障诊断系统中深浅知识集成表示方法的研究",
+        "author": [
+            "王道平,",
+            "马少平"
+        ],
+        "source": "小型微型计算机系统",
+        "date": "2001-09-21",
+        "data": "期刊",
+        "quote": "43",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwi2fBKxXy9ZHvz8X0IWJ_YJ5TpEo9UGfAel0E3oyXO1ZJ5QDx2X-9Rxn-yypKhkThu2vUuoAidQEESSYWgSITkskcP8VjhH7UDnywurhBsCZpxadhd3x8TMQcfnXtdX2CmiK--axOddu-OSWJ6WHmLx60YKK8VtEyb4YD6Le9MGYb0H1oqlVvN&uniplatform=NZKPT&language=CHS",
+        "title": "数据挖掘综述",
+        "author": [
+            "钟晓",
+            "马少平",
+            "张钹",
+            "俞瑞钊"
+        ],
+        "source": "模式识别与人工智能",
+        "date": "2001-03-15",
+        "data": "期刊",
+        "quote": "527",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwi2fBKxXy9ZHvz8X0IWJ_YJ5TpEo9UGfBRx5-PYole9XHxxgCXvPm6SnOsAxpKEyX-fd0QlEKETKfCO187LIC4Utv2_Du7XNpB7FSIox9A8T2Z-Z5Gm5WQedfh_6ZoOL9EdNfi07PCJer2ohXyhShaDvoWY1S6WDn7HyoKn2wV5XxdMePLtLgh&uniplatform=NZKPT&language=CHS",
+        "title": "手写体汉字在特征空间的可视化分析",
+        "author": [
+            "陈津颖,金奕江,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2000-10-20",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgwi2fBKxXy9ZHvz8X0IWJ_YJ5TpEo9UGfA2i7kp4QUGSESp8MRkBzKZ0sIsNIFVr9oqHZ0KD0hS4OZfCMFZmEsxyqwFI0XQolkX89EVdI7dAhzQsDePdQkRQtDssIXEWtRFFHFE4VizdwndPJgzS8aLcxOs33GZoiOzd7oQgdZFRwMjV2scDxk8&uniplatform=NZKPT&language=CHS",
+        "title": "一个基于混合推理的故障智能诊断系统",
+        "author": [
+            "王道平,",
+            "马少平"
+        ],
+        "source": "计算机应用",
+        "date": "2000-07-28",
+        "data": "期刊",
+        "quote": "17",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgynAyTh-UPgGyVc-ueelQBxKhhOmqv12qkmrJlq6hjoCmjcrpkLB8Qi_pW8P1xFZon5JGIUVBg356M4xDjEFG-frFd15v0JTqsDhRFIbSBP86-p6up_W7gvW-RvXMr_nu97GT6atUbab1gwN-EEzGc2HxL04bvkgf6NBzuaXDyRTUwn5l6naU1U&uniplatform=NZKPT&language=CHS",
+        "title": "手写体字符识别研究",
+        "author": [
+            "朱小燕",
+            "史一凡",
+            "马少平"
+        ],
+        "source": "模式识别与人工智能",
+        "date": "2000-06-15",
+        "data": "期刊",
+        "quote": "164",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgynAyTh-UPgGyVc-ueelQBxKhhOmqv12qljdnIcg2CLJP1J-Y3o_ZH6zHRH2FpZ39STehXEDdXcdSQT83hmpqopIEW1GjFALd2fxrjdnb1XTiZEoOzEl-WGYa8gS7RZy5avMy4_3Os00edgIRA8sVc_1gFEoYY3P_tGiyK1gl9a0D549vH7cubK&uniplatform=NZKPT&language=CHS",
+        "title": "基于Visual　Basic　6.0的故障智能诊断系统设计方法的研究",
+        "author": [
+            "王道平,",
+            "马少平"
+        ],
+        "source": "计算机工程与应用",
+        "date": "2000-05-09",
+        "data": "期刊",
+        "quote": "14",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy3M2b5SvNgAPrYYljDcVmUZ7kPSMjO28cmjngFZNx7b9S1ezo7tWOXgIIu0HCERjQ409Tc_tbUqxYPNnGMql8F3DrJcRhLngFp84tA_iTWdjD-7wpP21ZSOZbvoFvZxyUX4PIj58tjoiPbIrgY-LhJqrOYogYvIiowCu5fidM7NUzJkesndAEv&uniplatform=NZKPT&language=CHS",
+        "title": "大型中文古籍《四库全书》自动版面分析系统",
+        "author": [
+            "姜哲,",
+            "马少平",
+            ",夏莹"
+        ],
+        "source": "中文信息学报",
+        "date": "2000-04-20",
+        "data": "期刊",
+        "quote": "23",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy3M2b5SvNgAPrYYljDcVmUZ7kPSMjO28cmjngFZNx7b9S1ezo7tWOXbswfkws0eyN-yeUzbcBw91LgeE_ijpEoZ3QfriUHhv-mycxgK7x3z4beCNKF9GCk1pxHm7LJGYdCS-57z8wWiTbJQUUTWu_wLQyFpyn5_hSuYBjoHKrrUcu6Eh4kSvLV&uniplatform=NZKPT&language=CHS",
+        "title": "汉字的线性分类实验",
+        "author": [
+            "金奕江,",
+            "马少平"
+        ],
+        "source": "中文信息学报",
+        "date": "2000-04-20",
+        "data": "期刊",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgy3M2b5SvNgAPrYYljDcVmUqfi9jQm9v_brfgxjFHyBY49kTLWS9ckN6K8kr8X84VMmlFFj_mJ3_gy0UymDuFI7WG5VBfec8OVGX2xeslJ34PuO5Cvi6Bxoy0whr0Hw5ewBmpqTFmphvyMYN4Dq7taT7vJyqoxoiIVQoWdE1ATYq3Wh42o1OpjeghOKH_u3IAQ=&uniplatform=NZKPT&language=CHS",
+        "title": "脱机手写体字符识别研究",
+        "author": [
+            "朱小燕",
+            "史一凡",
+            "马少平"
+        ],
+        "source": "面向21世纪的科技进步与社会经济发展（上册）",
+        "date": "1999-10-18",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw8exVXsgoRVrBlsc4toq16752WgudlgapFNJ7xwOnoLLYxAwO3xfIptFxlu1NWzcEsf28HJ6zGBehxw0lbGxD6h4_iXkhMEdlzgoBH-Spx_IKGd1Uh8M_drQphAvnfLul3O1RiyttEUTsnpoOpUWQtsAZGSR-iBPIAcSHyAj9b-0uw7heLVRVCBHKvrCastTY=&uniplatform=NZKPT&language=CHS",
+        "title": "汉字拼音数字码及笔画数字码的智能输入",
+        "author": [
+            "夏莹",
+            "马少平",
+            "姜哲",
+            "张金岭"
+        ],
+        "source": "面向21世纪的科技进步与社会经济发展（上册）",
+        "date": "1999-10-18",
+        "data": "中国会议",
+        "quote": null,
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgw8exVXsgoRVrBlsc4toq16752WgudlgapFNJ7xwOnoLLYxAwO3xfIpRPWWnCp2Qj0uDif-9ys7Be8SrSqhp36Zbut_u3Yo2mSanoquCHiIJbFioi7lNL4evZj7IaWQoj9jFkdmWc0Y4WojYvEcu1ChiyY9FxRIHYY8dfDufQsrpOQXyG9CE63VEqnkE-gEPyA=&uniplatform=NZKPT&language=CHS",
+        "title": "大型古籍《四库全书》识别系统",
+        "author": [
+            "马少平",
+            "姜哲"
+        ],
+        "source": "面向21世纪的科技进步与社会经济发展（上册）",
+        "date": "1999-10-18",
+        "data": "中国会议",
+        "quote": "1",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzZkk3FMB2iuKIcoc7NPKQmF2grn1IVa1Wqv6SW6Jeb_MfOJ2QDI3lE5KF1NPPl5xrL024GSl9j5-5Erhpgqk5kEbsGy7JFf7PSLiHSDwT9zUzIs_pz29vc_Ii2lu2IxniFipiiCmaTZZo73cQdy252IzTtC1bIicMGLAqPxxg8BQ-8L9VAvPZx&uniplatform=NZKPT&language=CHS",
+        "title": "一种手写体相似汉字获取方法",
+        "author": [
+            "张德喜,朱绍文,",
+            "马少平"
+        ],
+        "source": "计算机工程",
+        "date": "1999-04-20",
+        "data": "期刊",
+        "quote": "3",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzZkk3FMB2iuKIcoc7NPKQmF2grn1IVa1XIni4N2pMpMVqYtMHwiQQFltX-fU0JswgN6McPMn4LqIOGXqafR_uos3aJyHopP0MKtzpZVWNg9yjYAfyPJjVJqdyiXerO6MEl00cqoLaXCWa0a6p82E9asIIACHfJf2A7XnopPVcd6R5CV3OLUe-X&uniplatform=NZKPT&language=CHS",
+        "title": "智能型数字码汉字输入技术",
+        "author": [
+            "马少平",
+            ",夏莹,张金岭"
+        ],
+        "source": "电子计算机与外部设备",
+        "date": "1999-03-15",
+        "data": "期刊",
+        "quote": "2",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgzZkk3FMB2iuKIcoc7NPKQmF2grn1IVa1UV9L7l9bO23fpgjDRYMfR3dYuPA0QyQ5tvIRRkro2DiGd8fkHCe42-GbGLO0CtuU9qq_R_nhGlLR1Hbr_Z7Ok_2WG8eIb8ki8PN_FTCUX53skOWHyB2n3fTTlWoWsjX99Jfrp65V5EpIN23SufyznY&uniplatform=NZKPT&language=CHS",
+        "title": "汉字识别系统的误识模型",
+        "author": [
+            "马少平",
+            ",夏莹,朱小燕,姜哲"
+        ],
+        "source": "清华大学学报(自然科学版)",
+        "date": "1998-12-30",
+        "data": "期刊",
+        "quote": "22",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyICvXAC1RCB6RreEe4nWSJHQkv78XxUZVPJ7b94KvKEJM_6RJWwEBkNIeUP6Pe2lZjqciGdq-qnfV7QmeV1G-NT9LFBSs55nSf0cLt6-4NvWxfmORFtKwZcFz52N7bjwRZwUAd1n_zf_a_a1KSRbJw4S1IkRZNuYU2m727dxlIuoFnhtL6fm8c&uniplatform=NZKPT&language=CHS",
+        "title": "汉字文本识别的自动后处理",
+        "author": [
+            "夏莹,",
+            "马少平",
+            ",孙茂松,朱小燕,金奕江,常新功"
+        ],
+        "source": "语言文字应用",
+        "date": "1997-05-15",
+        "data": "期刊",
+        "quote": "14",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyICvXAC1RCB6RreEe4nWSJHQkv78XxUZU54_ru1Cs691SQ6gUo7gmAcLsc8DarSsCfDc98aRPI3e2cDdxuV-PZgPPzbC5LQHU4L922ITXBg7b-rAheV-y2C7SZ1Q0RJyNylAHem5gnlr7tQ6L3QpLkggRMBQSXGsJWySBFfDoCyuPpNydRj1l_&uniplatform=NZKPT&language=CHS",
+        "title": "基于词词同现概率的拼音汉字自动转换方法",
+        "author": [
+            "马少平",
+            ",夏莹,朱小燕,刘建民,刘健"
+        ],
+        "source": "电子计算机与外部设备",
+        "date": "1997-05-15",
+        "data": "期刊",
+        "quote": "7",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyZ7a0NGRfJJeV9hSueJEL8TpkykgPoTapho_ozfmY6Ip6xHN06La98NqhviNik0D4w7ZGSJx4cx7numNFt21kb5p1aUbvGjzJi_RcmWpALjp_w8WsAj8VgabnT8h8mAtu5Y_nV9txhGnpXAl5ojPdFRucYGMtOLYKwT7O60xfKGzX4hzzYUzOS&uniplatform=NZKPT&language=CHS",
+        "title": "基于统计的汉字识别文本自动后处理方法",
+        "author": [
+            "夏莹",
+            "马少平",
+            "常新功",
+            "朱小燕",
+            "金奕江"
+        ],
+        "source": "模式识别与人工智能",
+        "date": "1996-06-15",
+        "data": "期刊",
+        "quote": "12",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyZ7a0NGRfJJeV9hSueJEL8TpkykgPoTar-iR-DuNpFpXqzLpEoIBo1juQ_B5-tRu_z3Sj_9xqDQFicoL_ZHBB6__0O34Iu4DOfPMyohmek6-bHk7UYpsfn7dWMaCFyLdJrh3Ji6Z3BL1gX9-5Vrg2VAW1SPYLnWT7l4llWbuUhI_6Cbzr87HSO&uniplatform=NZKPT&language=CHS",
+        "title": "计算机语言学方法在中文文字识别后处理中的应用",
+        "author": [
+            "夏莹",
+            "马少平",
+            "孙茂松",
+            "朱小燕",
+            "金奕江",
+            "李国华"
+        ],
+        "source": "中文信息",
+        "date": "1996-03-20",
+        "data": "期刊",
+        "quote": "5",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyZ7a0NGRfJJeV9hSueJEL8TpkykgPoTaqoiXnDAViVeBMftaWNaqFcojOHnPZUGyy8q36aqiJcTrJ-ESysOvfGXoWJ_KBC-opPIbaiVCRTok9hwaZfpzuJLLSpe7PNROttWJxc-1trmWnnY3Rc7JGrkmhwngH2IRtvMfgDz7SVLygG0cAxsOA0&uniplatform=NZKPT&language=CHS",
+        "title": "利用上下文相关信息的汉字文本识别",
+        "author": [
+            "夏莹，常新功，",
+            "马少平",
+            "，朱小燕，金奕江"
+        ],
+        "source": "中文信息学报",
+        "date": "1996-03-10",
+        "data": "期刊",
+        "quote": "15",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyvcAyV3pTcqYOXG85TYV3c0asmn8Zrm4lCvI3-pkl9reOGBsMdIzX--WceYFzJGRT7MokdjWDOhIC-wNvCB4l7voGk_DXUwKvjw6nWF60RlNQNIGY75uigpP8g7qr6JXK40S2my40n-estkqceGeXZYA1qDJOW9dpTpwUY5cn6JYHfQgoCpkl5&uniplatform=NZKPT&language=CHS",
+        "title": "轮式机器人最优控制的研究",
+        "author": [
+            "齐国光",
+            "郭木河",
+            "马少平",
+            "归柽华"
+        ],
+        "source": "机器人",
+        "date": "1996-01-15",
+        "data": "期刊",
+        "quote": "15",
+        "download": null
+    },
+    {
+        "url": "https://kns.cnki.net/kcms2/article/abstract?v=D99zBTMMfgyvcAyV3pTcqYOXG85TYV3c0asmn8Zrm4kFzhoHBD6ZgzPTpqfrXxuwRlgHn3jXMtQBfRZ8yIm4nVkpBjtJtpex3-NY0_DxssDzC4OsJi1yFtYEAqTojOzyawC_ZbLz7A7Xi9XtGdhQB-JS07pnGlttBwMo0UJds21GvBqKafS7GXoXYPuaMnx1&uniplatform=NZKPT&language=CHS",
+        "title": "连续系统中二次型性能函数对系统参数灵敏度的计算",
+        "author": [
+            "孙增圻,",
+            "马少平"
+        ],
+        "source": "控制理论与应用",
+        "date": "1992-06-29",
+        "data": "期刊",
+        "quote": "1",
+        "download": null
+    }
+]

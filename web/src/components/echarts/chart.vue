@@ -1,9 +1,7 @@
 <template>
     <div :class="{'chart-container':true, 'boxall':show_corner}">
         <div v-if="title" style="display: flex;flex-direction: column;" class="my-chart">
-            <div class="title">
-                {{ title }}
-            </div>
+            <titlebar>{{ title }}</titlebar>
             <div ref="chartRef" style="width: 100%;flex: 1;"></div>
         </div>
         <div v-else ref="chartRef" class="my-chart">
@@ -16,6 +14,9 @@
 import { defineProps, onBeforeUnmount, onMounted, ref } from "vue";
 import { ResizeObserver } from '@juggle/resize-observer';   // npm i @juggle/resize-observer  //TODO:监听元素大小变化
 import echarts from "../../hooks/echarts"; //TODO:echarts原始组件
+
+const emits = defineEmits(['click', 'dblclick']);
+
 const props = defineProps({
     option: {
         default: {},
@@ -44,6 +45,12 @@ const initChart = () => {
     chart.setOption({
         ...props.option,
     });
+    chart.off('click').on('click', (e) => {
+        emits('click', e)
+    })
+    chart.off('dblclick').on('dblclick', (e) => {
+        emits('dblclick', e)
+    })
 };
 
 onBeforeUnmount(() => {
@@ -56,16 +63,7 @@ onBeforeUnmount(() => {
     margin: 2px;
     position: relative;
     // background-image: url('../../assets/img/line.png');
-    background-color: #00080813;
-    .title {
-        font-size: 20px;
-        border-bottom: 1px solid #ccc;
-        box-sizing: border-box;
-        width: min-content;
-        white-space: nowrap;
-        color: white;
-        margin: 5px;
-    }
+    background-color: #2c2c2c44;
 
     .my-chart {
         width: 100%;

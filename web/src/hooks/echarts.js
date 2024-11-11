@@ -4,7 +4,7 @@ import * as echarts from "echarts/core";
 import { BarChart, LineChart, PieChart, GraphChart } from "echarts/charts";
 
 // 引入提示框，标题，直角坐标系，数据集，内置数据转换器组件，组件后缀都为 Component
-import { TitleComponent, TooltipComponent, GridComponent, DatasetComponent, TransformComponent, LegendComponent } from "echarts/components";
+import { TitleComponent, TooltipComponent, GridComponent, DatasetComponent, TransformComponent, LegendComponent, VisualMapComponent  } from "echarts/components";
 
 // 标签自动布局，全局过渡动画等特性
 import { LabelLayout, UniversalTransition } from "echarts/features";
@@ -13,7 +13,7 @@ import { LabelLayout, UniversalTransition } from "echarts/features";
 import { CanvasRenderer } from "echarts/renderers";
 
 // 注册必须的组件
-echarts.use([TitleComponent, TooltipComponent, GridComponent, DatasetComponent, TransformComponent, LegendComponent, BarChart, LabelLayout, UniversalTransition, CanvasRenderer, LineChart, PieChart, GraphChart]);
+echarts.use([TitleComponent, TooltipComponent, GridComponent, DatasetComponent, TransformComponent, VisualMapComponent, LegendComponent, BarChart, LabelLayout, UniversalTransition, CanvasRenderer, LineChart, PieChart, GraphChart]);
 
 // 导出
 export default echarts; //TODO:按需导入echarts

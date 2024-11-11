@@ -1,0 +1,1350 @@
+﻿﻿﻿.bodymain{ background-color:#fff; border-top:1px solid #dbdbdc;}
+.bgcGray { background-color: #f5f5f5;}
+.inline-block {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+}
+/*原网页样式*/
+#DBSwitchDiv { width: 770px; padding-left: 230px;  margin: 0px auto;  height: 40px;}
+.NaviDBSwitch,
+.NaviDBSwitchHover {  position: relative; z-index: 999;  float: left;  margin: 0px 10px 0px 4px;  cursor: pointer;}
+.NaviDBSwitch h1,
+.NaviDBSwitch h1 span,
+.NaviDBSwitchHover h1,
+.NaviDBSwitchHover h1 span {  display: inline-block;  _display: inline;  _width: auto;  background: transparent url("../../../images/dbswitchbg.png") no-repeat scroll left 0px;}
+.NaviDBSwitch h1,
+.NaviDBSwitchHover h1 { position: relative;  z-index: 1000;  padding-left: 12px;}
+.NaviDBSwitch h1 span,
+.NaviDBSwitchHover h1 span {  height: 40px;  margin: 0px;  padding-right: 26px;  font-size: 20px;  line-height: 40px;  vertical-align: middle;  color: #333;  font-family: "Microsoft Yahei", "黑体";  letter-spacing: 2px;  white-space: nowrap;  background-position: right 0px;}
+.NaviDBSwitchHover h1 {  background-position: left -40px;}
+.NaviDBSwitchHover h1 span { background-position: right -40px;}
+.dataMenu {  position: absolute;  z-index:-999;  top: 38px;  left: 0px;  width: 514px;  background: #FFF none repeat scroll 0% 0%;  text-align: left;  border: 2px solid #2A83D3;  box-shadow: 0px 5px 5px #CCC;  overflow: hidden;  padding: 0px 10px;  margin:10px;}
+.dataMenu ul.moreline {  float: left;  width: 146px; padding: 5px 0px 0px 20px;  margin: 10px 0px 10px -1px;  border-left: 1px dashed #D7E8F1;  border-right: 1px dashed #D7E8F1;}
+.dataMenu li {  display: block;  font-size: 12px;  line-height: 22px;}
+.dataMenu li h4 a {  color: #0765AB;  font-weight: 700;}
+.dataMenu li h4 a:hover { color: #f60;}
+.dataMenu .divline {  clear: both;  height: 1px;  background-color: #9FD6F2;  border-bottom: 1px solid #CCC;}
+.naviMenu {  font: 14px/22px arial;  text-align: right;  float: right;  margin-top: 10px; height: 22px;}
+.naviMenu a {  color: #002b82;}
+.naviMenu a:hover {color: #f60;}
+.location { /*background: transparent url("../../../images/location_BgLine.gif") center bottom repeat-x;*/ clear: both;}
+
+/*网络出版声明=======================*/
+/*新增样式*/
+.notebox { height: 32px; background: #f6f6f6;  border: #F0F0F0 solid 1px;  padding: 0 20px;  min-width: 1156px;}
+.note {  line-height: 32px;  cursor:pointer;}
+.note strong {  color: #0059bd;}
+/*优先出版斜体标志*/
+.cMarkTip { color: #f48862; font-style: italic; font-weight: normal; display:inline-block; cursor: default; }
+.cMarkSign{ color: #cf4d4d; padding: 0 2px; font-size: 12px; font-weight: normal; letter-spacing: -1px; border: 1px solid #cf4d4d; white-space: nowrap; }
+/*网络出版声明页面*/
+.noteHide { display: none; position: absolute; /*top: 50%;*/ left: 50%; z-index: 999; width: 560px; min-height: 300px; _height: 300px; /*margin-top: -250px;*/ margin-left: -300px; padding: 20px 30px 100px; font-size: 14px; line-height: 24px; background: #fff; border: 1px solid #cfcfcf; box-shadow: 0 0 5px #eaeaea; }
+.closeBtn { position: absolute; right: 5px; top: 5px; display: block; width: 16px; height: 16px; font-size: 0; line-height: 0; text-indent: -999em; background: url(../../../images/qkspirit.png) no-repeat scroll -132px -44px transparent; opacity: .5; cursor: pointer; }
+.noteHide .content .title { font-size: 16px; text-align: center; font-weight: bold; margin: 20px 0; border-bottom: #333 dotted 1px; padding-bottom: 10px; clear: both; }
+.noteHide .content p { margin: 10px 0; text-indent: 2em; }
+.noteHide .content .w1 { width: 50%; }
+.noteHide .content .w1, .noteHide .content .w2 { float: left; margin-top: 60px; width:280px;}
+/*网络出版声明页面 END*/
+
+/*.bd {  background-color: #fff;  padding: 0 24px 15px 24px;padding-bottom:15px; box-shadow:0px 0px 10px #CCCBCB; -ms-box-shadow:0px 0px 10px #CCCBCB;  -moz-box-shadow:0px 0px 10px #CCCBCB; -webkit-box-shadow:0px 0px 10px #CCCBCB; -o-box-shadow:0px 0px 10px #CCCBCB; border: 1px solid #dbdbdc; }*/
+/*分享收藏 功能模块==================*/
+.optbox {  height: 30px; line-height: 30px;  border-bottom: 1px solid #f0f0f0;  padding-right: 20px; margin:0 24px;}
+.optbox-list {  float: right;  height: 30px;}
+.optbox-list .item {  float: left;  margin-left: 15px;  margin-right: 12px;  cursor: pointer;  _padding-top: 6px;}
+.optbox-list .item span {  cursor: default;}
+.optbox-list b {  display: inline-block;  *display: inline;  zoom: 1;  width: 24px;  height: 17px; vertical-align: middle;}
+.optbox-list .share em { display: inline-block;  *display: inline;  zoom: 1;  width: 18px;  height: 17px;  vertical-align: middle;  background-position: 5px -233px;}
+.optbox-list .hover {  position: relative;  background-color: #fff;}
+.optbox-list .hover .mainTxt {  color: #0077cb;}
+.optbox-list .hover em {  background-position: -14px -254px;}
+.optbox-list .hover .optbox-sublist {  display: block;}
+/*20190220 分享模块修改*/
+.optbox-sublist {  position: absolute; top: 29px; left: -20px; z-index: 100; width: 115px; padding: 0; background-color: #fff; border: 1px solid #e1f3ff; _width: 125px;
+  box-shadow: 2px 2px 5px #CCCBCB;
+  -o-box-shadow: 2px 2px 5px #CCCBCB;
+  -ms-box-shadow: 2px 2px 5px #CCCBCB;
+  -moz-box-shadow: 2px 2px 5px #CCCBCB;
+  -webkit-box-shadow: 2px 2px 5px #CCCBCB;
+}
+ul.optbox-sublist:before,
+ul.optbox-sublist:after { content: ""; position: absolute; top: -12px; left: 54px; width: 0; height: 0; border: 6px solid transparent; border-bottom-color: #666; }
+ul.optbox-sublist:after{ border-bottom-color: #fff; }
+.optbox-sublist li {  float: none; padding: 0 15px; line-height: 24px;}
+.optbox-sublist li:hover{ background-color: #f5f5f5;  }
+.optbox-sublist li b {  height: 16px;  width: 16px;  margin-right: 8px;}
+.optbox-sublist a {  display: block;  height: 100%;}
+.optbox-sublist a:hover { color: #666; }
+
+/*journalInfo 期刊信息介绍*/
+.journalInfo {  margin:26px 24px 39px 43px;}
+.journalInfo .pic,
+.journalInfo .titbox,
+.journalInfo .journalType,
+.journalInfo .infobox {  float: left;}
+.journalInfo .pic { position: relative;  width: 110px;  min-height: 168px;  _height: 188px;}
+.journalInfo .pic .pic-book {  position: absolute;  top: 0;  left: 15px;  z-index: 10;}
+.journalInfo .pic .icon-unique {  position: absolute;  top: -12px; left: 96px; z-index: 11;  width: 59px;  height: 58px;  background: url(../../../images/icon-unique.png) 0 0 no-repeat;  font-size: 0;  line-height: 0;}
+.journalInfo .pic .pic-first {  position:relative;top:147px;left: 77px; z-index: 10; display:block;width:59px;height:20px;font-weight:700;text-align:center;font-family:arial;color:#fff;background:url(../../../images/pic-first-bg.jpg) 0 0 no-repeat;}
+.journalInfo .pic .icon-issue{ position: absolute; top: 147px; left: 16px; z-index: 10; display: block;  width: 59px;  height: 20px; line-height: 20px; font-weight: 700; text-align: center;  font-family: arial;  color: #fff;  font-size: 12px; background-color: #33b06e;  background: -webkit-linear-gradient(top,#5aba87,#11743f); background: linear-gradient(top,#33b06e,#3886e6); }
+.journalInfo .infobox {  /*min-height: 188px;*/  width: 920px;    width: calc(100% - 210px);}
+.journalInfo .titbox {  min-width: 210px;  padding-right: 20px; font-family: "Microsoft YaHei", "微软雅黑", "黑体", "Simsun", serif;  color: #333333;  font-size: 18px;  line-height: 30px;  margin-bottom: 20px;}
+.journalInfo .titbox p {  font-weight: 400; color: #555555;  font-size: 12px;}
+.journalInfo .journalType { line-height: 32px;  max-width: 560px; margin-bottom: 15px;}
+.journalInfo .journalType span { margin-right: 13px;  cursor: default;display: inline-block;}
+.journalInfo .journalType b {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;  width: 22px;  height: 16px;  background-position: 0 -98px;}
+.journalInfo .listbox {  /*min-height: 115px;  _height: 115px;*/}
+.journalInfo .listbox .tit {  height: 23px;  line-height: 23px;  color: #666;  font-weight: 600;  background-color: #F2F2F2; margin-bottom: 5px;/*padding-left: 10px;*/ }
+.journalInfo .infobox  ul{ width:150px; margin-right:30px;}
+.journalInfo .listbox ul {  float: left;  min-height: 94px;  color: #333333; line-height: 23px;}
+.journalInfo .listbox .subfield { float:left; width:260px;  margin-right:40px;}
+.journalInfo .listbox p{width: 100%; line-height:23px; /*white-space: nowrap; text-overflow: ellipsis; overflow: hidden;*/}
+.journalInfo .listbox .hostUnit b { display:inline-block; max-width:170px; height:23px; color: #676975;  line-height:23px; padding-right: 0; font-weight:normal; /*word-wrap: break-word;  word-break: break-all;*/ vertical-align: bottom; overflow:hidden; text-overflow:ellipsis;  white-space:nowrap; *vertical-align: middle; }
+.journalInfo .listbox span {color: #676975;display: inline-block;vertical-align: top;max-width: 180px;word-break: break-word;}
+.journalInfo .listbox .database { color: #676975; padding-right: 15px;}
+/*.journalInfo .listbox .morehide{ white-space: nowrap; text-overflow: ellipsis; overflow: hidden;}*/
+.journalInfo .listbox .more{ *margin-top:-22px; }
+.journalInfo .listbox .yearbox {  width: 320px;  height: 43px;  padding-top: 3px;border-top: 1px dashed #D9D9D9;}
+.journalInfo .listbox .yearbox span {  padding-right: 19px;}
+.journalInfo .listbox .year {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;  width: 84px;  text-align: right;  font-weight: 400;  color: #333333;}
+.journalInfo .btnbox {  padding-left: 4px;  height: 18px;  line-height: 20px;}
+.journalInfo .btnbox a {  color: #0077CB;}
+.journalInfo .btnbox a:hover { color: #2F8BD6; font-weight: 700;}
+.journalInfo .btnbox b {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+  width: 11px;
+  height: 11px;
+  background-position: -34px -129px;
+}
+.journalInfo .btnOpen b {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;  width: 11px;  height: 11px;  background-position: -34px -105px;}
+.h94 { height: 94px; overflow: hidden;}
+
+
+/*基本信息 end*/
+/*journalTabbox  检索 ========================*/
+.journalTabbox {  height: 42px;  border-bottom: 1px solid #D7D7D7;  padding: 0 16px 0 35px; margin: 0 24px; }
+.journalTabbox .lArea { width: 640px; height: 42px;}
+.journalTabbox .lArea li {  float: left;  height: 39px;  line-height: 39px;  font-size: 14px;  padding: 0 27px;}
+.journalTabbox .lArea li a {  color: #333;}
+.journalTabbox .lArea li a:hover { color: #0077CB;}
+.journalTabbox .lArea .cur {
+  border-style: solid;
+  border-width: 3px 1px 1px;
+  border-color: #479BE9 #D7D7D7 #F6F6F6;
+  background-color: #F5F5F5;
+  color: #0077CB;
+}
+.journalTabbox .lArea .cur a {  color: #0077CB;}
+.journalTabbox .rArea { width: 456px;  padding-top: 6px;}
+.journalTabbox .rArea .selectBox {  margin-right: 10px;  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;}
+.journalTabbox .rArea .searchbox {  position: relative;  width: 300px;  height: 30px;  /* margin-right: 10px; */}
+.journalTabbox .rArea .searchbox .fpacehd {  left: 5px;  width: 200px;  height: 30px;  line-height: 30px;  z-index: 10;}
+.journalTabbox .rArea .searchTxt {
+  position: absolute;
+  top: 0;
+  width: 265px;
+  height: 30px;
+  line-height: 30px\9;
+  padding: 0px 30px 0 5px;
+  background-color: #F1F1F1;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  _width: 295px;
+  _border: 0 none;
+}
+.journalTabbox .rArea .btn-search {  position: absolute;  top: 0;  left: 270px;  width: 30px;  height: 30px;  background-position: 3px -116px;}
+/*主体内容*/
+.contentbox {  padding: 15px 13px 15px 6px; margin: 0 24px 15px 24px;  background-color: #F5F5F5;/*右侧列表样式*/}
+.contentbox .lArea {width: 210px;}
+/*左侧分页 start*/
+.contentbox .page-list { font-family: "Microsoft YaHei", "微软雅黑", "黑体", "Simsun", serif;  height: 30px;  line-height: 30px;  text-align: center;}
+.contentbox .page-list .btn-larrow,.contentbox .page-list .btn-larrow1,.contentbox .page-list .btn-rarrow1,
+.contentbox .page-list .btn-rarrow { font-size: 12px;  text-align: center;}
+.contentbox .page-list a { position: static; float: none; padding: 0 5px; margin: 0; color: #555;  text-align: center;  display: inline;  font-size: 12px;  line-height: normal;  cursor:pointer;}
+.contentbox .page-list a:hover {  color: #0077cb;}
+.contentbox .page-list .cur {  color: #fff;  background-color: #489cea;}
+.contentbox .page-list .cur:hover {  color: #fff;}
+.page-list span{position: static;  float: none;  padding: 0 5px;  margin: 0;color:#a4a2a2; text-align: center; display: inline; font-size: 12px;  line-height: normal; }
+.page-list #nextpagespan{display: none;}
+/*左侧分页 end*/
+
+.contentbox .rArea {  width: 914px;  /* background-color: #fff; */}
+.contentbox .rArea .optsbox { height: 30px;  /* background-color: #F5F5F5; */  /*padding-left: 15px;*/}
+.contentbox .rArea .optsbox .icon-preview {  _background-position: 4px -148px;  _vertical-align: baseline; _margin-top: 4px;}
+.contentbox .rArea .btn-preview {  height: 30px;  line-height: 30px; margin-left: 15px;color: #53a2e3;float: right;}
+.contentbox .rArea .btn-preview:hover {  color: #0077cb;}
+.contentbox .rArea .btn-back .icon-preview {  background-position: -17px -312px;}
+.contentbox .rArea .date-list-Box {  /*width: 117px;*/  overflow: hidden;  height:29px;  border-bottom:1px solid #499cea; }
+
+.contentbox .rArea .date-list-Box .date-list { /* position: absolute;  left: 20px;  width: 74px;*/  height: 30px;max-width: 570px;padding:0 20px;  overflow: hidden;  text-align:center; color: #53a2e3; font-weight: bold;text-overflow: ellipsis;white-space: nowrap;}
+.contentbox .rArea .date-list-Box .date-list li {  float: left;}
+.contentbox .rArea .date-list-Box .date-list sup{ display: inline-block; margin-left: 1px; font-size: 10px; color:red; font-weight:normal; -webkit-transform: scale(0.8);}
+/*右侧内容 start*/
+.contentbox .rArea .date-list-Box span{  display:inline-block; vertical-align:top; }
+.contentbox .scrollbox #larrow,.contentbox .scrollbox #larrow1,
+.contentbox .scrollbox #rarrow,.contentbox .scrollbox #rarrow1{ height:30px; width:20px;}
+.contentbox .rArea .date-list-Box .btn-larrow,.contentbox .rArea .date-list-Box .btn-larrow1 {  background-position: -32px -40px; cursor:pointer;}
+.contentbox .rArea .date-list-Box .btn-larrow.disable,.contentbox .rArea .date-list-Box .btn-larrow1.disable  {  background-position: -32px 9px;  cursor: default;z-index:1}
+.contentbox .rArea .date-list-Box .btn-rarrow,.contentbox .rArea .date-list-Box .btn-rarrow1 {  background-position: -32px -65px;  cursor:pointer; }
+.contentbox .rArea .date-list-Box .btn-rarrow.disable,.contentbox .rArea .date-list-Box .btn-rarrow1.disable {  background-position: -32px -14px;  cursor: default; }
+.contentbox .rArea .date-list-Box .cur {  color: #0077cb;  font-size: 14px;}
+.contentbox .listbox {  position: relative; min-height:550px; padding: 21px 10px 35px 10px; border: 1px solid #e4e4e4; background-color: #fff; }
+.contentbox .listbox .opts {      width: 10%;
+  height: 16px;
+  min-width: 160px; } /* min-width: 160px; */
+.contentbox .listbox .opts li { float: left;  height:16px; /*height: 24px; width: 49px;*/ margin-right: 5px; /*color: #666;*/}
+.contentbox .listbox .opts a:hover { color: #0077cb;}
+.contentbox .listbox .opts .icon-preview { width: 28px; height: 18px; background-position: -21px -147px;}
+.contentbox .listbox .opts .icon-html { width: 28px; height: 18px; background-position: -20px -431px;}
+.contentbox .listbox .opt-wrap .icon-html { width: 30px !important;  height: 18px !important;  background-position: -20px -428px;}
+.contentbox .listbox .opts .icon-play { width: 21px; height: 18px; background-position: -20px -364px;}
+.contentbox .listbox .opts em.icon {  width: 7px;  height: 16px; margin-left:-3px;  background-position: 0 -252px;}
+.contentbox .listbox .opts .btn-share {  position: relative;  width: 30px;}
+/*20190220 分享模块修改*/
+.sharelist:before,
+.sharelist:after { content: ""; position: absolute; top: -12px; left: 54px; width: 0; height: 0; border: 6px solid transparent; border-bottom-color: #666; }
+.sharelist:after{ border-bottom-color: #fff; }
+.contentbox .listbox .opts .sharelist {  position: absolute;  top: 20px;left: -40px;padding: 0;  line-height: 18px;  border: 1px solid #e1f3ff;  background-color: #fff;
+  box-shadow: 2px 2px 5px #CCCBCB;
+  -o-box-shadow: 2px 2px 5px #CCCBCB;
+  -ms-box-shadow: 2px 2px 5px #CCCBCB;
+  -moz-box-shadow: 2px 2px 5px #CCCBCB;
+  -webkit-box-shadow: 2px 2px 5px #CCCBCB;
+}
+.contentbox .listbox .opts .sharelist li { width: 85px; height: auto; padding: 0 15px; margin-right: 0; line-height: 24px; }
+.sharelist li:hover{ background-color: #f5f5f5;  }
+.contentbox .listbox .opts .sharelist b {  display: inline-block;  *display: inline;  zoom: 1;vertical-align: middle;  width: 16px; margin-right: 8px;  height: 16px}
+.contentbox .listbox .opts .hover .mainTxt {  color: #0077cb;}
+.contentbox .listbox .opts .hover .sharelist {  display: block;}
+.contentbox .listbox .opts .hover em.icon {  background-position: 0 -268px;}
+/*右侧内容 end*/
+
+/*“期刊浏览”右侧内容 start*/
+.contentbox .langBox {  height: 30px;  font-size: 14px;  font-family: "Microsoft YaHei", "微软雅黑", "黑体", "Simsun", serif;  text-align: center;}
+.contentbox .langBox .cur {  color: #0178CA ;}
+.contentbox .langBox .langCn,
+.contentbox .langBox .langEn {  margin: 0 13px;  font-size: 20px;}
+.contentbox .langBox .line {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;width: 0;  padding: 0;  height: 23px;  border-right: 2px solid #E5E5E5;  vertical-align: top;}
+.contentbox .list {padding: 0 15px; }
+.contentbox .list .tit { height: 30px; line-height: 30px; font-size: 14px; color: #333; font-weight:bold; padding:5px 0;display:inline-block}
+.contentbox .list .row { min-height: 24px; line-height: 21px; background-position: -100px 10px;  cursor: default; padding: 5px 0 5px 15px; /*margin-top: -1px; border-bottom: 1px dashed #e6e6e6; border-top: 1px dashed #e6e6e6; border-left: 1px solid #fff; position:relative; z-index:1;*/}
+.contentbox .list .row:hover { /*background-color: #F5F5F5; border: 1px solid #e6e6e6; z-index:2;*/ }
+.contentbox .list .row:hover .opts {  visibility: visible;}
+.bgcGray {  background-color: #f5f5f5;}
+/*“期刊浏览”右侧内容 end*/
+
+/*左侧分栏导航--全部、近一年、近五年··· start*/
+.s-datalistbox dt:hover {  color: #0077cb;}
+.s-datalistbox dt:hover em {  color: #0077cb;}
+.s-datalistbox dd {/* padding: 3px  13px 13px; */  overflow: hidden;  _width: 100%;}
+.s-datalistbox .sl-tabbox {  padding: 0 ;}
+.s-datalistbox em {  color: #333333;  margin-right: 5px;}
+.s-datalistbox a {  float: left;  margin: 0 5px 0 15px;  color: #333333;  font-size: 14px;  line-height: 25px;  cursor: pointer;}
+.s-datalistbox a:hover {  color: #0077cb;}
+.s-datalistbox .cur {  background-color: #fff;}
+.s-datalistbox .cur dt {  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;  height: 30px;  line-height: 30px;  background-color: #e1f3ff;  color: #333;}
+.s-datalistbox .cur dt em {  font-weight: 700;}
+.s-datalistbox .cur dt:hover {  color: #0077cb;}
+.s-datalistbox .cur dd {  display: block;}
+.s-datalistbox .cur .current {  color: #F26755;  font-weight: 700;}
+.s-datalistbox .cur .current:hover {  color: #002b82;}
+.s-datalistbox .cur b {  background-position: 0 -176px;}
+.s-dataList {  margin-bottom: 6px;  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;}
+.s-dataList dt{ padding: 0 13px; }
+.s-dataList dd {/* padding: 0 13px; *//* width: 174px; */}
+.s-dataList dd {  display: none;}
+.s-dataList dt {  position: relative;  height: 30px;  line-height: 30px;  cursor: pointer;  font-size: 14px;  _width: 100%;}
+.s-dataList b {  position: absolute;  top: 7px;  right: 13px;  width: 15px;  height: 15px;  background-position: 0 -204px;}
+/*左侧分栏导航--全部、近一年、近五年··· end*/
+
+/*刊期浏览 左侧优先出版样式*/
+/*dd.sl-tab-list {  width: 196px;  padding: 6px 0px 6px 4px;}
+dd.sl-tab-list a {  width: 80px;  padding: 0 2px;  font-size: 12px;  text-align: center;}*/
+
+.sl-tabbox {width: 96%; margin: 0 auto; border-bottom: 1px solid #DDD;}
+.sl-tabbox a { display: inline-block; height: 32px; margin: 0; padding: 0 14px; vertical-align: middle; line-height: 32px; vertical-align: top; font-size: 12px; *display: inline; *zoom: 1; }
+.sl-tabbox .active { color: #0077cb; border-bottom: 2px solid #228AD1; font-weight: 600;}
+dd.sl-tab-list { padding: 6px 0; }
+dd.sl-tab-list a { position:relative; min-width: 70px;padding: 0 2px;font-size: 12px;text-align: center; }
+#YearIssueTree tr { height:23px; }
+#YearIssueTree td { width:50px; }
+#YearIssueTree td span{ cursor:pointer;}
+#YearIssueTree hr { height: 1px; border: none; border-top: 1px solid #DDD; margin: 5px 4px}
+#YearIssueTree table{margin: 5px 0px 0px 16px;}
+
+.sup {  position: absolute;  color: red;font-weight: normal;  -webkit-transform:scale(0.8);}
+@-moz-document url-prefix(){.sup{top:auto;font-size:8px;}}
+
+
+/*刊期浏览-原版目录页浏览样式*/
+.originalPagebox {  position: absolute;  top: -1px;  left: -1px;  width: 950px;  min-height: 99%;  padding: 12px 12px 0;  background-color: #fff;  border: 1px solid #E8E8E8;}
+.originalPagebox .optAndPage {  height: 55px;}
+.originalPagebox .btn-printCur,
+.originalPagebox .btn-printAll {  padding: 0 8px;  height: 21px;  line-height: 21px;  color: #fff;  background-color: #489cea;  margin-right: 11px;}
+.originalPagebox .btn-printCur:hover,
+.originalPagebox .btn-printAll:hover {  background-color: #0081e4;}
+.originalPagebox .page-list a.cur:hover { color: #fff;}
+.originalPagebox .originalPage {  text-align: center;}
+/*栏目浏览 start===========*/
+/*左侧*/
+.filterbox {  height: 33px;}
+.filterbox a {  position: relative;  display: inline-block; *display: inline;  zoom: 1;  width: 48px;  height: 27px;  line-height: 27px;  color: #666;  vertical-align: middle;  margin-right: 2px;  text-align: center;}
+.filterbox a:hover {  background-color: #e1f3ff;  color: #333;}
+.filterbox .cur { background-color: #e1f3ff;  color: #3597DB;  font-weight: 700;  font-size: 14px;}
+.filterbox .icon-arrowD {  position: absolute; top: 27px; left: 21px;  width: 7px;  height: 5px;  background-position: -25px -290px;}
+
+/*检索结果*/
+.filterResult{ padding-left:7px;}
+.filterResult li{ background:url(../../../images/jticon.png) 0 center no-repeat; padding-left:15px; line-height:28px; height:28px; width:185px; position:relative;}
+.filterResult li a{ display:block; cursor:pointer; color:#666; width: 140px;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
+.filterResult li span{ display:block;  cursor:pointer; color:#666; width: 38px;white-space: nowrap; position:absolute; right:0; top:0;}
+.filterResult li.select a{ color:#54a2e2; font-weight:bold; }
+.filterResult a:hover { text-decoration: underline;color: #0077cb;}
+
+/*右侧内容头部导航 start*/
+.opts-col .opt-l { width: 400px; height: 30px; padding-left: 15px; }
+.opts-col a {  color: #666;}
+.opt-l a:hover {  color: #fff;  background-color: #fd6e0f;}
+.opts-col .btn {  padding: 0 10px;  height: 22px;  line-height: 22px;  border: 1px solid #D6D6D6;  margin-right: 4px;  background-color: #fff;}
+.opts-col .btn-clear {  background-color: transparent;  border: none;}
+.opts-col .btn-clear:hover {  background-color: transparent;  color: #0077cb;}
+.opts-col .checkAll {  vertical-align: middle;  margin-right: 5px;}
+.opts-col .opt-r .btn {  border: none; background-color: transparent;  height: 24px;  line-height: 24px;}
+.opts-col .opt-r .btn:hover {  background-color: #489cea;  color: #fff;}
+.opts-col .opt-r .cur {  background-color: #489cea;  color: #fff;}
+.opts-col .opt-close {  font-size:14px; float:right; color:red;  cursor:pointer; position: absolute; right: 0; top: 0; *top:-4px;}
+
+.resultInfo { line-height: 24px;}
+.resultInfo .total {  margin-right: 15px;}
+.resultInfo .page-pre,
+.resultInfo .page-next {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;width: 16px;  text-align: center;  height: 16px;  line-height: 16px;  border: 1px solid #d6d6d6;  font-family: "simsun", "宋体", serif;}
+.resultInfo .page-pre:hover,
+.resultInfo .page-next:hover {  border-color: #0077cb;  color: #0077cb;  background-color: transparent;}
+.resultInfo .page-pre {  margin-right: 8px;}
+.resultInfo .pages {  margin-right: 10px;}
+.resultInfo .page-pre.disable:link,
+.resultInfo .page-pre.disable:visited,
+.resultInfo .page-pre.disable:hover,
+.resultInfo .page-pre.disable:active,
+.resultInfo .page-next.disable:link,
+.resultInfo .page-next.disable:visited,
+.resultInfo .page-next.disable:hover,
+.resultInfo .page-next.disable:active { color:#999; background-color:#fff; border-color: #dedede;  cursor:default;}
+
+/*右侧内容头部导航 end*/
+/*栏目浏览 end==========*/
+
+/*table公用样式*/
+.listbox .tableStyle{ width:100%;}
+.listbox .tableStyle a { cursor:pointer;  color: #666;}
+.listbox .tableStyle a:hover {  color: #0077cb;  text-decoration: underline;}
+.listbox .tableStyle .temp,
+.listbox .tableStyle .name,
+.listbox .tableStyle .author,
+.listbox .tableStyle .yearTime,
+.listbox .tableStyle .citedCount,
+.listbox .tableStyle .downCount {  float: none;  margin-right: 0;  min-height: 0;}
+.listbox .tableStyle ul.opts li {  /*height: auto;*/}
+.listbox .tableStyle ul.opts a {  text-decoration: none;}
+
+/*.listbox .tableStyle tr{ border-bottom: 1px dashed #fefefe; border-left: 1px dashed #fff;display: block;width: 100%; }*/
+.tableStyle thead tr {  line-height: 21px; }
+.tableStyle tbody tr{ border-left:1px solid #fff;}
+/*.tableStyle tbody tr:hover { background-color: #f8f6f7; border:1px solid #e6e6e6; margin-top:-1px;}*/
+.tableStyle tbody tr:hover .opts {  visibility: visible;}
+.tableStyle tr td { padding: 0; margin:0;}
+.tableStyle thead td {  font-weight: 700;  font-family: "Microsoft Yahei";  font-size: 12px;}
+
+.tableStyle tbody td {  /*height: 32px;*/ line-height: 18px;padding: 12px 5px 12px 0; word-wrap: anywhere; overflow-wrap: anywhere;}
+.tableStyle .temp {  color:#333;  text-align: center;/* padding-right:2%; *width: 8%;*/ /*vertical-align: top;*/ min-width: 50px; }
+.tableStyle .name{ padding-right:20px; }
+.tableStyle .name a {  color: #393939;  /*display:inline-block; width:320px;*/  word-wrap:break-word;}
+.tableStyle .name a:hover {  color: #0077cb;}
+.tableStyle .name a img{ margin-left: 5px; border:none; display:inline;}
+.tableStyle .author { /* padding-right:2%; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;*/}
+.tableStyle .yearTime { }
+.tableStyle .citedCount { text-align: center;}/*被引频次*/
+.tableStyle .downCount {  text-align: center;}/*下载频次*/
+.tableStyle input[type="checkbox"] { margin:0 5px;  *margin-right: 2px;  vertical-align: middle; display:none; }
+
+
+/*固定列宽表格*/
+.tableStyle1 { table-layout: fixed; width: 100%; line-height: 18px;}
+.tableStyle1 td,
+.tableStyle1 th {  border: #d4e5ef solid 1px;}
+.tableStyle1 th { background: #e1f3ff; font-weight: normal;  height: 34px; font-weight: 600;}
+.tableStyle1 td {  height: 28px;  text-align: center;}
+.tableStyle1 td a {  display: block;}
+.tableStyle1 tr:hover { background-color: #F5F5F5;}
+
+
+/*说明*/
+.msg1 { margin-top: 10px;}
+.msg1 span {  float: left;  height: 50px;}
+
+/*检索结果 左侧栏样式*/
+.querylist .tit { width:176px;  height: 30px;  line-height: 30px;  background-color: #E2F2FF;  padding-left: 8px;  padding-right: 16px;  font-weight: 700;  color: #333; *position:relative;}
+.querylist .icon-view{ float: right; margin-top: 7px;  *position:absolute; *right: 10px; *top:0;}
+.querylist .checkMore {  font-weight: 400;  color: #555;}
+.querylist .checkMore:hover {  color: #0077cb;}
+.querylist .queryCon {  position: relative; width:200px;  background-color: #fff;  overflow: hidden;  z-index: 30;}
+.querylist .ql-listbox {
+  position: relative;
+  width: 180px;
+  /*变化值 ul outerWidthXul的数量  182为默认值 非展开状态*/
+  height: 144px;
+  padding-left: 18px;
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+.querylist .selectedbox {  position: absolute;  top: 0px;  left: 0px;  z-index: 4;  border-color: #2a83d3;}
+.querylist .selectedbox li {  cursor: default;}
+.querylist .selectedbox .btn-close {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+  font-size: 16px;
+  width: 15px;
+  text-align: center;
+  margin-left: 10px;
+  height: 15px;
+  line-height: 15px;
+  color: #909090;
+}
+.querylist .selectedbox .btn-close:hover { color: #fff; background-color: #fd6e0f; }
+.querylist .selectedbox .btn-closeAll {  position: absolute;  top: 5px;  right: 5px;  width: 40px;  text-align: center;  height: 22px;  line-height: 22px;  cursor: pointer;  background-color: #fd6e0f;  color: #FFF;}
+.querylist .selectedbox .btn-closeAll:hover {  background-color: #489cea;}
+.querylist .selected {  overflow: visible;}
+.querylist .showOne {  overflow: visible;}
+.querylist .showOne .ql-listbox {  border-color: #2a83d3;  z-index: 1;}
+.querylist .showOne input[type="checkbox"] {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;}
+.querylist .showOne .btnbox {  border-color: #2a83d3;}
+
+.querylist .showAll {  overflow: visible;}
+.querylist .showAll .ql-listbox { border-color: #2a83d3;  z-index: 3;}
+.querylist .showAll input[type="checkbox"] { display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;}
+.querylist .showAll .btnbox {  border-color: #2a83d3;}
+
+.querylist .ql-list {  float: left;  width: 158px; padding-top: 8px; padding-bottom: 13px;  margin-right: 24px;}
+.querylist .ql-list li {  line-height: 25px;  height: 25px; margin-right: 10px;  position:relative; white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.querylist .ql-list li a.on{ color:#53a2e3; font-weight:bold; }
+.querylist .ql-list li a{  /*display:inline-block;*/  padding-left:10px;  /*width:128px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;*/}
+.querylist .ql-list li span{ /*display:inline-block; position:absolute; right:0; top:0;*/}
+.querylist .ql-list li input[type="checkbox"] {  margin-right: 2px;}
+
+.querylist .btn-on,
+.querylist .btn-off {  position: absolute;  top: 48px;  right: 2px;  z-index: 2;  width: 17px;  height: 40px;  line-height: 40px;  text-align: center;  font-size: 20px;  color: #489cea;  background-color: #F4F4F4;  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;}
+.querylist .btn-on:hover,
+.querylist .btn-off:hover {  background-color: #489cea; color: #fff;}
+.querylist .queryYear { clear: both;  position: relative;  height: 22px;  padding-top: 6px;  top: -15px;}
+.querylist .queryYear input {  height: 20px;  line-height: 20px\9;  padding: 0 2px;  width: 40px;  border: 1px solid #ccc;  background-color: white;}
+.querylist .queryYear span {  padding: 0 2px;}
+.querylist .queryYear .startYear,
+.querylist .queryYear .endYear {  width: 44px;  height: 20px;  line-height: 20px;  top: 7px;}
+.querylist .queryYear .startYear {  left: 2px;}
+.querylist .queryYear .endYear {  left: 56px;}
+.querylist .queryYear .btn-sure {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;  margin-left: 10px; height: 22px;  line-height: 20px;  text-align: center;  width: 40px;  background-color: #489cea;  color: #fff;  vertical-align: top;}
+.querylist .queryYear .btn-sure:hover {  background-color: #0081e4;}
+.querylist .btnbox {  position: absolute;  bottom: -33px;  right: -1px;  width: 130px;  height: 30px;  padding-top: 2px; background-color: #fff; border: 1px solid #ddd;  border-top: 0 solid #ddd;  text-align: center;}
+.querylist .btnbox .btn-sure,
+.querylist .btnbox .btn-cancel,
+.querylist .btnbox .disable {  display: inline-block;  vertical-align: middle;  *display: inline;  *zoom: 1;  padding: 0;  width: 40px;  height: 20px;  line-height: 20px;  text-align: center;  border: 1px solid #ddd;}
+.querylist .btnbox .btn-sure,
+.querylist .btnbox .btn-cancel {  color: #fff;  background-color: #fd6e0f;}
+.querylist .btnbox .btn-sure:hover,
+.querylist .btnbox .btn-cancel:hover {  background-color: #489cea;}
+.querylist .btnbox .disable,
+.querylist .btnbox .disable:hover {  color: #333;  background-color: #fff;  cursor: default;}
+.querylist .btnbox .btn-sure {  margin-right: 17px;}
+
+/*统计与评价 开始==============*/
+/*左侧栏出版tabBar 样式*/
+.tabBar-pub {
+  padding-left: 17px;
+}
+.tbpub-list li{ }
+.tbpub-list .icon-tongji {
+  background-position: 0 0;
+}
+.tbpub-list .icon-pubTable {
+  background-position: -39px 0;
+}
+.tbpub-list a {
+  position: relative;
+  display: block;
+  height: 74px;
+  line-height: 74px;
+  width: 152px;
+  padding-left: 22px;
+  color: #333;
+  font-size: 14px;
+  background-color: #fff;
+  font-weight: 600;
+  border:1px solid #dcdcdc;
+}
+.tbpub-list .tongji a {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.tbpub-list .pubTable a {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+/*.tbpub-list .pubTable a:visited {
+    background-color:white;
+}*/
+.tbpub-list .tongji a:visited{
+        /*background-color:white;*/
+}
+.tbpub-list b {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+  width: 41px;
+  height: 32px;
+  margin-right: 10px;
+}
+.tbpub-list a:hover {
+  color: #0077cb;
+}
+.tbpub-list i {
+  position: absolute;
+  top: 21px;
+  right: -23px;
+  width: 0;
+  border-width: 12px;
+  border-style: dashed dashed dashed solid ;
+  border-color: transparent transparent transparent #21A6FE;
+  height: 0px;
+  line-height: 0;
+  font-size: 0;
+  overflow: hidden;
+}
+.tbpub-list .cur {
+  background-color: #21A6FE;
+  color: #fff;
+  display: block;
+  border:1px solid #489cea;
+}
+.tbpub-list .cur:hover {
+  background-color: #489cea;
+  color: #fff;
+}
+.tbpub-list .cur:hover i {
+  border-color: transparent transparent transparent #489cea;
+}
+/*右侧样式*/
+.tongjiCon .listbox {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.docCount {
+  height: 35px;
+  font-size: 13px;
+  font-weight: 600;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 24px;
+}
+.docCount span {
+  margin-right: 24px;
+  font-size: 15px;
+  padding-left: 15px;
+}
+.docCount em {
+  margin-left: 6px;
+  color: #0077cb;
+}
+.viewbox .tit {
+  height: 30px;
+  line-height: 30px;
+  margin-top: 13px;
+  padding-left: 10px;
+  border-left: 5px solid #0077cb;
+  font-size:14px;
+}
+.viewCon .vTit {
+  text-align: center;
+  height: 43px;
+  line-height: 43px;
+  font-weight: 600;
+}
+.graph_tips {
+  position: relative;
+  line-height: 24px;
+  font-weight: bold;
+  margin-left: 36px;
+}
+.graph_tips .left {
+  position: absolute;
+  left: 20px;
+  top: 0;
+}
+.graph_tips .right {
+  margin-left: 48px;
+}
+.graph_tips .right .vTit {
+  display: block;
+  height: auto;
+  line-height: 24px;
+  text-align: left;
+}
+.viewCon .vTit .icon-tip {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+  width: 20px;
+  height: 21px;
+  margin-left: 5px;
+  background-position: -18px -333px;
+}
+.viewbox .tit .icon-tip {
+  display: inline-block;
+  vertical-align: middle;
+  *display: inline;
+  *zoom: 1;
+  padding: 0;
+  width: 20px;
+  height: 21px;
+  margin-left: 5px;
+  background-position: -18px -333px;
+}
+.viewCon .vCon-w {
+  margin-bottom: 20px;
+  padding-left: 15px;
+}
+.viewbox .tit .select{ margin-left:10px; }
+.viewbox h4{ text-align: left; padding-left: 13px; height: 26px; }
+.viewbox h4 a{ padding-left:5px; color:#666; }/*锚点*/
+.viewbox h4 a:hover{ color:#53a2e3; }
+/*统计与评价 结束=============*/
+
+/*icon=============== start*/
+.icon {  display: inline-block;  *display: inline;  zoom: 1;  vertical-align: middle;  width: 20px;  height: 20px;}
+/*.icon-preview {  display: inline-block;  *display: inline;  zoom: 1;  vertical-align: middle;  height: 18px;  width: 20px;  background-position: 4px -149px;}*/
+.icon-subscription {  background-position:7px 1px;}
+.icon-contribute {  background-position: 0 -20px;}
+.icon-collect { background-position: 2px -410px;-webkit-transition: .5s;-moz-transition: .5s;-o-transition: .5s;transition: .5s;}
+.icon-auto {background-position: -16px -447px;-webkit-transition: .5s;-moz-transition: .5s;-o-transition: .5s;transition: .5s;}
+.icon-eval {background-position: 7px -571px;-webkit-transition: .5s;-moz-transition: .5s;-o-transition: .5s;transition: .5s;}
+.collected .icon-collect {  background-position: -20px -410px;}
+.collectedrecycle .icon-collect {  background-position: -20px -410px;}
+.optbox-list .collected em,
+.collectedrecycle em{ color: #f60; }
+.icon-share {  background-position: 4px -74px;}
+.icon-down {  background-position: -23px -172px;}
+.icon-nodownperm {  background-position: 0 -390px;}
+.icon-notlogged {  background-position: -20px -390px;}
+.icon-import {  background-position: -18px -200px;}
+.icon-xl {  background-position: 0 -290px;}
+.icon-tx {  background-position: 0 -306px;}
+.icon-renren {  background-position: 0 -322px;}
+.icon-kx {  background-position: 0 -338px;}
+.icon-douban {  background-position: 0 -354px;}
+.icon-wy {  background-position: 0 -370px;}
+.icon-view {  background-position: -24px -296px;  width: 16px;  height: 16px;  margin-left: 5px;}
+.icon-copy { background-position: 0 -306px; }/*复制链接*/
+.icon-wx { background-position: 0 -322px; }/*微信扫一扫*/
+.qrcode{ padding: 5px 0 10px; }/*二维码*/
+.qrcode img{ width: 100%; }
+/*icon=============== end*/
+
+/*header start*/
+.header {  height: 52px;  font-size: 12px;  font-family: Arial, "Microsoft Yahei";  background: transparent url("../../../images/headbg.png") center top repeat-x;  line-height: 30px;}
+.header .subNav a {  color: #181818;  margin: 0 5px ;}
+.header .subNav a:visited {  color: #5F5F5F; }
+.header .subNav a:hover {  color: #ED0000;}
+.Logo {  position: relative;  text-align: left;  margin: 0px auto;  top: 12px;}
+.Logo img {  position: absolute;  margin-left: 3px;  z-index: 1000;}
+.Logo img.logohome {  position: absolute;  top: -12px;  left: 205px;  display: none;}
+.Logo a:hover img.logohome {  display: block;}
+/*header end*/
+
+/*雪碧图*/
+.optbox-list .item b,
+.optbox-list .share em,
+.journalInfo .journalType b,
+.journalInfo .btnbox b,
+.searchbox .btn-search,
+.s-datalistbox .s-dataList b,
+.date-list-Box .btn-larrow,
+.date-list-Box .btn-rarrow,
+.date-list-Box .btn-larrow1,
+.date-list-Box .btn-rarrow1,
+.date-list-Box .disable,
+.icon-preview,
+.icon-play,
+.icon-subscription,
+.icon-contribute,
+.icon-collect,
+.icon-auto,
+.icon-share,
+.icon,
+.row,
+.sharelist b,
+.filterbox .icon-arrowD,
+.icon-tip {  background-image: url(../../../images/icon-sprite.png);  background-repeat: no-repeat;}
+
+.icon-tongji,
+.icon-pubTable {  background-image: url(../../../images/icon-pubsprite.png);  background-repeat: no-repeat;}
+
+
+/*基本信息的图片 start*/
+#pic-style1{ left: 15px; top: 0px; z-index: 10; width: 120px; height: 166px; overflow: hidden; border:1px solid #ccc; }
+#pic-style2{ padding: 5px 5px; border: 1px solid #ccc;}
+#pic-style3{ margin-left: 15px; width: 205px; }
+#pic-style4{ width: 210px; border:1px solid #ccc; }
+#xw #pic-style2{width: 110px;height: 110px; margin-left: 45px; margin-bottom:10px;}
+#bz #pic-style2{width: 240px; margin-top: 40px; }
+/*基本信息的图片 end*/
+
+/*基本信息“查看” start*/
+.detialsLayer{ width:30px; height:23px; display:inline-block; vertical-align:top;}
+.detialsLayer{ *display:inline;}
+.detialnr{ position:relative; display:none;z-index: 3;}
+#viewDetials{ cursor:pointer; color: #0077CB;}
+/*.journalInfo .divInfo{ border: 2px solid #52a2cb; border-radius:5px; padding:15px 10px 10px 10px; background:#fff; position:absolute;  width: 900px; max-height:200px; overflow:auto; box-shadow: 0 0 5px rgba(0, 0, 0, .3); }*/
+.journalInfo .divInfo{border: 2px solid #52a2cb;
+  padding: 22px 5px 7px 10px;
+  background: #fff;
+  position: absolute;
+  width: 900px;
+  box-shadow: 0 0 5px rgba(0,0,0,.3);
+  -webkitbox-shadow: 0 0 5px rgba(0,0,0,.3);
+  -moz-box-shadow: 0 0 5px rgba(0,0,0,.3);
+  -ms-box-shadow: 0 0 5px rgba(0,0,0,.3);
+  -o-box-shadow: 0 0 5px rgba(0,0,0,.3);}
+.journalInfo .divInfo p {
+  width: auto;
+  white-space: normal;
+  word-break: break-all;
+  overflow: auto;
+  max-height: 200px;
+  padding: 0 12px;
+}
+.journalInfo .divInfo p::-webkit-scrollbar
+{
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+}
+/*定义滚动条轨道 内阴影+圆角*/
+.journalInfo .divInfo p::-webkit-scrollbar-track
+{
+  border-radius: 4px;
+  background-color: transparent;
+}
+/*定义滑块 内阴影+圆角*/
+.journalInfo .divInfo p::-webkit-scrollbar-thumb
+{
+  border-radius: 4px;
+  background-color: #ddd;
+}
+
+
+.detialnr a#close {
+  font-size: 14px;
+  cursor: pointer;
+  position: absolute;
+  z-index: 100;
+}
+/*.journalInfo .divInfo p{ width: auto;  white-space:normal; word-break:break-all; }*/
+/*.detialnr a#close{ font-size:18px; cursor:pointer; position:absolute; z-index:100;}*/
+
+.detialnr a:hover#close{ color:red;}
+
+.jBox-pointer{ position:absolute; width:20px; height:22px; font-size:26px; background:url(../../../images/jbox-pointer.png) no-repeat;}
+.jBox-pointer-bottom{ background-position:0 0 ; bottom:19px; left:0;}
+.jBox-pointer-right{ background-position:0 -20px; left: -25px; top: -20px;}
+/*基本信息“查看” end*/
+
+/*单选-全部、博士、硕士*/
+.pic .radio{/* position:absolute; *//* left: 37px; *//* top: 115px; */ height:14px;/* padding-top:12px; */ font-size:12px; text-align:center;margin-left: 37px;}
+.pic .radio a{/* display:inline-block; */ padding-left:13px; color:#888; margin-right: 8px; background:url(../../../images/icon_radio_bg.jpg) no-repeat;  background-position:0 0; cursor:pointer;}
+.pic .radio a:hover{ color:#f59d17; }
+.pic .radio .on{ color:#f59d17; background-position:0 -20px;}
+
+#hy .pic .radio{ width:220px; }
+#xw .pic .radio{ width:150px; }
+
+
+
+/*左侧导航列*/
+.subjectClass{ padding-left:10px;}
+.subjectClass li{ line-height:30px; width:190px; position:relative;}
+.subjectClass li .icon{ display:inline-block; width:15px; height:20px; background:url(../../../images/jticon.png) 0 center no-repeat;}
+.subjectClass .on a{ color:#47b8c6; }
+.subjectClass li a{  display:inline-block; cursor:pointer; width: 155px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
+.subjectClass li a:hover{ color:#47b8c6; }
+.subjectClass li span{  display:block;  cursor:pointer; color:#666; width: 38px; white-space: nowrap; position:absolute; right:0; top:0;}
+
+
+/*工具栏-排序 公用样式*/
+.sortwr{ position:relative; color:#666; height: 23px; z-index: 22; }
+.sortwr a{ display:block;}
+.sort_select_default{ display:inline-block; font-size:12px; height:23px; line-height:23px; cursor:pointer; padding:0 8px;border:1px solid #dfdede; }
+.sort_select_default span{ display:inline-block; /*width:80px;*/ overflow:hidden; text-overflow:ellipsis; white-space:nowrap;word-wrap:normal; padding-right:10px; }
+.sort_select_default .sort-hover-icon{ display: inline-block;  width: 12px; height: 8px; margin-top:7px;  vertical-align:top ;font-style: normal; overflow: hidden; background:url(../../../images/sort-hover-icon-bg.png) 0 0 no-repeat }
+.sort_list{ position:absolute; display:none; border:1px solid #dfdede;background:#fff;left:-1px;top:0px;z-index:20;/*width:109px;*/ width:100%; }
+.sort_list a{ padding:0 9px; color:#333; white-space:nowrap; }
+.sort_list li{ height:23px;line-height:23px; }
+.sort_list li a:hover{ text-decoration:none; background:#f5f5f5; }
+.sort_list li.select a{ color:#999; }
+.sort_list li a i{ display:none; }
+
+.sort_select_default span i,
+.sort_list li.select i{ width:12px; height:12px; display:inline-block; vertical-align:middle; background-image:url(../../../images/sort-hover-icon-bg.png); }
+.sort_select_default span i.ascend,
+.sort_list li.select i.ascend{ background-position:0 -9px; }
+.sort_select_default span i.descend,
+.sort_list li.select a i.descend{  background-position:0 -23px;}
+/*工具栏排序 end*/
+
+
+/*期刊===============*/
+#qk .journalInfo .titbox { margin-bottom:10px;}
+/*期刊浏览-目录*/
+#originalCatalogview{ padding:0; margin:0;}
+#CataLogContent .name,
+#CataLogContent .opts,
+#CataLogContent .author,
+#CataLogContent .company,
+#CataLogContent .page {  float: left; min-height: 24px;}
+#CataLogContent .name{ width:465px; margin-right:15px;}
+#CataLogContent .name a {  color: #393939;  /*display:block;*/  word-wrap:break-word;}
+#CataLogContent .name a:hover {  color: #0077cb;}
+#CataLogContent .opts{ width:66px;}
+#CataLogContent .author{ width:216px; margin-right:5px; text-align:left; text-overflow:ellipsis;word-break: break-word;}
+#CataLogContent .company{ width:90px; text-align: right; color: #888;}
+#CataLogContent .page{ width:130px; text-align: right; color: #888; }
+/*表格*/
+#qk .infobox ul { width: 270px;}
+#qk .tableStyle .temp { *width: 50px;  }
+#qk .tableStyle .name {  width: 365px;  }
+#qk .tableStyle .author {   width: 130px; text-align:left;}
+#qk .tableStyle .yearTime { width: 70px;  }
+#qk .tableStyle .citedCount { width: 70px; }
+#qk .tableStyle .downCount { width:  70px; }
+/*期刊 end===========*/
+
+
+/*学位 start=======*/
+/*基本信息*/
+#xw .journalInfo .pic {  width: 290px;}
+#xw .journalInfo .infobox { width:840px;}
+#xw .infobox ul { width:300px;}
+#xw .titbox  span{ display:inline-block; height:17px;padding: 0 5px; line-height:17px;  border-radius:3px;margin-right: 0px; text-align:center; color:#54a2e2; border:1px solid #54a2e2; font-size:12px; font-weight:normal; }
+#xw .titbox  font{ display:inline-block; width: 82px; height:17px; padding: 0; line-height:17px;  border-radius:3px; text-align:center; color:#54a2e2; border:1px solid #54a2e2; margin-left: 9px; font-size:12px; font-weight:normal;}
+
+#xw .date-list i{ font-style:normal;}
+/*表格*/
+#xw .tableStyle .temp { *width:5%;  }
+#xw .tableStyle .name { width:36%; }
+#xw .tableStyle .author { width:10%;}
+#xw .tableStyle .tutor { width:8%;}
+#xw .tableStyle .yearTime { padding-left:1%; width:12%;}
+#xw .tableStyle .paperLevel { width:8%;  }
+#xw .tableStyle .citedCount { width:8%; }
+#xw .tableStyle .downCount {  width:8%;}
+
+/*“学科专业浏览”*/
+ul.refirstlayer{ padding-left:7px; margin-top:30px; cursor:pointer; }
+ul.refirstlayer li{ clear:both;zoom:1;font-size:14px;vertical-align:bottom; padding-left:5px; line-height:28px; height:28px; width:190px; position:relative; *z-index:10;}
+ul.refirstlayer li h1.refirstcol{display:block;position:relative;width:175px; border-left:2px solid #f7f7f7;float:left;padding-left:10px;height:26px;line-height:26px; font-size:12px; font-weight:normal;  }
+.refirstlayer li h1.refirstcol span{ color:#666;}
+ul.refirstlayer li h1.refirstcol a{ height:26px;background: -92px -144px no-repeat;}
+ul.refirstlayer li.select h1.refirstcol a{ font-weight:bold;color:#0765ab; }
+ul.refirstlayer li h1.refirstcol a:hover{font-weight:bold;color:#0765ab;text-decoration:none;}
+ul.refirstlayer li:hover h1.refirstcol{ border:2px solid #2375bc;border-right:0;position:relative;z-index:998; background-color:#fff; color:#0765ab; font-weight:bold;height:22px;line-height:22px;}
+.refirstlayer ins{ position:absolute;float:right;display:block;top:10px;right:8px;background:url(../../../images/jticon.png) 0 center no-repeat;width:7px;height:10px;overflow:hidden; *height:17px; }
+p.reallcol{border-bottom:1px solid #cfe6f9;clear:both;height:28px;line-height:28px;font-size:14px;vertical-align:bottom;background:url(/../../image/gb/ndotl5.gif) 10px center no-repeat;padding-left:20px;}
+p.reallcol a:hover{font-weight:bold;color:#0765ab;text-decoration:none;}
+.reclasshide{ display:none; position:absolute; background:#fff  repeat-x;border:2px solid #2375bc;width:800px;top:0px;left:190px;padding:10px;z-index:997; *z-index:20;}
+ul.refirstlayer li:hover .reclasshide{display:block;}
+.resecondlayer dd{ min-height:24px; padding:2px; background:none; border-top:1px solid #cfe6f9;border-bottom:1px solid #fff;line-height:24px;font-size:12px;clear:both;overflow:hidden;}
+.resecondlayer dd:hover{background-color:#fff9ef;}
+.resecondlayer dd p.resublist{color:#ccc;position:relative;white-space:nowrap;clear:both;height:100%;zoom:1;padding-left:168px;display:block;}
+.resecondlayer dd b.blue{color:#0765ab;position:absolute;left:0;top:0;display:block;width:180px;text-align:right;white-space:normal;line-height:24px;}
+.resecondlayer .blue i{ display:inline-block;max-width: 98px; font-style:normal; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.resecondlayer .blue i.no1{background: url(../../../images/icon-sprite.png?v=2.0) no-repeat -12px -220px;padding-left: 32px; }
+.resecondlayer .blue em{ display:inline-block; vertical-align:top; }
+.resecondlayer .resublist span{float:left;background: no-repeat 0 center;padding:0 7px 0 20px;}
+.resecondlayer dd p.resublist a,.resecondlayer dd p.resublist a:visited{color:#333;white-space:nowrap;}
+.resecondlayer dd p.resublist a:hover{color:#c00;}
+
+/*“学科统计报表”*/
+.Tab th{  padding:5px;background:#59aae9;color:#fff; text-align: left;}
+.Tab td{ padding:3px 5px; padding-left:10px; vertical-align:top; line-height:22px; }
+.Tab td img{ margin:8px 5px 9px 5px;}
+.Tab td a.blue{ color:#002B82; padding-right:10px; background:url(../../../images/arrow.gif) no-repeat right 4px; *display:inline-block; *background-position:right 9px; }
+.Tab a{ cursor:pointer;}
+.Tab tr.double{ background:#f8f8f8}
+.Tab tr.tabLine td{ border-bottom:#E6EBF5 solid 1px;}
+.CellDivClass{ background-image: url(../../../images/arrow.gif);  background:url(../../../images/dot.gif) repeat-x bottom;}
+
+/*.pubTable_btn{ height:30px; margin-left:-10px; *margin-left:-5px; }
+.pubTable_btn .yearText{ border:1px solid #ccc;  width:50px; text-align:right; height:20px; line-height:20px; margin: 0 10px; padding:0 5px;}
+.pubTable_btn input.yearTextbtn{ cursor:pointer;  border:1px solid #ccc; padding:0 8px; height:22px; line-height:20px;  background-color:#fff; }
+.pubTable_btn input.yearTextbtn:hover{ color:#fff; background-color:#fd6e0f; }
+*/
+/*学位 end============*/
+
+
+/*工具书 ========*/
+/*基本信息*/
+.titbox span{ font-size:16px; color:#666; font-weight:normal; margin:0 10px;}
+#gjs .infobox ul.list01 { width:900px;}
+/*主题分类浏览*/
+.chapterList{font-family:"Microsoft Yahei"; }
+.chapterList a{ text-decoration:none; }
+.chapterList .chList1{font-size:14px; font-family:"Microsoft Yahei" ; font-weight:bold; color:#3d6dd3; line-height:30px; }
+.chapterList .chList1 a{color:#3d6dd3; }
+.chapterList .chList2{ font-size:12px; color:#3d6dd3; font-weight:bold; line-height:28px; padding-left:28px;  }
+.chapterList .chList2 h1{ font-size:12px; color:#3d6dd3;}
+.chapterList .chList2 h1 a{ color:#3d6dd3;}
+.chapterList .chList2 .fontlist{ border-bottom:1px dashed #e1e1e1;}
+.chapterList .chList2 .fontlist li{ font-weight:normal; font-size:12px; display:inline-block; margin-right:10px; text-align:left; }
+.chapterList .chList2 .fontlist li a{ color:#585a59;  }
+.chapterList .chList3{ padding-left:28px;}
+/*辅文浏览*/
+.chapterNr .nr-align-r{ text-align:right; }
+.chapterNr p{ font-size:14px; text-indent:28px; margin:10px; line-height:27px;}
+/*检索结果*/
+.briefresult { border-bottom:1px dashed #e1e1e1; padding:10px 0; }
+.briefresult  a{ text-decoration:underline; color:#005cd9; }
+.briefresult font{ color:#d30101;}
+.brieftitle .icon{ margin-left:10px; width:15px; height:20px; background:url(../../../images/jticon.png) 0 center no-repeat; *margin-left:2px;}
+.brieftitle a,.brieftitle font{ font-size:16px; font-family:"microsoft Yahei";}
+.briefresult dd{ padding-left:50px;}
+.briefresult dd p{ font-size:12px; line-height:20px; color:#666;}
+.briefresult dd .wordcount{ color:#737373; margin-right:10px;}
+.briefresult dd .bookresource{ color:#737373;}
+.briefresult .bookresource a{ color:#005cd9;}
+.briefresult dd .bookresource a:hover{ color:#0077cb;}
+.briefresult .resultclick { text-align:right;}
+.briefresult .resultclick .readItem{ font-size:12px; color:#0077cb; }
+/*工具书 end==========*/
+
+
+
+/*年鉴===============*/
+/*基本信息*/
+#nj .infobox ul.list01 { width:900px;}
+/*#nj .infobox p.hostUnit{ white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }*/
+
+#nj .YearClass dt,
+#YearChapter .g-ico{background:url(../../../images/njsprite.png) no-repeat; }
+/*左侧导航*/
+#nj .YearClass { margin: 30px 10px 0 20px;}
+/*#nj .YearClass li{ height:20px; color:#666; line-height:20px; padding-bottom:14px; padding-left:50px; cursor:pointer; background-position:0 0; }
+#nj .YearClass a{ cursor:pointer;}
+#nj .YearClass li a:hover{ color:#47b6c7;}
+#nj .YearClass li.on{ background-position:0 -35px; color:#47b6c7; }
+#nj .YearClass .on a{ color:#47b6c7; font-weight:bold; }*/
+#nj .YearClass dl{ color:#666; padding-bottom:10px; border-left:2px solid #ddd;}
+#nj .YearClass dl a{ display:block; max-width: 140px; height:20px; line-height:20px; padding-bottom:5px; white-space:nowrap; overflow: hidden; text-overflow: ellipsis; cursor:pointer;}
+#nj .YearClass dl a:hover{ color:#47b6c7;}
+#nj .YearClass dt{ height:20px; padding-left: 30px; margin-left:-11px; margin-bottom:5px; background-position:0 -26px;}
+#nj .YearClass .on dt{ background-position:0 -60px; }
+#nj .YearClass .on dt a,
+#nj .YearClass .on .active{ color:#47b6c7; font-weight:bold; }
+#nj .YearClass dd{ padding-left: 30px; }
+
+/*“年份浏览”*/
+#nj #YearChapter{  font-family:"宋体";}
+#YearChapter .guide{ margin-left:45px; font-size:12px; clear:both; }
+#YearChapter .itemNav{ color: #666;
+  clear: both;
+  padding-left: 5px;
+  position: relative;
+line-height: 26px;}
+#YearChapter .itemNav:hover{ background-color:#f7f7f7;}
+#YearChapter .g-ico{ display:inline-block; width:13px; height:12px; line-height:27px; vertical-align:middle; cursor:pointer; }
+#YearChapter a.wrap{ display:inline-block; padding-left:12px; width: 79%; height:27px; line-height:27px; cursor:pointer; vertical-align: middle; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#YearChapter a.wrap:hover{ color:#53a2e3; }
+#YearChapter .itemNav b{ display:block; float:right; width:100px; font-weight:normal; line-height: 26px; *margin-top:-22px; }
+#YearChapter .guidetree{ display:none; padding-left:30px; color:#686a77;  clear:both;}
+#nj #YearChapter li{ color:#666;  clear:both;}
+#YearChapter .itemNav .on{ background-position: 0 -12px;}
+
+  #nj #YearChapter a.wrap {
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+#nj #YearChapter .itemNav .opt-wrap {
+  position: absolute;
+  right: 132px;
+  bottom: -5px;
+  display: none;
+}
+#nj #YearChapter .itemNav:hover .opt-wrap {
+  display: block;
+  margin-left: 8px;
+}
+#nj #YearChapter .opt-wrap > li {
+  display: inline-block;
+  width: auto;
+  position: relative;
+  top: -3px;
+  vertical-align: top;
+  line-height: 22px;
+}
+#nj #YearChapter .opt-wrap .icon {
+  width: 20px;
+  float: none;
+  margin-left: 3px;
+  height: 22px;
+}
+#nj #YearChapter .opt-wrap .icon-down {
+  background-position: -23px -172px;
+}
+#nj #YearChapter .opt-wrap .icon-preview {
+  position: relative;
+  top: 1px;
+  width: 28px;
+  background-position: -21px -147px;
+}
+/*比对*/
+.icon-comparison {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #777;
+  border-radius: 50%;
+}
+.icon-comparison:after {
+  position: absolute;
+  content: '';
+  display: block;
+  width: 5px;
+  height: 5px;
+  background-color: #777;
+  top: 0;
+  right: 0;
+  border-radius: 50%;
+}
+.icon-comparison.active {
+  border-color: #f00;
+  color: #f00;
+}
+.icon-comparison.active:after {
+  background-color: #f00;
+}
+
+/*表格*/
+#nj .tableStyle .temp { *width:5%;  }
+#nj .tableStyle .name{width: 35%;}
+#nj .tableStyle .column{width: 21%;}
+#nj .tableStyle .yearTime {width: 11%;}
+#nj .tableStyle .pageNum{ width:7%; }
+#nj .tableStyle .downCount{ width: 8%; }
+
+/*栏目浏览*/
+#nj .filterResult{ margin-top: 30px;}
+#nj .contentbox .rArea .optsbox { position:relative; *z-index:2; }
+.all-type { position:absolute; left:500px; top:0; z-index:1; }
+.all-type span{ border:1px solid #ccc; display: block; text-align:center; padding:3px 0; width: 90px; cursor:pointer; background-color:#fff; }
+.all-type ul{ display:none;  width:180px; padding:10px 0; clear:both; background-color:#fff; border:1px solid #ccc; }
+.all-type ul li{ display:inline-block; width:70px; height: 27px; margin-left:18px; line-height:27px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.all-type ul li{ *display:inline;}
+.all-type ul li a:hover{ color:#53a2e3; }
+.all-type:hover span{ border-bottom:none;}
+.all-type:hover ul{ display:block;}
+
+.all-type .sort-hover-icon{ display: inline-block;  width: 12px; height: 8px; margin-top:5px; margin-left:7px; vertical-align:top ;font-style: normal; overflow: hidden; background:url(../../../images/sort-hover-icon-bg.png) 0 0 no-repeat }
+
+/*年鉴 end===============*/
+
+
+/*会议===============*/
+#hy .infobox ul.list01 { width:400px;}
+#hy .infobox ul.list02 { width:260px;}
+#hy .journalInfo .listbox .more{ *margin-top:0; }
+.unit .pic { width: 280px; min-height: 115px; _height: 135px;}
+.unit .infobox { min-height: 108px; width: 840px;}
+.unit .infobox p{ white-space:nowrap; }
+.unit #web_site{ color:#36F; }
+.unit .sortwr{ position:absolute; right:500px; /* width:110px; margin-left:350px;*/ background-color:#fff; margin-top:2px;}
+.unit .lArea { width: 280px;}
+.unit .rArea { width: 840px;}
+
+.video .pic { width: 280px; min-height: 115px; _height: 135px;}
+.video .infobox { min-height: 108px; width: 840px;}
+
+/*表格*/
+#hy .tableStyle .temp { *width:5%;  }
+#hy .tableStyle .name{ width: 41%; *width:41%; }
+#hy .tableStyle .author{ width: 20%;}
+#hy .tableStyle .yearTime{ width: 10%; *width: 12%; }
+#hy .tableStyle .citedCount{ width: 11%; }
+#hy .tableStyle .downCount{ width: 11%; min-width: 40px; }
+#hy .tableStyle .speaker{ width: 9%; }
+#hy .tableStyle .duration{width: 14%; text-align:center;}
+#hy .tableStyle .viewCount{width: 14%; text-align:center;}
+
+.contentbox .rArea .optsbox .icon-play { _background-position: 4px -148px;  _vertical-align: baseline; _margin-top: 4px;}
+
+/*"会议系列" 左侧*/
+.hyList{ padding-left:2%; padding-top:30px;}
+.hyList li{ background:url(../../../images/jticon.png) 0 5px no-repeat; padding-left:15px; line-height:22px;  width:95%; position:relative; margin-bottom:6px; }
+.hyList li a{ display:block;width: 187px;cursor:pointer; color:#666;}
+.hyList li.select a{ color:#53a2e3; font-weight:bold; }
+.hyList a:hover { text-decoration: underline;color: #0077cb;}
+/*"会议系列" 右侧列表*/
+.papersList dl{ position:relative; border-bottom:1px dashed #d4d4d4; padding: 15px 0; clear:both;}
+.papersList dt{ font-size:16px; font-family:"Microsoft Yahei"; color:#005cd9; clear:both;}
+.papersList dt i{ width:4%;  float:left; margin-right:1%; font-style:normal; line-height:22px; height:22px; overflow:hidden; text-align:center;}
+.papersList dt a{ display:block; width: 80%; float:left; color:#005cd9; line-height:22px; margin-bottom:4px;}
+.papersList dt a:hover{ text-decoration:underline; }
+.papersList dd{ margin-left:5%; clear:both;}
+.papersList dd span{ display:inline-block;  line-height:20px; font-size:12px; margin-right:15px; color:#666; margin-bottom:2px;}
+.papersList .currentBox{ position:absolute; right:0; bottom:15px; width:110px; height:20px; }
+.papersList .currentBox a{ width:30px; height:20px; /*color:#e23d45;*/ font-size:12px; line-height:20px;  padding:0 0 0 24px; background-image:url(../../../images/cbw_ico.png); background-repeat:no-repeat; float:left; }
+.papersList .currentBox .custom{ background-position: 0px -19px;  }
+.papersList .currentBox .collect{ background-position: 0px -40px; }
+/*“相关分会/地方分会”*/
+.allArea{ background-color:#fff; padding:10px 20px 20px; width:93%; margin:0 auto; }
+.allArea dl{ display:block; clear:both; padding-top:20px; *padding-top:5px; }
+.allArea dt{ width:169px; height:30px; margin-bottom:10px; padding-left:20px; font-size:14px; font-family:"Microsoft Yahei"; line-height:30px; color:#fff;background-image:url(../../../images/committee_tit_bg.png); background-repeat:no-repeat; background-position:0 0;}
+.allArea dd{ /*float:left;*/display: inline-block; width:336px; padding:5px 0; line-height:20px;margin-left: 12px;}
+.allArea dd{ *display:inline; }
+.allArea dd a{ color:#333;}
+.allArea dd a:hover{ color:#005cd9; }
+
+/*系列论文集*/
+#CountTabTitle{ padding:0 0 5px 20px; line-height:30px; font-size:16px; color:#666;font-weight:bold; }
+.Tab td .childCell{ width:447px; }
+.Tab td .childCell a{ display:block; padding:2px 0; line-height:18px; }
+/*出版统计*/
+.viewChange{ position:relative; padding-bottom:20px; margin-bottom:20px;}
+.viewBtn{ position:absolute; bottom:20px;}
+.viewBtn a{ width:100px; float:left; text-align:center; font-size:12px; cursor:pointer; border:1px solid #999; color:#333; border-bottom:none; background-color:#f7f7f7;}
+.viewBtn a.on{ color:#479BE9; background-color:#fff; border-bottom:2px solid #479BE9; font-weight:bold; border-top:none;}
+/*会议  end===============*/
+
+/*报纸===============*/
+/*基本信息*/
+#bz .journalInfo .pic {  width: 290px;}
+#bz .journalInfo .infobox { width:840px;}
+#bz .infobox ul { width:250px;}
+/*表格*/
+#bz .tableStyle .temp { *width:5%;  }
+#bz .tableStyle .name{ width: 39%; *width: 30%;}
+#bz .tableStyle .author{ width: 20%;}
+#bz .tableStyle .publisherCode{width:4%;}
+#bz .tableStyle .column{width: 15%; max-width: 128px; text-align:center; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;}
+#bz .tableStyle .yearTime { width: 13%; text-align:center;}
+#bz .tableStyle .downCount{ width: 8%; }
+#bz .contentbox .rArea{ width: 915px; /*font-family:Georgia, "Times New Roman", Times, serif;*/ }
+/*报纸 end===============*/
+
+/*报纸日期浏览*/
+.datelayer .yearlist{ display:block;width: 160px; margin-left:29px; padding:5px 20px 5px 20px; text-align:center;
+   padding:5px 0 5px 0\9\0;/*ie789*/
+   *margin-top:10px; /*ie7*/
+}
+.jcDate{ padding-left:30px; margin-top:30px;  }
+.jcDate li{ position:relative; zoom:1; width:160px; height:28px; clear:both; padding-left:5px; line-height:28px; font-size:14px; vertical-align:bottom;  *z-index:10;}
+.jcDate li h1.jcfirstcol{ display:block; /*position:relative;*/ width:145px; height:26px; padding-left:10px; border-left:2px solid #f7f7f7;line-height:26px; font-size:12px; font-weight:normal;  }
+.jcDate li h1:hover{ font-weight:bold ;color:#0765ab; text-decoration:none;}
+.jcDate li.select h1.jcfirstcol{ font-weight:bold; color:#0765ab; }
+.jcDate li:hover h1.jcfirstcol{ position:relative; z-index:998; height:22px; line-height:22px; color:#0765ab; font-weight:bold; border:2px solid #2375bc; border-right:0; background-color:#fff;}
+.jcDate ins{ position:absolute; top:10px; right:8px; float:right; display:block; width:7px; height:10px; background:url(../../../images/jticon.png) 0 center no-repeat; overflow:hidden; *top:4px; *height:17px; }
+.jcDate li .jcsecondcol{ display:none; position:absolute; z-index:997; top:0px; left:160px; width:700px; padding:10px; *z-index:20; background-color:#fff; border:2px solid #2375bc;
+         box-shadow:2px 2px 5px 1px #ccc;
+      -o-box-shadow:2px 2px 5px 1px #ccc;
+     -ms-box-shadow:2px 2px 5px 1px #ccc;
+    -moz-box-shadow:2px 2px 5px 1px #ccc;
+ -webkit-box-shadow:2px 2px 5px 1px #ccc;
+ }
+.jcDate li:hover .jcsecondcol{ display:block; }
+.jcDate dd{ float:left; width:70px; margin:0 30px 0 40px; font-size:12px; overflow:hidden; }
+.jcDate dd a{ color:#333; white-space:nowrap;}
+.jcDate dd.active a,
+.jcDate dd a:hover{color:#c00; font-weight:bold; /*color:#0765ab;*/ text-decoration:none;}
+/*报纸 end===============*/
+
+
+.loading {
+    margin-left: 367px;
+    position: fixed;
+    top: 345px;
+}
+
+/*年鉴 20161205 add */
+/*整刊在线浏览*/
+.online-preview .icon-preview { width: 28px; height: 18px; background-position: -21px -147px;}
+.online-preview a.preview{ color: #002b82; }
+
+.source-item h6.tit,
+.similar-yearbook h6.tit{  width: 169px;  height: 30px;  margin-bottom: 10px;  padding-left: 20px;  font-size: 14px;  font-family: "Microsoft Yahei";  line-height: 30px;  color: #fff;  background: url(../../../images/committee_tit_bg.png) no-repeat 0 0;  }
+
+.source-item .tableStyle{ table-layout: fixed; width: 100%; margin: 0 auto; border: 1px solid #ddd; }
+.source-item .tableStyle thead td{ line-height: 40px; }
+.source-item .temp{ width: 5%; }
+.source-item .name{ width: 40%; color:#333; }
+.source-item .volume{ width: 25%;}
+.source-item .source{ width: 20%;}
+.source-item .downCount{ width: 10%;}
+.source-item .tableStyle tbody tr { border: inherit; }
+
+.similar-yearbook{ margin-top: 30px; }
+.similar-yearbook li{ display: inline-block;  width: 31%;  margin-left: 2%;  line-height: 27px;}
+.similar-yearbook li{ *display: inline; }
+.similar-yearbook li a{display: block;  padding-left: 3%;  background: url(../../../images/icon-dot-gray3X3.jpg) 0 center no-repeat;  white-space: nowrap;  text-overflow: ellipsis;  overflow: hidden;}
+.source-item .downCount a:hover,
+.similar-yearbook li a:hover,
+.similar-yearbook li a:active{ color: #0077cb; }
+
+
+
+@charset "utf-8";
+/*--出版物检索之期刊检索 20151201--*/
+.clearfix{ clear:both;}
+.hidden{ display:none; visibility:hidden;}
+/*.bodymain{border-top:none;background-color:#f7f7f7;display:inline-block;}*/
+
+
+/*20170622 newadd start*/
+.s-datalistbox .cur dt{ text-align: center; }
+.s-datalistbox .cur dt:hover{ color: #333; }
+.s-datalistbox .cur dt:hover em{ color: #333; }
+.s-datalistbox .cur dt em{ margin: 6px 0; line-height: 18px; font-weight: normal; font-family:"microsoft yahei"; cursor: pointer; }
+.s-datalistbox .cur dt em+em{ padding-left: 20px; margin-left: 15px; border-left: 1px solid #333; }
+.s-datalistbox .cur dt em.on{ font-weight: bold; }
+.s-datalistbox .cur dt em:hover{ color: #0077cb; }
+
+.contentbox .rArea .date-list-Box .date-list .icon-shoufa{ display: inline-block; width: 31px; height: 27px; margin-top: -10px; margin-left: 5px; background: url("../../../images/cnkinewicon3.png") no-repeat; }
+.contentbox .rArea .date-list-Box,
+.contentbox .rArea .date-list-Box .date-list.hasicon{ overflow: visible; }
+/*20170622 newadd end*/
+
+/*期刊年度出版概况 分析图注释*/
+.chart-note{display: block;padding-left: 60px;margin-bottom: 15px;line-height: 1;font-weight: 600;}
+.indent2{text-indent: 26px;}
+
+
+/*期刊视频*/
+/*二级导航*/
+.sec-nav{height: 42px;}
+.sec-nav ul{ height: 42px; margin-left: 62px; }
+.sec-nav ul li{ float: left; height: 28px; line-height: 28px; margin: 0 42px 14px 0; }
+.sec-nav ul li a{ display: block; padding-left: 20px; font-size: 14px;color: #333333; background: url(../../../images/radio.png) no-repeat left center; }
+.sec-nav ul li.cur a{ color: #0062bd; background: url(../../../images/radio-on.png) no-repeat left center; }
+
+/*search-box2  检索 ========================*/
+.search-box2 { width: 456px; }
+.search-box2 .selectBox {  margin-right: 10px;  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;}
+.search-box2 .searchbox {  position: relative;  width: 200px;  height: 30px;  /* margin-right: 10px; */}
+.search-box2 .searchbox .fpacehd {  left: 5px;  width: 200px;  height: 30px;  line-height: 30px;  z-index: 10;}
+.search-box2 .searchTxt { position: absolute; top: 0; width: 265px; height: 30px; line-height: 30px\9; padding: 0px 30px 0 5px; background-color: #fff; -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;  _width: 295px;  _border: 0 none;  }
+.search-box2 .btn-search {  position: absolute;  top: 0;  left: 270px;  width: 30px;  height: 30px;  background-position: 3px -116px;}
+
+/* 会议导航 视频 */
+#hy{font-family: "MicrosoftYaHei";}
+.hy-hl-ul .hlu-item {width: 207px;float: left;margin: 0 8px 25px 8px;font-size: 13px;background-color: #fff;border-radius: 8px;transition: all .3s;box-shadow: 0 0 3px rgba(0,0,0,0.27);}
+.hy-hl-ul .hlu-item>a {display: block}
+.hy-hl-ul .hlui-top { position: relative; width: 100%; height: 125px; border-radius: 8px 8px 0 0; overflow: hidden; }
+.hy-hl-ul .hlu-item img { width: 100%;height: 100%;transition: all 0.3s cubic-bezier(0, 0.5, 0.5, 1) 0s;}
+.hy-hl-ul .mark2{ position: absolute; top: 10px; left: 5px; display: inline-block; min-width: 50px; text-align: center; padding: 4px 8px ; border-radius: 17px; background-color: rgba(0,0,0,.4); color: #fff; }
+.hy-hl-ul .hlui-bot { height: 55px; padding: 12px 10px 16px; border-radius: 0 0 8px 8px; }
+.hy-hl-ul .hlui-bot h3 { margin-bottom: 5px; font-size: 16px; font-weight: normal; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hy-hl-ul .mem-width { display: inline-block; max-width: 5.5em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hy-hl-ul .hlu-item:hover { box-shadow: 0 0 13px rgba(0,0,0,0.27); }
+.hy-hl-ul .hlu-item:hover img { transform: scale(1.1); }
+
+/* 期刊导航 视频 */
+.specialSub-list {margin-left: 15px;font-family: "MicrosoftYaHei";}
+.specialSub-list .item .pic{ position: relative; float: left; width: 246px; height: 138px; }
+.specialSub-list .item .pic img{ display: block; width: 246px; height: 138px; }
+.specialSub-list .item .pic .mark{ position: absolute; right: 2px; bottom: 3px;display: block; padding: 0 5px; color: #fff; background-color: #000000;  border-radius: 3px; }
+.specialSub-list .item .detail{position: relative;float: left;width: 575px;padding-left: 20px;height: 151px;overflow-y: auto;padding-right: 10px;}
+.specialSub-list dd{padding: 20px 25px 20px 0;}
+.specialSub-list h6{width: 540px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;padding-left: 26px;font-weight: normal;line-height: 26px;background: url(../../../images/video2.png) no-repeat left center;}
+.specialSub-list h6 a{ color: #000; font-size: 14px; }
+.specialSub-list h6 a:hover{ color: #53a2e3; }
+.specialSub-list .opts-info {color: #333;overflow: hidden;}
+.specialSub-list .opts-info li {float: left;height: 26px;line-height: 26px;margin-right: 27px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.specialSub-list .opts-info .author {width: 80px;}
+.specialSub-list .opts-info .org {width: 170px;}
+.specialSub-list .opts-info .subject {max-width: 230px;}
+.specialSub-list .opts-info .time {width: 140px;}
+.specialSub-list .opts-info .num {max-width: 200px;}
+.specialSub-list .opts-info em { margin: 0 5px; color: #2b86df; font-weight: bold; font-family: Arial; }
+.specialSub-list .wx-case p{ line-height: 24px; color: #888; overflow: hidden;white-space: nowrap;text-overflow: ellipsis; }
+.specialSub-list .wx-case .title{color: #000; }
+
+/*视频 主讲人*/
+#qk{font-family: "MicrosoftYaHei";}
+.contentbox .nolArea {float: none;width: 1137px;border: 1px solid #e4e4e4;background-color: #fff;}
+.contentbox .nolArea .listbox { border:none; }
+.no-content {height: 45px;padding-top: 240px;font-size: 14px;text-align: center;clear: both;background: url(../../../images/norecommend.jpg) no-repeat top center;
+}
+.relevant-info { margin: 0 58px; font-weight: normal; font-size: 14px; height: 26px; line-height: 38px; color: #000; border-bottom: 1px dashed #e4e4e4; }
+.relevant-info span{ padding-right: 5px; background-color: #fff; }
+.relevant-info a{ color: #256fc1; }
+.list-content-expert { padding: 35px 58px 15px;}
+.list-content-expert .con{position: relative;display: inline-block;width: 110px;padding: 0px 0 18px 0;background:transparent;box-shadow:none;margin-right:0;height:auto;vertical-align: top;min-height: 110px;}
+.list-content-expert .con a{  display: block; width: 110px; }
+.list-content-expert .con .name{ position: relative; top:-6px; margin: 0 auto 2px; color: #2284df; text-align:center; width: 65px; height: 18px; line-height: 19px;  background-color: #ffffff;  border: 1px solid #2284df; border-radius: 10px;}
+.list-content-expert .con .name a{  width: auto; }
+.list-content-expert img{ display:block; width: 60px; height: 60px; margin:0 auto; box-shadow: 0 2px 4px #b4b4b4; border-radius: 50%;}
+.list-content-expert .con .title{color:#666;text-align: center;padding: 0 7px;width: 110px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.list-content-expert a.cur{position: absolute;top: -10px;left: 0px;}
+.list-content-expert a.cur img{width: 72px;height: 72px;border: 1px solid #2284df;}
+.list-content-expert a.cur .name{ top:-10px; margin-bottom: -2px; }
+.contentbox .listbox-nobor {border: none;}
+.nolArea .specialSub-list {margin-left: 50px;}
+.nolArea .specialSub-list .item .detail{ width: 766px;}
+.nolArea .specialSub-list h6{width: 725px;}
+.contentbox .no-minHeight {min-height: inherit;}
+
+/* 期刊增强出版新增样式 */
+.titbox1{width: 280px;}
+.journalType1{width: 270px;margin-right: 30px;}
+.journalType2{width: 280px;}
+.journalInfo .journalType1 b{background:url(../../../images/addiconone.png) 0 0 no-repeat;}
+.journalInfo .journalType1 b.gkfx{background-position: 0 0;}
+.journalInfo .journalType1 b.wrsf{background-position: 0 -19px;}
+.journalInfo .journalType1 b.zqcb{background-position: 0 -38px;}
+.journalInfo .journalType1 b.comOA{background-position: 0 -75px;}
+.journalInfo .journalType1 b.mixOA{background-position: 0 -95px;}
+.journalInfo .journalType1 b.sjlwcb{background-position: 0 -58px;}
+
+
+.research .rekeyword, .research .reopt {
+  box-sizing: initial !important;
+}
+
+
+
+.LeftPic1 {
+  background: #ffffff url(../../../images/leftpic1bg.gif) repeat scroll center bottom;
+  margin: 10px auto;
+  width: 208px;
+}
+
+.LeftPic1 p {
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  min-height: 50px;
+  padding: 15px 15px 20px;
+  text-align: center;
+}

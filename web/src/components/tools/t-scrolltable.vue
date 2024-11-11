@@ -13,12 +13,15 @@
 //const route = useRoute() //当前路由
 
 import { reactive } from 'vue';
-import scroll from "./scroll.vue"
+// import scroll from "./scroll.vue"
 const router = useRouter() //全局路由对象
 const props = defineProps(['data', "columus", "media_type"]); // defineProps的参数, 可以直接使用
 //const emits = defineEmits(['onclick']); // emits 触发父组件函数
 //const map = ref(null); //获取ref值为map的元素
 //defineExpose({ map,}); //暴露组件的内容, 父组件通过组件对象(如ref)的value获取暴露的对象
+
+console.log(props.columus, props.data)
+
 const columnss = reactive([
     {
         key: "name",
@@ -32,83 +35,11 @@ const columnss = reactive([
         flex: "1",
 
     },
-    {
-        key: "address",
-        label: "地址",
-        flex: "2",
-
-    },
 ])
 const tableData = [
     {
         date: '2016-05-03',
         name: 'Tom',
-        address: '---------------------------',
-    },
-    {
-        date: '2016-05-02',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-04',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-01',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-08',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-06',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-07',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-03',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-02',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-04',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-01',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-08',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-06',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-07',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
     },
 ]
 console.log(props)
@@ -116,32 +47,34 @@ console.log(props)
 <template>
     <div class="scroll-table">
         <div class="scroll-table-head">
-            <div class="scroll-table-cell" v-for="i in columus" :style="{ flex: i?.flex ?? '1' }">{{ i.label }}
+            <div class="scroll-table-cell" v-for="j in columus" :style="{ flex: j?.flex ?? '', textAlign: j?.align ?? 'center' ,width: j?.width ?? 'auto'}">
+                {{ j.label }}
             </div>
         </div>
         <div class="scroll-table-body">
-            <scroll style="height: 100%;">
+            <t-scroll style="height: 100%;">
                 <div>
                     <div :class="index % 2 == 0 ? 'scroll-table-body-line even' : 'scroll-table-body-line odd'"
                         v-for="i, index in data">
-                        <div class="scroll-table-body-line-detail"
+                        <!-- <div class="scroll-table-body-line-detail"
                             @click="router.push({ name: 'single', query: { id: i.id, media_type: media_type } })">
                             <el-button icon="Search" circle class="w10px h10px" />
-                        </div>
-                        <div class="scroll-table-cell" v-for="j in columus" :style="{ flex: j?.flex ?? '1' }">
+                        </div> -->
+                        <div class="scroll-table-cell" v-for="j in columus" :style="{ flex: j?.flex ?? '', textAlign: j?.align ?? 'left' ,width: j?.width ?? 'auto'}">
                             <span v-if="j?.key == 'index'">
                                 {{ index + 1 }}
                             </span>
                             <div class="roll" v-if="j?.roll">
-                                {{ i[j.key] }}
+                                <a :href="j.url(i)" v-if="j?.url" style="color: white;" target="_blank">{{ j?.shift ? j.shift(i[j.key]) : i[j.key]}}</a>
+                                <span v-else>{{ j?.shift ? j.shift(i[j.key]) : i[j.key]}}</span>
                             </div>
                             <span v-else>
-                                {{ i[j.key] }}
+                                {{ j?.shift ? j.shift(i[j.key]) : i[j.key]}}
                             </span>
                         </div>
                     </div>
                 </div>
-            </scroll>
+            </t-scroll>
         </div>
     </div>
 </template>
@@ -162,7 +95,7 @@ console.log(props)
             overflow: hidden;
             text-align: center;
             white-space: nowrap;
-            padding: var(--cell-padding);
+            // padding: var(--cell-padding);
             font-size: 16px;
             height: var(--height-head);
             line-height: var(--height-head);

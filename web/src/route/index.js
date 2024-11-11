@@ -35,6 +35,22 @@ const router = createRouter({
       meta: { title: "首页", animate: "animate__fadeIn" },
       children: [],
     },
+    {
+      path: "/journals",
+      name: "journals",
+      component: () => import("../views/front/journals.vue"),
+      meta: { title: "学报", animate: "animate__fadeIn" },
+      children: [
+      ],
+    },
+    {
+      path: "/platform",
+      name: "platform",
+      component: () => import("../views/front/platform.vue"),
+      meta: { title: "平台", animate: "animate__fadeIn" },
+      children: [
+      ],
+    },
   ],
 });
 export default router;
